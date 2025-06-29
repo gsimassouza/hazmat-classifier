@@ -1,0 +1,298 @@
+{"product_id": "MLB29523289", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB34230359", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB15904595", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26801865", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB22522670", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB18953767", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25889762", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB41107171", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB22508518", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23546531", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB44809994", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19582938", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26982962", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB32459667", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28802006", "is_hazmat": true, "reason": "The product contains 'alcohol-based' ink. Alcohol is a flammable liquid, which falls under Class 3: Flammable Liquids, as per the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB26213618", "is_hazmat": true, "reason": "The product contains 'alcohol-based' ink. Alcohol is a flammable liquid, which falls under Class 3: Flammable Liquids, as per the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB23184971", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB42889365", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26709638", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB37141735", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27582554", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24332368", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25567485", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24153905", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB31402381", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19428257", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB41210619", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29529205", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB22538509", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB43417070", "is_hazmat": true, "reason": "This is a smartphone, which contains a lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB39294447", "is_hazmat": true, "reason": "This is a smartphone, which contains a lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB17332924", "is_hazmat": true, "reason": "This smartphone contains a 'Íon de lítio' (Lithium-ion) battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB16141536", "is_hazmat": true, "reason": "This smartphone contains a 'Polímero de lítio' (Lithium polymer) battery, which is a type of lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB42261814", "is_hazmat": true, "reason": "This smartphone contains a 'Polímero de lítio' (Lithium polymer) battery, which is a type of lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB29900261", "is_hazmat": true, "reason": "This smartphone contains a 'Íon de lítio' (Lithium-ion) battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB39445873", "is_hazmat": true, "reason": "This is a cell phone, which implicitly contains a lithium-ion or lithium-polymer battery. These batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB19473366", "is_hazmat": true, "reason": "This cell phone contains a 'Íon de lítio' (Lithium-ion) battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB39445146", "is_hazmat": true, "reason": "This smartphone contains a 'Polímero de lítio' (Lithium polymer) battery, which is a type of lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+{"product_id": "MLB22340038", "is_hazmat": true, "reason": "This smartphone contains a 'Polímero de lítio' (Lithium polymer) battery, which is a type of lithium-ion battery. Lithium-ion batteries are classified as miscellaneous hazardous substances (Class 9) due to potential fire or explosion risk, especially during transport.", "confidence": "high"}
+
+
+{"product_id": "MLB17772671", "is_hazmat": true, "reason": "Contains a Lithium-ion battery, which is considered a flammable material due to its electrolyte. This aligns with the definition of a Hazmat as a substance posing a risk due to being flammable.", "confidence": "high"}
+{"product_id": "MLB15698680", "is_hazmat": true, "reason": "Contains a Lithium-ion battery, which is considered a flammable material due to its electrolyte. This aligns with the definition of a Hazmat as a substance posing a risk due to being flammable.", "confidence": "high"}
+{"product_id": "MLB16092738", "is_hazmat": true, "reason": "Contains a Lithium Polymer battery (a type of Lithium-ion battery), which is considered a flammable material due to its electrolyte. This aligns with the definition of a Hazmat as a substance posing a risk due to being flammable.", "confidence": "high"}
+{"product_id": "MLB37912034", "is_hazmat": true, "reason": "As a smartphone, it is highly probable that it contains a Lithium-ion battery, which is considered a flammable material due to its electrolyte. This aligns with the definition of a Hazmat as a substance posing a risk due to being flammable.", "confidence": "medium"}
+{"product_id": "MLB45519069", "is_hazmat": true, "reason": "Contains a Lithium Polymer battery (a type of Lithium-ion battery), which is considered a flammable material due to its electrolyte. This aligns with the definition of a Hazmat as a substance posing a risk due to being flammable.", "confidence": "high"}
+{"product_id": "MLB23892958", "is_hazmat": false}
+{"product_id": "MLB50517407", "is_hazmat": false}
+{"product_id": "MLB35333415", "is_hazmat": true, "reason": "Contains a gas piston, which implies the presence of compressed gas (likely nitrogen). Compressed gases are explicitly mentioned as Hazmat under Class 2: Gases, such as 'Nitrogen, Neon, Carbon dioxide: Non-flammable gases'.", "confidence": "high"}
+{"product_id": "MLB49825352", "is_hazmat": false}
+{"product_id": "MLB16034205", "is_hazmat": false}
+{"product_id": "MLB20816276", "is_hazmat": false}
+{"product_id": "MLB22385791", "is_hazmat": false}
+{"product_id": "MLB21856408", "is_hazmat": false}
+{"product_id": "MLB45551240", "is_hazmat": false}
+{"product_id": "MLB51220066", "is_hazmat": false}
+{"product_id": "MLB27349665", "is_hazmat": false}
+{"product_id": "MLB27773777", "is_hazmat": false}
+{"product_id": "MLB24720569", "is_hazmat": false}
+{"product_id": "MLB19734695", "is_hazmat": false}
+{"product_id": "MLB27802484", "is_hazmat": false}
+
+
+{"product_id": "MLB25826610", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24718668", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27407168", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37368492", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25684831", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27421823", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27470234", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26095215", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB34958387", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25725611", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB32376102", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19530955", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47135251", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45475084", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45774405", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB44925299", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27282185", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB38312514", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB44412156", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27503333", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB43827667", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35699055", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB36796264", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27132862", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB39321791", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB31404732", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45013294", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37939350", "is_hazmat": true, "reason": "Contains a Lithium-ion battery, which is classified as a hazardous material due to its flammability and potential for fire/explosion risk.", "confidence": "high"}
+{"product_id": "MLB21555367", "is_hazmat": true, "reason": "Contains a Lithium-ion battery, which is classified as a hazardous material due to its flammability and potential for fire/explosion risk.", "confidence": "high"}
+{"product_id": "MLB45848925", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25419250", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28573881", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35707124", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25860027", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27802117", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21502382", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB33826754", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24705393", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB30102151", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27253596", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB29233114", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27828448", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47101006", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35712627", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24705400", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB36436855", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24123223", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37108048", "is_hazmat": true, "reason": "Contains Isopropyl alcohol (Ál-cool Isopropílico 99,8%), which is a flammable liquid (Class 3 Hazmat).", "confidence": "high"}
+{"product_id": "MLB22437501", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB42440625", "is_hazmat": true, "reason": "Contains R-32 (difluoromethane) as a refrigerant, which is classified as a flammable gas (Class 2 Hazmat).", "confidence": "high"}
+{"product_id": "MLB27437643", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21501624", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26926477", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19466406", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21833953", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB34181665", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB42440645", "is_hazmat": true, "reason": "Contains R-32 (difluoromethane) as a refrigerant, which is classified as a flammable gas (Class 2 Hazmat).", "confidence": "high"}
+{"product_id": "MLB25088337", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB30429027", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB17919629", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB17457283", "is_hazmat": true, "reason": "Disinfectants, such as Lysoform, often contain chemical substances that can be corrosive or toxic if ingested or come into contact with skin or eyes, aligning with Class 6 (Toxic substances) or Class 8 (Corrosive substances) of the Hazmat definition.", "confidence": "medium"}
+{"product_id": "MLB40677183", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB31756313", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB25587010", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26462458", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26462436", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB30934578", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB6099964", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB41496145", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB30479862", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB6098706", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37728549", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24144362", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB43583935", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26901797", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23557714", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB36176329", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21618436", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21706382", "is_hazmat": true, "reason": "Projectors often utilize lamps (e.g., mercury vapor lamps) that contain toxic substances like mercury. Mercury is classified as a toxic substance (Class 6).", "confidence": "medium"}
+{"product_id": "MLB22327285", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB23480642", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23297961", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB49611710", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23218285", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47595411", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB46836439", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47404276", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21720505", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB40359906", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23537280", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB15133915", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26997551", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB14139341", "is_hazmat": true, "reason": "This is a perfume ('Eau de cologne') and the attribute 'É livre de álcool: Não' indicates it contains alcohol, which is a flammable liquid. Therefore, it is classified as a Class 3 Flammable Liquid.", "confidence": "high"}
+{"product_id": "MLB16131333", "is_hazmat": true, "reason": "This is a perfume ('Eau de parfum') and the attribute 'É livre de álcool: Não' indicates it contains alcohol, which is a flammable liquid. Therefore, it is classified as a Class 3 Flammable Liquid.", "confidence": "high"}
+{"product_id": "MLB29265181", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19515198", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19721577", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29671258", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24745227", "is_hazmat": true, "reason": "This is a perfume ('Eau de parfum') and the attribute 'É livre de álcool: Não' indicates it contains alcohol, which is a flammable liquid. Therefore, it is classified as a Class 3 Flammable Liquid.", "confidence": "high"}
+{"product_id": "MLB21467314", "is_hazmat": true, "reason": "This is a 'Desodorante Colonia' (deodorant cologne/perfume). Products of this type, especially those not explicitly labeled as alcohol-free, typically contain alcohol which is a flammable liquid. Therefore, it is classified as a Class 3 Flammable Liquid.", "confidence": "medium"}
+
+
+{"product_id": "MLB20561586", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB42085162", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21623169", "is_hazmat": true, "reason": "Colognes (Eau de cologne) typically contain alcohol, classifying them as Class 3 Flammable Liquids, which are substances that pose a risk due to their flammability.", "confidence": "high"}
+{"product_id": "MLB19880004", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB22308785", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27407127", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47636603", "is_hazmat": true, "reason": "The product is a security camera explicitly stated to be 'Alimentadas Por Bateria' (Battery Powered). Electronic devices powered by batteries, especially those without specific battery type (implying common lithium-ion), are classified as Class 9 Miscellaneous Hazardous Substances due to the potential fire risk associated with lithium batteries during transport.", "confidence": "high"}
+{"product_id": "MLB22823177", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45522088", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29025939", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28785375", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28955788", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47596790", "is_hazmat": true, "reason": "The product is a security camera explicitly stated to be 'Alimentadas Por Bateria' (Battery Powered). Electronic devices powered by batteries, especially those without specific battery type (implying common lithium-ion), are classified as Class 9 Miscellaneous Hazardous Substances due to the potential fire risk associated with lithium batteries during transport.", "confidence": "high"}
+{"product_id": "MLB48140706", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21576331", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23760821", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19271931", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28574077", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB50368081", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB50586621", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB47183371", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB38277708", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19728722", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28560255", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28769719", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB9551917", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24507895", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21017959", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB32449513", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB47599875", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24059768", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29641349", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24633567", "is_hazmat": true, "reason": "This is a cordless power tool, indicated by 'É sem fio': 'Sim'. Cordless tools typically contain rechargeable batteries (e.g., Lithium-ion), which are classified as hazardous materials due to potential fire or explosion risk if damaged, short-circuited, or improperly handled, falling under flammable solids or hot materials.", "confidence": "medium"}
+{"product_id": "MLB45980565", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB38370104", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45062448", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB46016983", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23006941", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27283520", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28799890", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB39941471", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24957137", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB39959978", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB44800173", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19158375", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35766503", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37863041", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB48895736", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB20564516", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB6117456", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37108048", "is_hazmat": true, "reason": "The product contains 'Ál-cool Isopropílico 99,8%', which is Isopropyl Alcohol. This is a flammable liquid and falls under Class 3: Flammable Liquids, as it can ignite on contact with an ignition source.", "confidence": "high"}
+{"product_id": "MLB37691049", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB24916659", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB42684899", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB43816702", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB17332924", "is_hazmat": true, "reason": "The product is a smartphone containing a 'Tipo de bateria: Íon de lítio' (Lithium-ion battery). Lithium-ion batteries are considered hazardous materials due to their potential to pose a fire risk (flammable characteristic) under certain conditions, which aligns with the general definition of a Hazmat as a substance that poses a risk to safety or property.", "confidence": "medium"}
+{"product_id": "MLB20640252", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB21896128", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45623213", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB26661589", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB39936557", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45785346", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB50309781", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29044357", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27750249", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23799902", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19904380", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB36619884", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35563033", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28753485", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB46511713", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23072370", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB43264783", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB22868924", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB38934678", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB36479661", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37759255", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB39152143", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB43057072", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB35235611", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB34133094", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB29396149", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27409261", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB44520000", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB23125489", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28509149", "is_hazmat": true, "reason": "The product is a 'paint renovator' or 'sealant' for automotive use, which are chemical products. These often contain solvents or other chemical substances that can be flammable, corrosive, or toxic, falling under Class 3 (Flammable Liquids) or Class 6 (Toxic Substances) of the Hazmat definition.", "confidence": "medium"}
+{"product_id": "MLB24358153", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB27409339", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB37478206", "is_hazmat": true, "reason": "The product is 'Graxa Grafitada' (Graphited Grease) with a 'Lítio' (Lithium) base. Greases are typically petroleum-based products containing combustible or flammable components, similar to kerosene or diesel fuel, which are classified as Class 3 (Flammable Liquids) in the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB30466499", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB30709222", "is_hazmat": true, "reason": "The product is a 'Selante Para Vedar Vazamento Radiador' (Radiator Leak Sealant), which is a chemical liquid. Sealants can contain substances (e.g., glycols, solvents) that are corrosive, toxic, or flammable, posing a risk to health or safety, aligning with Class 3 (Flammable Liquids), Class 6 (Toxic Substances), or Class 8 (Corrosive Substances) of the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB37162732", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB46006340", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB20641188", "is_hazmat": true, "reason": "The product title indicates it is a 'Limpador' (cleaner) in a 500ml volume. Cleaners are chemical products that can contain substances that are corrosive, flammable, or toxic, which would classify them under Class 3 (Flammable Liquids), Class 6 (Toxic Substances), or Class 8 (Corrosive Substances) of the Hazmat definition.", "confidence": "medium"}
+{"product_id": "MLB22244333", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB46556689", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45507454", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB40212837", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19202572", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19234942", "is_hazmat": false, "reason": null, "confidence": null}
+
+
+{"product_id": "MLB19264394", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB48891205", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB45060393", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19224187", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19797716", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB41892046", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB20945176", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19677157", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19188891", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB32539030", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB28957358", "is_hazmat": false, "reason": null, "confidence": null}
+{"product_id": "MLB19535815", "is_hazmat": false, "reason": null, "confidence": null}
+

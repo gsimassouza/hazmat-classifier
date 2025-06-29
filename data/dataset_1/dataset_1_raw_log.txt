@@ -1,0 +1,222 @@
+Batch 1:
+**Reasoning Process:**
+
+I will analyze each product based on the provided Hazmat definition, which classifies substances posing risks to health, safety, property, or the environment due to characteristics such as being radioactive, flammable, explosive, corrosive, oxidizing, asphyxiating, biohazardous, toxic, poisonous, pathogenic, allergenic, or compressed gases/liquids or hot materials. I will also refer to the provided examples of Hazmat and non-Hazmat goods and the key classification principles.
+
+For each product, I will determine if it falls into any of the nine Hazmat classes or if it aligns with the "HAZMAT Indicators." If it does not, I will check if it aligns with the "NON-HAZMAT Indicators" or general categories of non-hazardous items.
+
+1.  **MLB29523289 - Base Estrela Secretaria Em Aço C/ Rodízios E Capa Plástica**: This is a component of an office chair, made of steel and plastic. These materials, in this form, do not possess any hazardous characteristics like flammability, toxicity, corrosivity, etc., as defined. It falls under the general category of "Furniture & Home Goods," which is listed as non-Hazmat.
+    *   **Classification**: Non-Hazmat.
+
+2.  **MLB34230359 - Escrivaninha Office Nt2105 Notável Móveis Cor Freijó Trend**: This is an office desk made of MDP (Medium Density Particleboard). Furniture items, especially those made of wood-based materials like MDP, are not classified as Hazmat. It is explicitly covered by the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+3.  **MLB15904595 - Cadeira de Escritório Mymax Gamer MX5 Cor Preto**: This is a gaming office chair made of synthetic fabric, metal, and foam. These materials, in the context of a finished furniture product, do not present any Hazmat characteristics. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+4.  **MLB26801865 - Marmita Dupla Camada Á Prova De Vazamento Imediato**: This is a plastic lunch box. It is a common household/office item and does not contain any substances or properties listed in the Hazmat definition. It falls under "Home Goods".
+    *   **Classification**: Non-Hazmat.
+
+5.  **MLB22522670 - Cadeira de escritório TGTTGT-OFC-001 TGT ergonômica preta com estofado de malha**: This is an ergonomic office chair made of mesh, steel, and foam. Similar to other chairs, its materials and form do not present any Hazmat properties. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+6.  **MLB18953767 - Escrivaninha Tecno Mobili ME4116 mdp de 1.573m x 745mm x 600mm x 1573mm preto BP**: This is an L-shaped desk made of MDP. As a furniture item made of wood-based material, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+7.  **MLB25889762 - Stark Mesa Pc Gamer Escrivaninha Notebook 1 Gaveta para Escritorio Quarto Pequena Bcg Cor Preto**: This is a gaming/notebook desk made of MDP. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+8.  **MLB41107171 - Kit 2 Cadeiras Esteirinha Interlocutor Secretária Pés Fixos Cor Preto**: This is a kit of two office chairs made of synthetic leather, metal, and foam. As furniture items, they are not Hazmat. They fall under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+9.  **MLB22508518 - Escrivaninha Com Gaveta Ofertamo Compact Not 70cm Off White**: This is a compact desk with a drawer, made of MDF. As a furniture item made of wood-based material, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+10. **MLB23546531 - Câmera Segurança Tomada 360 Wifi Ip Full Hd Visão Noturna**: This is a complete electronic device (security camera). The Hazmat definition explicitly lists "Complete electronic devices (phones, computers)" as non-Hazmat. There is no indication of separate batteries (which can be Hazmat if sold separately), hazardous chemicals, or other specific Hazmat characteristics.
+    *   **Classification**: Non-Hazmat.
+
+11. **MLB44809994 - Estante Para Livros Industrial Livreiro Com Prateleiras De Madeira E Estrutura De Ferro Design Moderno Para Escritório Mod: Etranger 3.0**: This is a bookshelf made of wood and iron. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+12. **MLB19582938 - Cadeira De Escritório Presidente Cor Branco Ergonômica Executiva Giratória Acabamento em Couro Sintético e Madeira Premium Fratini Kopenhagen**: This is an executive office chair made of synthetic leather, wood, and foam. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+13. **MLB26982962 - Escrivaninha Up Home Decor Industrial mdp de 120m x 75cm x 53cm branco Fosco**: This is an industrial-style desk made of MDP and iron. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+14. **MLB32459667 - Etiqueta Impressora A4 38,1 X 21,2mm 100 Fls Ca4351 Colacril Cor Branco**: These are A4 printer labels made of adhesive paper. Paper and basic office supplies are listed as non-Hazmat. The adhesive is not described as hazardous. It falls under the "Office Supplies" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+15. **MLB30185053 - Armário Aéreo Escritório Com Nicho Prateleira 120cm Madesa B Cor Branco MDFC01000209**: This is an overhead office cabinet made of MDP. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+16. **MLB24720569 - Mesa Escrivaninha Fit 4 Prateleiras Preto - Art Panta**: This is a desk with four shelves, made of steel and MDF. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+17. **MLB28853675 - Porta Caneta Organizador De Mesa 7 Divisões Dello Cor Cristal**: This is a desk pen organizer. It is a basic office supply and does not possess any hazardous characteristics. It falls under the "Office Supplies" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+18. **MLB26115411 - Cadeira Mocho C/ Encosto Giratório Massagista Plus Evolux Cor Preto**: This is a swivel massage stool/chair made of metal and foam. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+19. **MLB23369142 - Escrivaninha Mesa De Canto 3 Gavetas Lisboa Madesa Branca Cor Branco 693909**: This is an L-shaped corner desk with three drawers, made of MDP. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+20. **MLB36257257 - Conjunto Escritório Mesa E Armário Office Berlin - Vianossa Cor Preto/naturale**: This is an office desk and cabinet set made of MDP. As furniture items, they are not Hazmat. They fall under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+21. **MLB32810690 - Papel Toalha Interfolha - 2.000 Folhas**: This is paper towel. Paper products are not Hazmat. It falls under "Office Supplies" (or general home goods) in the non-Hazmat examples.
+    *   **Classification**: Non-Hazmat.
+
+22. **MLB25742022 - Mesa Escrivaninha Art Ii 4 Prateleiras Olmo/branco - Artany Cor Marrom**: This is a desk with four shelves. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+23. **MLB29739624 - Cadeira de escritório Python Fly XHOCB07 ergonômica branca e cinza com estofado de malha**: This is an ergonomic office chair made of mesh, plastic, and foam. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+24. **MLB32418329 - Mesa P/ Escritório Diretor Estilo Industrial 120x60 Ajl Cor Preto**: This is an industrial-style director's desk made of MDF/MDP and metal. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+25. **MLB21905964 - Cadeira Caixa Alta Rodízio Urban Office Balcão Recepção Preta 1 unidade**: This is a high-chair with casters for office/reception, made with foam and metal. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+26. **MLB24144090 - Armário Aço Escritório Fechadura 4 Prateleiras Ea301 Cinza Cor Cinza Cristal**: This is a steel office cabinet with a lock. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+27. **MLB47912202 - Lixeira Com Pedal Cozinha Banheiro Cesto Removível 3l Preto**: This is a pedal bin (trash can) made of stainless steel. It is a common home good and does not contain any substances or properties listed in the Hazmat definition. It falls under "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+28. **MLB45509030 - Escrivaninha Mesa Escritório Dobrável Industrial Slim Notebook Romero**: This is a foldable industrial-style desk made of steel, BP, and MDP. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+29. **MLB24086665 - Kit 03 Pendentes Vegas Preto Fosco Com Cobre Linha Srp Estrutura Preto Fosco/Bronze**: This is a kit of three pendant light fixtures made of aluminum. As complete electrical fixtures, they are not Hazmat. The Hazmat definition lists "Complete electronic devices" as non-Hazmat, and this product fits that general category of finished consumer electronics/appliances, not raw hazardous materials or components.
+    *   **Classification**: Non-Hazmat.
+
+30. **MLB44079111 - Mesa De Canto Em L Cor Preto Para Escritório Ou Home Office - Design Contemporâneo Com Amplo Espaço De Trabalho**: This is an L-shaped corner desk made of MDP, metal, and wood. As a furniture item, it is not a Hazmat. It falls under the "Furniture & Home Goods" non-Hazmat indicator.
+    *   **Classification**: Non-Hazmat.
+
+```json
+[
+  {
+    "product_id": "MLB29523289",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB34230359",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB15904595",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB26801865",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB22522670",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB18953767",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25889762",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB41107171",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB22508518",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB23546531",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB44809994",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB19582938",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB26982962",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB32459667",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB30185053",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24720569",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB28853675",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB26115411",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB23369142",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB36257257",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB32810690",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25742022",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB29739624",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB32418329",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB21905964",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24144090",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB47912202",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB45509030",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24086665",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB44079111",
+    "is_hazmat": false
+  }
+]
+```
+

@@ -1,0 +1,68 @@
+# Separating hazmat classifier prompt in two due to Gemini 2.5 Lite forgetting some required tags (<think> or <jsonl>) in the output:
+
+Prompt: separate this prompt in two: one for the analysis, and another for creating the json based on the response to the first prompt (keep the overall guidelines)
+
+FROM:
+hazmat_classifier_system_msg = f"""
+You are a domain-expert Hazmat classifier. Your task is to classify products as Hazmat or not based on the definition provided between <hazmat_definition> tags.
+
+Before answering, you must output your thinking process between <think> tags.
+
+The final answer must be a jsonl structure, located between <jsonl> tags, with each line following this schema (one line per product): <json_schema>{HazmatClassification.model_json_schema()}</json_schema>.
+
+Hazmat definition: <hazmat_definition>{hazmat_def}</hazmat_definition>
+
+Guidelines:
+- For the tag <think>: You must output your thinking process before the final answer.
+- For the tag <jsonl>: The final answer must be a valid jsonl structure, with each line following the schema provided.
+- Always refer to the Hazmat definition to address the classification. Do not suppose anything. If not certain of the classification, output as hazmat with lower confidence.
+- Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
+"""
+
+TO: 
+hazmat_analysis_prompt = f"""
+You are a domain-expert Hazmat classifier. Your task is to analyze the products below and determine, for each, if it is Hazmat or not, based on the definition provided between <hazmat_definition> tags.
+
+Before answering, you must output your thinking process between <think> tags.
+
+Hazmat definition: <hazmat_definition>{hazmat_def}</hazmat_definition>
+
+Guidelines:
+- For the tag <think>: You must output your thinking process before the final answer.
+- Always refer to the Hazmat definition to address the classification. Do not suppose anything. If not certain of the classification, output as hazmat with lower confidence.
+- Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
+"""
+
+hazmat_json_prompt = f"""
+You are a domain-expert Hazmat classifier. Based on the analysis and thinking process provided between <think> tags, output the final answer as a jsonl structure, located between <jsonl> tags, with each line following this schema (one line per product): <json_schema>{HazmatClassification.model_json_schema()}</json_schema>.
+
+Guidelines:
+- For the tag <jsonl>: The final answer must be a valid jsonl structure, with each line following the schema provided.
+- Always refer to the Hazmat definition to address the classification. Do not suppose anything. If not certain of the classification, output as hazmat with lower confidence.
+- Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
+"""
+
+Follow-up prompt: the first prompt do not need to output tags (remove think tag from both). However, the first prompt must know the content of the json schema, because it contains important information about what is needed in the analysis. The second is just a json extractor, in the case of the first prompt outputting not a json, but only natural text
+
+Answer:
+hazmat_classifier_system_msg = f"""
+You are a domain-expert Hazmat classifier. Your task is to analyze the products below and determine, for each, if it is Hazmat or not, based on the definition provided between <hazmat_definition> tags.
+
+You must base your analysis on the following JSON schema, which describes the required analysis for each product in the fields:
+<json_schema>{HazmatClassification.model_json_schema()}</json_schema>
+
+Hazmat definition: <hazmat_definition>{hazmat_def}</hazmat_definition>
+
+Guidelines:
+- Always refer to the Hazmat definition to address the classification. Do not suppose anything. If not certain of the classification, output as hazmat with lower confidence.
+- Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
+"""
+
+hazmat_json_extractor_system_msg = f"""
+You are a domain-expert Hazmat classifier. Based on the analysis below, extract and output the final answer as a jsonl structure, located between <jsonl> tags, with each line following this schema (one line per product): <json_schema>{HazmatClassification.model_json_schema()}</json_schema>.
+
+Guidelines:
+- For the tag <jsonl>: The final answer must be a valid jsonl structure, with each line following the schema provided.
+- If not certain of the classification, output as hazmat with lower confidence.
+- Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
+"""
