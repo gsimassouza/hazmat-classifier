@@ -1,0 +1,417 @@
+Batch 3:
+
+The user wants me to classify a list of products as Hazmat or not, based on the provided `<hazmat_definition>`. I need to analyze each product's title and attributes to identify any hazardous characteristics mentioned in the definition.
+
+Here's my thought process for each product:
+
+1.  **MLB29233114 - Conjunto Travel System Mobi Ts Trio Black & Silver:**
+    *   **Title/Attributes:** "Carrinho 3 Rodas Em Alumínio Com Moisés + Bebê Conforto One Safe", materials like "Alumínio PU EVA Poliéster e PP".
+    *   **Hazmat Check:** These are common materials for baby products and do not inherently possess characteristics like being explosive, flammable, toxic, corrosive, radioactive, or compressed gases.
+    *   **Conclusion:** Not a Hazmat.
+
+2.  **MLB27828448 - Carrinho de Bebê Cosco Kids, Toffy, Cinza Mescla:**
+    *   **Title/Attributes:** "Carrinho de Bebê", materials like "Ferro e Polipropileno".
+    *   **Hazmat Check:** Similar to the previous stroller, made of standard, non-hazardous materials.
+    *   **Conclusion:** Not a Hazmat.
+
+3.  **MLB47101006 - Utileira® Tapete Tatame Infantil Emborrachado Dobrável Dupla Face Bebê Atividades:**
+    *   **Title/Attributes:** "Tapete Tatame Infantil Emborrachado". No specific hazardous materials mentioned.
+    *   **Hazmat Check:** An "emborrachado" (rubberized) mat is a common consumer item and does not typically pose hazmat risks.
+    *   **Conclusion:** Not a Hazmat.
+
+4.  **MLB35712627 - Tapete Infantil Emborrachado Sensorial Dobrável Dupla Face Educativo Cidade I Love Baby:**
+    *   **Title/Attributes:** "Tapete Infantil Emborrachado".
+    *   **Hazmat Check:** Same reasoning as the previous mat. No hazardous characteristics.
+    *   **Conclusion:** Not a Hazmat.
+
+5.  **MLB24705400 - Kit Cuidados Com O Bebê Com Estojo 9 Unidades Azul Buba:**
+    *   **Title/Attributes:** "Kit Cuidados Com O Bebê", materials like "Borracha termoplástica, Náilon Aço, Aço inoxidável, Acrilonitrila, Butadieno, Estireno Folha de Lixa". Importantly, "É tóxico: Não" (Is toxic: No).
+    *   **Hazmat Check:** The attributes explicitly state it is not toxic. The materials are common and non-hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+6.  **MLB36436855 - Tapete de Atividades Para Bebê Piano Play Funny Dino Maxi Baby:**
+    *   **Title/Attributes:** "Tapete de Atividades Para Bebê Piano Play". Includes "Luz e som", implies electronic components, but no specific hazardous materials.
+    *   **Hazmat Check:** A baby activity mat with lights and sounds is a consumer toy. While it may contain small batteries, the definition does not explicitly list consumer batteries as hazmat unless they are specific high-risk types or damaged (which is not indicated). The product itself is not inherently explosive, flammable, corrosive, etc.
+    *   **Conclusion:** Not a Hazmat.
+
+7.  **MLB24123223 - Sodramar Aspirador para limpeza piscina 8 esferas cor Azul:**
+    *   **Title/Attributes:** "Aspirador para limpeza piscina", material "Plástico".
+    *   **Hazmat Check:** A manual pool vacuum cleaner made of plastic is a common household item and does not contain hazardous materials according to the definition.
+    *   **Conclusion:** Not a Hazmat.
+
+8.  **MLB37108048 - Ál-cool Quimivida Isopropílico 99,8% 5l Limpeza De Placa Eletrônico:**
+    *   **Title/Attributes:** "Ál-cool Quimivida Isopropílico 99,8% 5l".
+    *   **Hazmat Check:** Isopropyl alcohol (Ál-cool Isopropílico) is a well-known flammable liquid. The definition lists "Gasoline (petrol), Acetone" as examples of Class 3: Flammable Liquids. 99.8% concentration makes it highly flammable.
+    *   **Conclusion:** Hazmat. Reason: Flammable Liquid (Class 3). Confidence: High.
+
+9.  **MLB22437501 - Escovinha Escobel Limpeza De Unha Com Alça De Plástico 9,5cm:**
+    *   **Title/Attributes:** "Escovinha Limpeza De Unha", materials "Plástico", "Microfibra".
+    *   **Hazmat Check:** A simple cleaning brush. No hazardous components.
+    *   **Conclusion:** Not a Hazmat.
+
+10. **MLB42440625 - Ar-condicionado Split Samsung Inverter Windfree Connect Ai 18.000 Btus Frio Sem Vento Ar18dyfaawknaz:**
+    *   **Title/Attributes:** "Ar-condicionado Split", "Tipo de gás refrigerante: R-32".
+    *   **Hazmat Check:** The definition includes "compressed gases/liquids" as a hazardous characteristic. R-32 (difluoromethane) is a refrigerant gas, which is a compressed gas. It is also classified as a mildly flammable (A2L) gas. This falls under Class 2: Gases and the general definition of compressed gases.
+    *   **Conclusion:** Hazmat. Reason: Contains R-32 refrigerant, which is a compressed gas and mildly flammable (Class 2: Gases). Confidence: High.
+
+11. **MLB27437643 - Mop Perfect MOP PRO com balde centrífuga Azul-marinho Perfect Pro:**
+    *   **Title/Attributes:** "Mop Perfect MOP PRO com balde centrífuga", materials "Aço inoxidável", "Microfibra".
+    *   **Hazmat Check:** Standard cleaning tool. No hazardous materials.
+    *   **Conclusion:** Not a Hazmat.
+
+12. **MLB21501624 - Coala Flor De Figo 120ml Limpador Perfumado De Ambientes:**
+    *   **Title/Attributes:** "Limpador Perfumado".
+    *   **Hazmat Check:** While some cleaners can be hazardous, "Limpador Perfumado" (perfumed cleaner) for "Ambientes" (environments) typically refers to a diluted, consumer-grade product. The definition provides strong examples for corrosive (acids/alkalis) and toxic (highly poisonous substances). Without specific chemical information indicating a high concentration of corrosive or toxic agents, it's unlikely to be classified as a Hazmat based solely on "perfumed cleaner". It's not explicitly flammable, explosive, etc.
+    *   **Conclusion:** Not a Hazmat. Confidence: High.
+
+13. **MLB26926477 - 24 Peças Flanela Limpeza Laranja 28x28 Cm Atacado Flanela:**
+    *   **Title/Attributes:** "Flanela Limpeza", material "Algodão".
+    *   **Hazmat Check:** Cleaning cloths made of cotton are not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+14. **MLB19466406 - Sabão Surf Cuidado do Coco Limpeza profunda eficiente coco pacote:**
+    *   **Title/Attributes:** "Sabão Surf", "Sabão em pó".
+    *   **Hazmat Check:** Laundry soap is a common household product. While some ingredients might be irritants in high concentrations, it's not typically classified as a Hazmat (e.g., toxic, corrosive, flammable) under the provided definition for transport.
+    *   **Conclusion:** Not a Hazmat.
+
+15. **MLB21833953 - Pano para limpeza em microfibra Camesa 35x55cm flanela kit com 6 un.:**
+    *   **Title/Attributes:** "Pano para limpeza em microfibra", material "Microfibra".
+    *   **Hazmat Check:** Cleaning cloths made of microfibra are not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+16. **MLB34181665 - Desobstruidora De Alta Pressão Wl 1820 Black Ultra Com Jato Regulável 330l/h 1500psi 1400w:**
+    *   **Title/Attributes:** "Desobstruidora De Alta Pressão" (High-pressure washer).
+    *   **Hazmat Check:** This is an electrical appliance that uses water. The product itself does not contain hazardous materials.
+    *   **Conclusion:** Not a Hazmat.
+
+17. **MLB42440645 - Ar-condicionado Split Samsung Inverter Windfree Connect Ai 18.000 Btus Quente E Frio Sem Vento Ar18dxfaawknaz:**
+    *   **Title/Attributes:** "Ar-condicionado Split", "Tipo de gás refrigerante: R-32".
+    *   **Hazmat Check:** Same reasoning as MLB42440625. Contains R-32, a compressed and mildly flammable gas.
+    *   **Conclusion:** Hazmat. Reason: Contains R-32 refrigerant, which is a compressed gas and mildly flammable (Class 2: Gases). Confidence: High.
+
+18. **MLB25088337 - Rodo Rodinho Limpa Vidro Cabo Telescópico Janela Sacada 2x1:**
+    *   **Title/Attributes:** "Rodo Rodinho Limpa Vidro", material "Fibra sintética".
+    *   **Hazmat Check:** A window squeegee. No hazardous materials.
+    *   **Conclusion:** Not a Hazmat.
+
+19. **MLB30429027 - 4 Suportes Adesivo Gancho Para Vassoura Mop Rodo Organizador:**
+    *   **Title/Attributes:** "Suportes Adesivo Gancho", materials "Adesivo, Plástico".
+    *   **Hazmat Check:** Adhesive hooks. The adhesive is not specified as hazardous. Common consumer item.
+    *   **Conclusion:** Not a Hazmat.
+
+20. **MLB17919629 - Esponja Scotch-Brite Cozinha Antiaderente azul pacote x 3:**
+    *   **Title/Attributes:** "Esponja Cozinha Antiaderente".
+    *   **Hazmat Check:** Kitchen sponges are not hazardous materials.
+    *   **Conclusion:** Not a Hazmat.
+
+21. **MLB17457283 - Lenço Umedecido Desinfetante Original Com 36 Unidades Lysoform:**
+    *   **Title/Attributes:** "Lenço Umedecido Desinfetante".
+    *   **Hazmat Check:** Disinfectants, by nature, contain active chemical agents designed to kill microorganisms. These agents can be toxic or corrosive, even in diluted forms used in wipes. The definition includes "Toxic substances" and "Corrosive substances". Lysoform is a strong disinfectant brand. It's reasonable to classify this as Hazmat due to the chemical properties of disinfectants.
+    *   **Conclusion:** Hazmat. Reason: Contains disinfectant agents which are typically toxic or corrosive chemicals. Potentially falls under Class 6 (Toxic Substances) or Class 8 (Corrosive Substances). Confidence: Medium.
+
+22. **MLB40677183 - Estação Academia De Musculação Podiumfit Me300 - 80kg Scott Estrutura Preto Estofamento Preto:**
+    *   **Title/Attributes:** "Estação Academia De Musculação", materials "Aço reforçado, Estofado com espuma revestida".
+    *   **Hazmat Check:** Gym equipment made of metal and upholstery is not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+23. **MLB31756313 - Creatina Monohidratada - Pote 300g Dux Nutrition:**
+    *   **Title/Attributes:** "Creatina Monohidratada", "Suplemento". Ingredients listed are nutritional.
+    *   **Hazmat Check:** Nutritional supplements like creatine are food products and do not fit the definition of toxic, corrosive, flammable, etc., as described by the hazmat definition's examples (e.g., "Potassium cyanide" for toxic).
+    *   **Conclusion:** Not a Hazmat.
+
+24. **MLB25587010 - Estação De Musculação Academia Podiumfit Me100 - 55kg Estrutura Preto Estofamento Preto:**
+    *   **Title/Attributes:** "Estação De Musculação Academia".
+    *   **Hazmat Check:** Same as other gym equipment. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+25. **MLB26462458 - Estação De Musculação Com 80kg Aparelho Ginastica Academia:**
+    *   **Title/Attributes:** "Estação De Musculação", materials "Aço".
+    *   **Hazmat Check:** Same as other gym equipment. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+26. **MLB26462436 - Estação De Musculação Academia Podiumfit Me200 - 65kg:**
+    *   **Title/Attributes:** "Estação De Musculação Academia", materials "Aço".
+    *   **Hazmat Check:** Same as other gym equipment. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+27. **MLB30934578 - Super Academia Estação De Musculação - 70kg Dsr Estrutura Preto Estofamento Preto:**
+    *   **Title/Attributes:** "Super Academia Estação De Musculação", materials "Ferro, Aço".
+    *   **Hazmat Check:** Same as other gym equipment. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+28. **MLB6099964 - Femini Whey Protein Sabor Baunilha Pote 900g Suplemento Academia Max Titanium:**
+    *   **Title/Attributes:** "Whey Protein", "Suplemento". Ingredients listed are nutritional.
+    *   **Hazmat Check:** Nutritional supplements like whey protein are food products and do not fit the definition of toxic, corrosive, flammable, etc.
+    *   **Conclusion:** Not a Hazmat.
+
+29. **MLB41496145 - Multi Estação Academia De Musculação Podiumfit Me700 - 100kg Estrutura Preto Estofamento Preto:**
+    *   **Title/Attributes:** "Multi Estação Academia De Musculação", materials "Estofado com espuma revestida, Estrutura em aço reforçado".
+    *   **Hazmat Check:** Same as other gym equipment. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+30. **MLB30479862 - Par De Presilhas Para Barras Olímpicas Lock Jaw Rae Fitn:**
+    *   **Title/Attributes:** "Presilhas Para Barras Olímpicas", material "Plástico".
+    *   **Hazmat Check:** Plastic bar clips are not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+31. **MLB6098706 - Suplemento Academia Creatina Max Titanium Em Pó Pote 150g Creatina Sem Sabor:**
+    *   **Title/Attributes:** "Creatina", "Suplemento". Ingredients listed are nutritional.
+    *   **Hazmat Check:** Same reasoning as other nutritional supplements. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+32. **MLB37728549 - Kit De Halteres E Anilhas Ajustáveis Kettlebell Academia Fit Cor Preto:**
+    *   **Title/Attributes:** "Kit De Halteres E Anilhas", materials "Plástico Reforçado".
+    *   **Hazmat Check:** Weights made of reinforced plastic are not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+33. **MLB24144362 - Barra Fixa de Parede para taf e treinar em casa cor preto com suporte de saco de pancada:**
+    *   **Title/Attributes:** "Barra Fixa de Parede", material "Aço".
+    *   **Hazmat Check:** Steel gym equipment is not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+34. **MLB43583935 - Straps Rudel H-40 Std Cor Preto:**
+    *   **Title/Attributes:** "Straps", material "Polipropileno".
+    *   **Hazmat Check:** Fitness straps made of polypropylene are not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+35. **MLB26901797 - Monocross Over Polia Simples De Chão 80 Kg De Peso Academia Cor da estrutura Cinza-escuro:**
+    *   **Title/Attributes:** "Monocross Over Polia Simples De Chão", materials "Metalon".
+    *   **Hazmat Check:** Gym equipment made of metal is not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+36. **MLB23557714 - Multi Estação De Musculação Academia Completa Cor do estofamento Cinza/Vinho:**
+    *   **Title/Attributes:** "Multi Estação De Musculação Academia Completa".
+    *   **Hazmat Check:** Gym equipment is not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+37. **MLB36176329 - Câmera de Segurança Tapo C500 V2 Externa 360º Com Wi-Fi 1080p Full HD TP-Link 100V/240V:**
+    *   **Title/Attributes:** "Câmera de Segurança".
+    *   **Hazmat Check:** Electronic device. While it contains electronic components and possibly a small battery, the definition does not classify consumer electronics or their typical internal batteries as hazmat unless there's a specific high-risk factor (e.g., large lithium batteries, damaged, recalled, or the device itself is explosive/flammable). No such factors are indicated.
+    *   **Conclusion:** Not a Hazmat.
+
+38. **MLB21618436 - Adaptador P10 Plastico P10 Estereo Para P2 Femea J2 Estereo:**
+    *   **Title/Attributes:** "Adaptador", material "Metálico".
+    *   **Hazmat Check:** An electronic adapter is not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+39. **MLB21706382 - Projetor Benq Mx560 4.000 Lúmens Xga 1080p Hdmi Branco:**
+    *   **Title/Attributes:** "Projetor", "Fontes de luz: Lâmpada".
+    *   **Hazmat Check:** An electronic projector. While some lamps (e.g., mercury vapor) can be hazardous if broken, the definition doesn't specify projector lamps as hazmat. As a general electronic device, it's not inherently hazardous as per the definition.
+    *   **Conclusion:** Not a Hazmat.
+
+40. **MLB22327285 - Conversor Adaptador Dvi-d 24+1 Macho P/ Vga 15 Pinos Fêmea:**
+    *   **Title/Attributes:** "Conversor Adaptador".
+    *   **Hazmat Check:** An electronic adapter. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+41. **MLB23480642 - Vídeo Game De Bolso Portátil Com Jogos Clássico Cobra Tétris Cor Preto:**
+    *   **Title/Attributes:** "Vídeo Game De Bolso Portátil", "Tipo de alimentação: Pilha", "Tipo de pilha: AA".
+    *   **Hazmat Check:** A portable electronic game. Uses common AA batteries, which are generally not classified as hazmat for consumer transport unless damaged or lithium-ion specific (which AA usually aren't, often alkaline). No other hazardous characteristics.
+    *   **Conclusion:** Not a Hazmat.
+
+42. **MLB23297961 - Microsoft Xbox Series S 512gb Standard Cor Branco:**
+    *   **Title/Attributes:** "Microsoft Xbox Series S", "Acessórios incluídos: 1 cabo HDMI, 1 cabo de alimentação".
+    *   **Hazmat Check:** A video game console. Electronic device. No specific hazardous materials are indicated. While it contains internal components and a power supply, it's a standard consumer electronic product.
+    *   **Conclusion:** Not a Hazmat.
+
+43. **MLB49611710 - Kit Video Porteiro Hikvision Ds-kh6350-wte1 Ds-kv9503-wpe1:**
+    *   **Title/Attributes:** "Video Porteiro".
+    *   **Hazmat Check:** An electronic video intercom system. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+44. **MLB23218285 - Cabo Adaptador Hdmi Para Vga Para Tv Pc Xbox360 Notebook:**
+    *   **Title/Attributes:** "Cabo Adaptador Hdmi Para Vga".
+    *   **Hazmat Check:** An electronic cable/adapter. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+45. **MLB47595411 - Kit 2 Câmera Segurança Ip Wifi P11-qq6 Lente Dupla 6mp App Icsee Cor Preto:**
+    *   **Title/Attributes:** "Câmera Segurança Ip Wifi".
+    *   **Hazmat Check:** Same reasoning as MLB36176329. Electronic device, no hazardous characteristics indicated.
+    *   **Conclusion:** Not a Hazmat.
+
+46. **MLB46836439 - Kit 2câmera Ip Icsee Prova D'água Infravermelho Externa Wifi - Bahrein:**
+    *   **Title/Attributes:** "Câmera Ip Icsee".
+    *   **Hazmat Check:** Same reasoning as MLB36176329. Electronic device, no hazardous characteristics indicated.
+    *   **Conclusion:** Not a Hazmat.
+
+47. **MLB47404276 - Kit 3 Câmera Ip Wifi Dome Rotativa Icsee Visão Noturna Ps Imports:**
+    *   **Title/Attributes:** "Câmera Ip Wifi Dome Rotativa".
+    *   **Hazmat Check:** Same reasoning as MLB36176329. Electronic device, no hazardous characteristics indicated.
+    *   **Conclusion:** Not a Hazmat.
+
+48. **MLB21720505 - Mini projetor Led Video Beam 1800 lúmens Wifi Unic Uc68:**
+    *   **Title/Attributes:** "Mini projetor Led Video Beam", "Fontes de luz: LED".
+    *   **Hazmat Check:** An electronic projector with LED light source. LEDs are generally not considered hazardous. No other hazardous characteristics.
+    *   **Conclusion:** Not a Hazmat.
+
+49. **MLB40359906 - Smart Tv Aoc 32S5045 32" HD Led:**
+    *   **Title/Attributes:** "Smart Tv", "Tipo de tela: LED".
+    *   **Hazmat Check:** A consumer electronic television. LED technology is standard and not hazardous. No other hazardous characteristics.
+    *   **Conclusion:** Not a Hazmat.
+
+50. **MLB23537280 - Smart TV Weyon 32WDSNMX 32'' HD LED:**
+    *   **Title/Attributes:** "Smart TV", "Tipo de tela: LED".
+    *   **Hazmat Check:** Same as MLB40359906. A consumer electronic television. Not hazardous.
+    *   **Conclusion:** Not a Hazmat.
+
+
+Batch 6:
+The user wants me to classify each product as Hazmat or not based on the provided definition. I will analyze each product's title and attributes to determine if it exhibits any of the hazardous characteristics listed in the definition (explosive, flammable, gas, toxic, corrosive, oxidizing, radioactive, etc.).
+
+Here's the breakdown for each product:
+
+1.  **PRODUCT_ID: MLB30709222**
+    *   **Title:** 'Selante Para Vedar Vazamento Radiador Pro 450ml Koube Original'
+    *   **Attributes:** Mentions "Koube Quimicos", "Selante Radiador 450ml", "Tipo de produto': 'SELANTE PARA VEDAR SELAR VAZAMENTO DE RADIADORES'". The volume is listed as "1703.435 L" which is highly likely a typo and should be "ml" given the 450ml in the title. Assuming it's a chemical sealant for automotive radiators. Automotive chemicals often contain flammable solvents (Class 3) or irritants/toxic substances (Class 6). While "É anticorrosivo': 'Não'" is stated, it doesn't exclude other hazards. Given it's a chemical product for a car radiator, there's a reasonable likelihood it possesses hazardous properties like flammability or toxicity.
+    *   **Classification:** Hazmat.
+    *   **Reason:** Likely flammable liquid (Class 3) or toxic/irritating substance (Class 6) due to its nature as an automotive chemical sealant.
+    *   **Confidence:** Medium (due to lack of specific chemical composition, but general knowledge of such products suggests hazard).
+
+2.  **PRODUCT_ID: MLB37162732**
+    *   **Title:** 'Módulo Stetsom HL 400.4 Amplificador Full Range...'
+    *   **Attributes:** Describes an electronic car amplifier.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** It is an electronic device and does not fit any of the Hazmat classes (not explosive, flammable, gas, toxic, corrosive, etc.).
+
+3.  **PRODUCT_ID: MLB46006340**
+    *   **Title:** 'Carregador De Bateria Automotivo Vonder Cbv950 220v'
+    *   **Attributes:** Describes a battery charger.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** This is an electrical appliance. While the *batteries* it charges might be Hazmat (e.g., lead-acid batteries due to corrosive acid), the charger itself is not a hazardous material as per the definition.
+
+4.  **PRODUCT_ID: MLB20641188**
+    *   **Title:** 'Limpador De Microfibra E Aplicadores Microlav 500ml Vonixx Cor Azul'
+    *   **Attributes:** "Tipo de pano de limpeza': 'Flanela'", "Material': 'Microfibra'". The title implies it's a "cleaner" but the attributes strongly suggest it's a cleaning *cloth* or *applicator* set, not a liquid cleaning chemical.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** It appears to be cleaning accessories (cloths/applicators), not a hazardous chemical substance.
+
+5.  **PRODUCT_ID: MLB22244333**
+    *   **Title:** 'Toalha Super Secagem Automotiva Tech Dry Autoamerica'
+    *   **Attributes:** "Tipo de pano de limpeza': 'Flanela'", "Material': 'Camurça'".
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** This is a towel, which is not a hazardous material.
+
+6.  **PRODUCT_ID: MLB46556689**
+    *   **Title:** 'Isso e Aquilo This & That Livro de Colorir Oficial Bobbie Goods capa mole'
+    *   **Attributes:** Describes a coloring book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+7.  **PRODUCT_ID: MLB45507454**
+    *   **Title:** 'Vade Mecum Saraiva Tradicional - 39a Edição - 2025/ 1o Semestre: Vade Mecum Tradicional, De Editora Saraiva. Editorial Saraiva Jur, Capa Dura, Edição 39 Em Português, 2025'
+    *   **Attributes:** Describes a legal reference book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+8.  **PRODUCT_ID: MLB40212837**
+    *   **Title:** 'Livro Uma Vida Com Propósitos (rick Warren)'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+9.  **PRODUCT_ID: MLB19202572**
+    *   **Title:** 'As 48 Leis Do Poder Robert Greene Editora Rocco Ltda'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+10. **PRODUCT_ID: MLB19234942**
+    *   **Title:** 'Bíblia Sagrada Leão de Judá NVI de Nova Versão Internacional Editora Ministérios Pão Diário Capa Dura Português 2020'
+    *   **Attributes:** Describes a Bible.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+11. **PRODUCT_ID: MLB19264394**
+    *   **Title:** 'Bíblia Sagrada - Capa Eucaristia, de Vários autores. Editorial Ação Social Claretiana, capa mole em português, 2020'
+    *   **Attributes:** Describes a Bible.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+12. **PRODUCT_ID: MLB48891205**
+    *   **Title:** 'Livro Bobbie Goods Dias Frios fall Winter Editoria Harpercollins Volume 1 2025'
+    *   **Attributes:** Describes a coloring book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+13. **PRODUCT_ID: MLB45060393**
+    *   **Title:** 'Livro de Colorir Tik Tok Comfy e Cozy 48 Desenhos 180 Gm2 2025'
+    *   **Attributes:** Describes a coloring book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+14. **PRODUCT_ID: MLB19224187**
+    *   **Title:** 'Em busca de sentido: Um psicólogo no campo de concentração de Viktor E. Frankl Editora Vozes 60ª edição 1991'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+15. **PRODUCT_ID: MLB19797716**
+    *   **Title:** 'Bíblia Sagrada Letra Grande Com Harpa Preta João Ferreira de Almeida em Portugues'
+    *   **Attributes:** Describes a Bible.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+16. **PRODUCT_ID: MLB41892046**
+    *   **Title:** 'Livro Café com Deus pai kids Meu super-herói capa dura'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+17. **PRODUCT_ID: MLB20945176**
+    *   **Title:** 'Biblia Sagrada Letra Gigante Luxo Preta Com harpa de João Ferreira de Almeida Capa Dura - Rei das Bíblias'
+    *   **Attributes:** Describes a Bible.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+18. **PRODUCT_ID: MLB19677157**
+    *   **Title:** 'Bíblia NVI, Couro Soft, Marrom | Thomas Nelson Brasil. Vida Melhor Editora S.A, em português, 2021'
+    *   **Attributes:** Describes a Bible.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+19. **PRODUCT_ID: MLB19188891**
+    *   **Title:** 'AINDA ESTOU AQUI - O LIVRO QUE DEU ORIGEM AO FILME, de Paiva, Marcelo Rubens. Editorial Alfaguara, capa mole em português, 2015'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+20. **PRODUCT_ID: MLB32539030**
+    *   **Title:** 'Mulheres Enraizadas | Viviane Martinello, de Viviane Martinello. Editorial Vida, tapa mole en português, 2023'
+    *   **Attributes:** Describes a book.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Books are not hazardous materials.
+
+21. **PRODUCT_ID: MLB28957358**
+    *   **Title:** 'Mobília E Casa armário gabinete de banheiro tango cor da pia branco cor do móvel preto'
+    *   **Attributes:** Describes furniture (bathroom cabinet).
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Furniture is not a hazardous material.
+
+22. **PRODUCT_ID: MLB19535815**
+    *   **Title:** 'Display Fini Tubes Morango Azedinho 12unx15g'
+    *   **Attributes:** Describes candy.
+    *   **Classification:** Not Hazmat.
+    *   **Reason:** Food items like candy are not hazardous materials according to the definition.
+
+Based on this analysis, I will construct the JSONL output.
+
+Batch 1:
+
+To classify these products as Hazmat or not, we need to analyze each product's attributes and description to determine if it matches any of the hazardous materials categories defined in the Hazmat definition.
+
+1. **Explosives (Class 1)**: None of the products listed are explosives.
+2. **Gases (Class 2)**: None of the products are gases.
+3. **Flammable Liquids (Class 3)**: None of the products are liquids.
+4. **Flammable Solids (Class 4)**: Some products contain flammable materials, but based on the provided descriptions, none are classified as flammable solids.
+5. **Oxidizing Agents and Organic Peroxides (Class 5)**: None of the products are oxidizing agents or organic peroxides.
+6. **Toxic and Infectious Substances (Class 6)**: None of the products are toxic or infectious substances.
+7. **Radioactive Substances (Class 7)**: None of the products are radioactive.
+8. **Corrosive Substances (Class 8)**: None of the products are corrosive substances.
+9. **Miscellaneous Hazardous Substances and Articles (Class 9)**: Some products may contain small amounts of hazardous materials (e.g., lead in electronics), but based on the provided information, none fall into this category.
+
+Given the information provided, most products seem to be non-hazardous office furniture and supplies. However, without explicit information about the materials used in their construction (e.g., presence of lead in paints, treatments with flame retardants), it's challenging to rule out all potential hazards entirely. Nonetheless, based on the descriptions, none directly align with the hazardous material categories.
+
+Therefore, with a medium to high confidence level, most products can be classified as non-Hazmat, assuming they do not contain hazardous substances in their construction that are not specified in the provided attributes.
+
+
+

@@ -1,0 +1,3713 @@
+[
+    {
+        "keywords": "MLB40677183",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB40677183",
+                "date_created": "2024-09-13T07:59:41Z",
+                "catalog_product_id": "MLB40677183",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Estação Academia De Musculação Podiumfit Me300 - 80kg Scott Estrutura Preto Estofamento Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2445110",
+                        "value_name": "PodiumFit"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "26799598",
+                        "value_name": "ME300"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "4954750",
+                        "value_name": "140 kg"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Desenvolvimento Ombro, El, Extensor, Flexor, Peck deck, Pullover, Puxador Alto Costas, Remada Baixa, Supino, rosca scott"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Vários Grupos Musculares"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Aço reforçado, Estofado com espuma revestida"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4986469",
+                        "value_name": "80 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "12929716",
+                        "value_name": "1.36 m"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "38402436",
+                        "value_name": "1.14 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "34534098",
+                        "value_name": "2.01 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "39419747",
+                        "value_name": "119 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "758167-MLA84836497019_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_758167-MLA84836497019_052025-F.jpg"
+                    },
+                    {
+                        "id": "902062-MLA84538222076_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_902062-MLA84538222076_052025-F.jpg"
+                    },
+                    {
+                        "id": "956415-MLA84836412875_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_956415-MLA84836412875_052025-F.jpg"
+                    },
+                    {
+                        "id": "999874-MLA84836394081_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_999874-MLA84836394081_052025-F.jpg"
+                    },
+                    {
+                        "id": "786367-MLA84836412913_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_786367-MLA84836412913_052025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB40677182",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Estação Academia De Musculação Podiumfit Me300 - 80kg Scott Estrutura Preto Estofamento Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB31756313",
+        "domain_id": "MLB-SUPPLEMENTS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB31756313",
+                "date_created": "2024-02-03T06:59:44Z",
+                "catalog_product_id": "MLB31756313",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SUPPLEMENTS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Creatina Monohidratada - Pote 300g Dux Nutrition",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "5435978",
+                        "value_name": "Dux Nutrition"
+                    },
+                    {
+                        "id": "TRADE_NAME",
+                        "name": "Nome comercial",
+                        "value_id": "31391343",
+                        "value_name": "Dux Creatina Monohidratada 300g"
+                    },
+                    {
+                        "id": "SUPPLEMENT_FORMAT",
+                        "name": "Formato do suplemento",
+                        "value_id": "4567842",
+                        "value_name": "Pó"
+                    },
+                    {
+                        "id": "PACKAGING_TYPE",
+                        "name": "Tipo de embalagem",
+                        "value_id": "14420486",
+                        "value_name": "A"
+                    },
+                    {
+                        "id": "FLAVOR",
+                        "name": "Sabor",
+                        "value_id": "11742822",
+                        "value_name": "Energético"
+                    },
+                    {
+                        "id": "UNITS_PER_PACKAGE",
+                        "name": "Unidades por embalagem",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "NET_WEIGHT",
+                        "name": "Peso líquido",
+                        "value_id": "135510",
+                        "value_name": "300 g"
+                    },
+                    {
+                        "id": "UNIT_WEIGHT",
+                        "name": "Peso da unidade",
+                        "value_id": "2049",
+                        "value_name": "300 g"
+                    },
+                    {
+                        "id": "INGREDIENTS",
+                        "name": "Ingredientes",
+                        "value_name": "Tr..."
+                    },
+                    {
+                        "id": "NUTRITIONAL_VALUES_PER_SERVING",
+                        "name": "Valores nutricionais por porção",
+                        "value_name": "0 kcal"
+                    },
+                    {
+                        "id": "SUPPLEMENT_TYPE",
+                        "name": "Tipo de suplemento",
+                        "value_id": "13117980",
+                        "value_name": "Nutricional/Esportivo"
+                    },
+                    {
+                        "id": "SERVING_WEIGHT",
+                        "name": "Peso da porção",
+                        "value_id": "11169533",
+                        "value_name": "3 g"
+                    },
+                    {
+                        "id": "SERVING_VOLUME",
+                        "name": "Volume da porção",
+                        "value_id": "12610344",
+                        "value_name": "3 mL"
+                    },
+                    {
+                        "id": "AMINO_ACIDS_PER_SERVING",
+                        "name": "Aminoácidos por porção",
+                        "value_name": "0"
+                    },
+                    {
+                        "id": "MIN_RECOMMENDED_AGE",
+                        "name": "Idade mínima recomendada",
+                        "value_id": "11169535",
+                        "value_name": "19 anos"
+                    },
+                    {
+                        "id": "IS_GLUTEN_FREE",
+                        "name": "É livre de glúten",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "IS_VEGAN",
+                        "name": "É vegano",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "CONTAINS_LACTOSE",
+                        "name": "Contém lactose",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_LACTANTING_PEOPLE",
+                        "name": "É apto para as pessoas lactantes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_PREGNANT_PEOPLE",
+                        "name": "É apto para as pessoas durante a gravidez",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_ORGANIC",
+                        "name": "É orgânico",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "945187-MLU78158777434_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_945187-MLU78158777434_082024-F.jpg"
+                    },
+                    {
+                        "id": "915459-MLU77964574894_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_915459-MLU77964574894_082024-F.jpg"
+                    },
+                    {
+                        "id": "958505-MLU77964564914_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_958505-MLU77964564914_082024-F.jpg"
+                    },
+                    {
+                        "id": "789814-MLU77964310132_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_789814-MLU77964310132_082024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB31756310",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Creatina Monohidratada - Pote 300g Dux Nutrition",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB25587010",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB25587010",
+                "date_created": "2023-08-01T12:24:38Z",
+                "catalog_product_id": "MLB25587010",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Estação De Musculação Academia Podiumfit Me100 - 55kg Estrutura Preto Estofamento Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2445110",
+                        "value_name": "PodiumFit"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "21847599",
+                        "value_name": "ME100"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "20425791",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "UPHOLSTERY_COLOR",
+                        "name": "Cor do estofamento",
+                        "value_id": "20425791",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "5002041",
+                        "value_name": "130 kg"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4885446",
+                        "value_name": "55 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "835462-MLA85121031005_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_835462-MLA85121031005_052025-F.jpg"
+                    },
+                    {
+                        "id": "851172-MLA84836405581_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_851172-MLA84836405581_052025-F.jpg"
+                    },
+                    {
+                        "id": "760850-MLA85120903943_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_760850-MLA85120903943_052025-F.jpg"
+                    },
+                    {
+                        "id": "770377-MLA85120903947_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_770377-MLA85120903947_052025-F.jpg"
+                    },
+                    {
+                        "id": "682794-MLA84538214956_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_682794-MLA84538214956_052025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB25586989",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Estação De Musculação Academia Podiumfit Me100 - 55kg Estrutura Preto Estofamento Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB26462458",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB26462458",
+                "date_created": "2023-08-23T14:37:50Z",
+                "catalog_product_id": "MLB26462458",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Estação De Musculação Com 80kg Aparelho Ginastica Academia",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "482706",
+                        "value_name": "Tander"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "23493409",
+                        "value_name": "TFEM80K"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "3571522",
+                        "value_name": "120 kg"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Supino frontal"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Tríceps"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Aço"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4986469",
+                        "value_name": "80 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "USE_TYPES",
+                        "name": "Tipos de uso",
+                        "value_name": "Residencial"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "23406578",
+                        "value_name": "1.7 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "48667877",
+                        "value_name": "1.96 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "19189250",
+                        "value_name": "80 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "961548-MLU78137379777_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_961548-MLU78137379777_082024-F.jpg"
+                    },
+                    {
+                        "id": "664157-MLU78137565159_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_664157-MLU78137565159_082024-F.jpg"
+                    },
+                    {
+                        "id": "642628-MLU78137233493_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_642628-MLU78137233493_082024-F.jpg"
+                    },
+                    {
+                        "id": "704754-MLU78137223515_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_704754-MLU78137223515_082024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB26462428",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Estação De Musculação Com 80kg Aparelho Ginastica Academia",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB26462436",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB26462436",
+                "date_created": "2023-08-23T14:37:47Z",
+                "catalog_product_id": "MLB26462436",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Estação De Musculação Academia Podiumfit Me200 - 65kg",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2445110",
+                        "value_name": "PodiumFit"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "1213692",
+                        "value_name": "ME200"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "5002041",
+                        "value_name": "130 kg"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Vários Grupos Musculares"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Aço"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "6361566",
+                        "value_name": "65 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "12929716",
+                        "value_name": "1.36 m"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "36925534",
+                        "value_name": "1.08 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "38754191",
+                        "value_name": "2.09 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "39419747",
+                        "value_name": "119 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "805608-MLU79013644571_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_805608-MLU79013644571_092024-F.jpg"
+                    },
+                    {
+                        "id": "605564-MLU72536589284_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_605564-MLU72536589284_102023-F.jpg"
+                    },
+                    {
+                        "id": "767129-MLU78777649520_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_767129-MLU78777649520_092024-F.jpg"
+                    },
+                    {
+                        "id": "774804-MLU78777600082_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_774804-MLU78777600082_092024-F.jpg"
+                    },
+                    {
+                        "id": "680533-MLU71275540301_082023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_680533-MLU71275540301_082023-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB26462415",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Estação De Musculação Academia Podiumfit Me200 - 65kg",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB30934578",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB30934578",
+                "date_created": "2024-01-29T21:16:12Z",
+                "catalog_product_id": "MLB30934578",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Super Academia Estação De Musculação - 70kg Dsr Estrutura Preto Estofamento Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "5155361",
+                        "value_name": "DSR"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "48499015",
+                        "value_name": "Estação de Musculação 70kg DSR"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "UPHOLSTERY_COLOR",
+                        "name": "Cor do estofamento",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "3571522",
+                        "value_name": "120 kg"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Supino frontal"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Tríceps, Bíceps, Peito, Antebraço, Costas"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Ferro, Aço"
+                    },
+                    {
+                        "id": "MAX_WEIGHT_CAPACITY",
+                        "name": "Capacidade máxima de peso",
+                        "value_id": "8222031",
+                        "value_name": "100 kg"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4954752",
+                        "value_name": "70 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "USE_TYPES",
+                        "name": "Tipos de uso",
+                        "value_name": "Domestico"
+                    },
+                    {
+                        "id": "ACCESSORIES_INCLUDED",
+                        "name": "Acessórios incluídos",
+                        "value_name": "Alças, Corda para tríceps, Pesos"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "39702567",
+                        "value_name": "1.94 m"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "15070225",
+                        "value_name": "87 cm"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "48668904",
+                        "value_name": "2.06 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "16399877",
+                        "value_name": "140 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "951844-MLA82698667898_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_951844-MLA82698667898_032025-F.jpg"
+                    },
+                    {
+                        "id": "968646-MLA82985900543_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_968646-MLA82985900543_032025-F.jpg"
+                    },
+                    {
+                        "id": "986216-MLU76811307841_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_986216-MLU76811307841_062024-F.jpg"
+                    },
+                    {
+                        "id": "838915-MLU79285359861_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_838915-MLU79285359861_092024-F.jpg"
+                    },
+                    {
+                        "id": "919716-MLU79285387897_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_919716-MLU79285387897_092024-F.jpg"
+                    },
+                    {
+                        "id": "610778-MLA82698638708_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_610778-MLA82698638708_032025-F.jpg"
+                    },
+                    {
+                        "id": "691101-MLA82985900555_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_691101-MLA82985900555_032025-F.jpg"
+                    },
+                    {
+                        "id": "763475-MLA82698667918_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_763475-MLA82698667918_032025-F.jpg"
+                    },
+                    {
+                        "id": "714547-MLA82698601228_032025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_714547-MLA82698601228_032025-F.jpg"
+                    },
+                    {
+                        "id": "635780-MLU79285341109_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_635780-MLU79285341109_092024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB30934577",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Super Academia Estação De Musculação - 70kg Dsr Estrutura Preto Estofamento Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB6099964",
+        "domain_id": "MLB-SUPPLEMENTS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB6099964",
+                "date_created": "2016-01-13T23:33:16Z",
+                "catalog_product_id": "MLB6099964",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SUPPLEMENTS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Femini Whey Protein Sabor Baunilha Pote 900g Suplemento Academia Max Titanium",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "131529",
+                        "value_name": "Max Titanium"
+                    },
+                    {
+                        "id": "MAIN_SUPPLEMENT",
+                        "name": "Suplemento principal",
+                        "value_id": "4695420",
+                        "value_name": "Proteínas"
+                    },
+                    {
+                        "id": "TRADE_NAME",
+                        "name": "Nome comercial",
+                        "value_id": "326021",
+                        "value_name": "Femini Whey"
+                    },
+                    {
+                        "id": "SUPPLEMENT_FORMAT",
+                        "name": "Formato do suplemento",
+                        "value_id": "4567842",
+                        "value_name": "Pó"
+                    },
+                    {
+                        "id": "PACKAGING_TYPE",
+                        "name": "Tipo de embalagem",
+                        "value_id": "130169",
+                        "value_name": "Pote"
+                    },
+                    {
+                        "id": "FLAVOR",
+                        "name": "Sabor",
+                        "value_id": "2517713",
+                        "value_name": "Baunilha"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359391",
+                        "value_name": "Unidade"
+                    },
+                    {
+                        "id": "UNITS_PER_PACKAGE",
+                        "name": "Unidades por embalagem",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "NET_WEIGHT",
+                        "name": "Peso líquido",
+                        "value_id": "135530",
+                        "value_name": "900 g"
+                    },
+                    {
+                        "id": "INGREDIENTS",
+                        "name": "Ingredientes",
+                        "value_name": "Ácido ascórbico (vitamina C), Pirofosfato férrico (ferro), Acetato de tocoferol (vitamina E), Sulfato de zinco monohidratado (zinco), Riboflavina (vitamina B2), Mononitrato de tiamina (vitamina B1), Sulfato de cobre anidro (cobre), Palmitato de retinol (vitamina A), Cloreto de cromo hexahidratado (cromo), Selenito de sódio (selênio), Biotina (vitamina H), Colecalciferol (vitamina D), Emulsificante lecitina de soja, Aromatizantes e edulcorante sucralose, Proteína concentrada do soro do leite (WPC), Isolado de proteína de soja, Colágeno hidrolisado, Mix de vitaminas e minerais (óxido de magnésio)"
+                    },
+                    {
+                        "id": "NUTRITIONAL_VALUES_PER_SERVING",
+                        "name": "Valores nutricionais por porção",
+                        "value_name": "159 kcal valor energético, 6.2 g carboidratos, 0.78 mg Vitamina B6, 27 g proteínas, 2.9 g gorduras totais, 1.7 g gorduras saturadas, 0 g gorduras trans, 0 g fibra alimentar, 121 mg, 360 µg vitamina A, 540 µg cobre, 27 mg vitamina C, 3.0 µg vitamina D, 6.0 mg vitamina E, 21 µg cromo, 8.4 mg ferro, 156 mg magnésio, 20 µg selênio, 0.72 mg vitamina B1, 0.78 mg vitamina B2, 4.2 mg zinc"
+                    },
+                    {
+                        "id": "SUPPLEMENT_TYPE",
+                        "name": "Tipo de suplemento",
+                        "value_id": "13117980",
+                        "value_name": "Nutricional/Esportivo"
+                    },
+                    {
+                        "id": "SERVING_WEIGHT",
+                        "name": "Peso da porção",
+                        "value_id": "11006993",
+                        "value_name": "40 g"
+                    },
+                    {
+                        "id": "SERVING_VOLUME",
+                        "name": "Volume da porção",
+                        "value_id": "12261631",
+                        "value_name": "40 mL"
+                    },
+                    {
+                        "id": "AMINO_ACIDS_PER_SERVING",
+                        "name": "Aminoácidos por porção",
+                        "value_name": "1.413 mg alanina, 1.013 mg arginina, 2.925 mg ácido aspártico, 545 mg cisteína, 4.820 mg ácido glutâmico, 673 mg glicina, 603 mg histidina, 1.711 mg isoleucina, 2.863 mg leucina, 2.594 mg lisina, 576 mg metionina, 1.058 mg fenilalanina, 1.827 mg prolina, 1.493 mg serina, 1.847 mg treonina, 441 mg triptofano, 906 mg tirosina, 1.478 mg valina"
+                    },
+                    {
+                        "id": "MIN_RECOMMENDED_AGE",
+                        "name": "Idade mínima recomendada",
+                        "value_id": "13022620",
+                        "value_name": "9 anos"
+                    },
+                    {
+                        "id": "IS_GLUTEN_FREE",
+                        "name": "É livre de glúten",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "IS_VEGAN",
+                        "name": "É vegano",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "CONTAINS_LACTOSE",
+                        "name": "Contém lactose",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "SERVINGS_NUMBER",
+                        "name": "Quantidade de porções",
+                        "value_id": "7502291",
+                        "value_name": "22"
+                    },
+                    {
+                        "id": "ALLERGENIC_COMPONENTS",
+                        "name": "Componentes alergéneos",
+                        "value_name": "Derivados lácteos y de soja, Derivados del huevo"
+                    },
+                    {
+                        "id": "IS_ORGANIC",
+                        "name": "É orgânico",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_EXPIRATION_DATE",
+                        "name": "Com data de validade",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "879607-MLA82172875396_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_879607-MLA82172875396_022025-F.jpg"
+                    },
+                    {
+                        "id": "910042-MLA82172875412_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_910042-MLA82172875412_022025-F.jpg"
+                    },
+                    {
+                        "id": "634498-MLA82455929263_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_634498-MLA82455929263_022025-F.jpg"
+                    },
+                    {
+                        "id": "988643-MLA82455929279_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_988643-MLA82455929279_022025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB6099963",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Femini Whey Protein Sabor Baunilha Pote 900g Suplemento Academia Max Titanium",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB2022903811",
+        "paging": {
+            "total": 0,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB41496145",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB41496145",
+                "date_created": "2024-10-04T05:21:54Z",
+                "catalog_product_id": "MLB41496145",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Multi Estação Academia De Musculação Podiumfit Me700 - 100kg Estrutura Preto Estofamento Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2445110",
+                        "value_name": "PodiumFit"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "43196550",
+                        "value_name": "ME700"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "4954754",
+                        "value_name": "150 kg"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Desenvolvimento Ombro, El, Extensor, Flexor, Peck deck, Pullover, Puxador Alto Costas, Remada Baixa, Supino, rosca scott"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Diversos grupos musculares"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Estofado com espuma revestida, Estrutura em aço reforçado"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4954744",
+                        "value_name": "100 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "19674067",
+                        "value_name": "1.8 m"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "16958361",
+                        "value_name": "2.2 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "33193136",
+                        "value_name": "2.27 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "43196553",
+                        "value_name": "194 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "616807-MLA79493574220_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_616807-MLA79493574220_102024-F.jpg"
+                    },
+                    {
+                        "id": "908890-MLA79740612739_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_908890-MLA79740612739_102024-F.jpg"
+                    },
+                    {
+                        "id": "930035-MLA79493594166_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_930035-MLA79493594166_102024-F.jpg"
+                    },
+                    {
+                        "id": "973746-MLA79740612747_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_973746-MLA79740612747_102024-F.jpg"
+                    },
+                    {
+                        "id": "904488-MLA79740662393_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_904488-MLA79740662393_102024-F.jpg"
+                    },
+                    {
+                        "id": "990880-MLA79493574228_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_990880-MLA79493574228_102024-F.jpg"
+                    },
+                    {
+                        "id": "644571-MLA79740612757_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_644571-MLA79740612757_102024-F.jpg"
+                    },
+                    {
+                        "id": "979248-MLA79740935891_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_979248-MLA79740935891_102024-F.jpg"
+                    },
+                    {
+                        "id": "930607-MLA79493574238_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_930607-MLA79493574238_102024-F.jpg"
+                    },
+                    {
+                        "id": "773354-MLA79493594190_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_773354-MLA79493594190_102024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB41496143",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Multi Estação Academia De Musculação Podiumfit Me700 - 100kg Estrutura Preto Estofamento Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB30479862",
+        "domain_id": "MLB-BARBELL_COLLARS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB30479862",
+                "date_created": "2024-01-27T09:54:32Z",
+                "catalog_product_id": "MLB30479862",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-BARBELL_COLLARS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Par De Presilhas Para Barras Olímpicas Lock Jaw Rae Fitn",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "24464988",
+                        "value_name": "Rae Fitness"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "29693417",
+                        "value_name": "LOCK JAW"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "13784956",
+                        "value_name": "UNICA"
+                    },
+                    {
+                        "id": "INTERNAL_DIAMETER",
+                        "name": "Diâmetro interno",
+                        "value_id": "21318437",
+                        "value_name": "5 cm"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726555",
+                        "value_name": "2"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "2748302",
+                        "value_name": "Plástico"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "5277",
+                        "value_name": "600 g"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "975262-MLU74145730658_012024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_975262-MLU74145730658_012024-F.jpg"
+                    },
+                    {
+                        "id": "802348-MLU76824471858_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_802348-MLU76824471858_062024-F.jpg"
+                    },
+                    {
+                        "id": "869856-MLU76824442220_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_869856-MLU76824442220_062024-F.jpg"
+                    },
+                    {
+                        "id": "943939-MLU76824133758_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_943939-MLU76824133758_062024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB30479861",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Par De Presilhas Para Barras Olímpicas Lock Jaw Rae Fitn",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB6098706",
+        "domain_id": "MLB-SUPPLEMENTS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB6098706",
+                "date_created": "2016-01-12T18:44:24Z",
+                "catalog_product_id": "MLB6098706",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SUPPLEMENTS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Suplemento Academia Creatina Max Titanium Em Pó Pote 150g Creatina Sem Sabor",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "131529",
+                        "value_name": "Max Titanium"
+                    },
+                    {
+                        "id": "LINE",
+                        "name": "Linha",
+                        "value_id": "17321687",
+                        "value_name": "Creatine"
+                    },
+                    {
+                        "id": "MAIN_SUPPLEMENT",
+                        "name": "Suplemento principal",
+                        "value_id": "37557671",
+                        "value_name": "Creatina"
+                    },
+                    {
+                        "id": "TRADE_NAME",
+                        "name": "Nome comercial",
+                        "value_id": "40754959",
+                        "value_name": "Creatina Max Titanium 300g"
+                    },
+                    {
+                        "id": "SUPPLEMENT_FORMAT",
+                        "name": "Formato do suplemento",
+                        "value_id": "4567842",
+                        "value_name": "Pó"
+                    },
+                    {
+                        "id": "PACKAGING_TYPE",
+                        "name": "Tipo de embalagem",
+                        "value_id": "130169",
+                        "value_name": "Pote"
+                    },
+                    {
+                        "id": "FLAVOR",
+                        "name": "Sabor",
+                        "value_id": "2517530",
+                        "value_name": "Sem sabor"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359391",
+                        "value_name": "Unidade"
+                    },
+                    {
+                        "id": "UNITS_PER_PACKAGE",
+                        "name": "Unidades por embalagem",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "NET_WEIGHT",
+                        "name": "Peso líquido",
+                        "value_id": "135537",
+                        "value_name": "150 g"
+                    },
+                    {
+                        "id": "INGREDIENTS",
+                        "name": "Ingredientes",
+                        "value_name": "Creatina monohidratada, Dióxido de silício anti-umectante"
+                    },
+                    {
+                        "id": "NUTRITIONAL_VALUES_PER_SERVING",
+                        "name": "Valores nutricionais por porção",
+                        "value_name": "3000 mg creatina"
+                    },
+                    {
+                        "id": "SUPPLEMENT_CLASS",
+                        "name": "Classe de suplemento",
+                        "value_id": "52261842",
+                        "value_name": "Creatina"
+                    },
+                    {
+                        "id": "SUPPLEMENT_TYPE",
+                        "name": "Tipo de suplemento",
+                        "value_id": "13117980",
+                        "value_name": "Nutricional/Esportivo"
+                    },
+                    {
+                        "id": "SERVING_WEIGHT",
+                        "name": "Peso da porção",
+                        "value_id": "11169533",
+                        "value_name": "3 g"
+                    },
+                    {
+                        "id": "MIN_RECOMMENDED_AGE",
+                        "name": "Idade mínima recomendada",
+                        "value_id": "10633233",
+                        "value_name": "18 anos"
+                    },
+                    {
+                        "id": "IS_GLUTEN_FREE",
+                        "name": "É livre de glúten",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "IS_VEGAN",
+                        "name": "É vegano",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "CONTAINS_LACTOSE",
+                        "name": "Contém lactose",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "SERVINGS_NUMBER",
+                        "name": "Quantidade de porções",
+                        "value_id": "7441471",
+                        "value_name": "50"
+                    },
+                    {
+                        "id": "ALLERGENIC_COMPONENTS",
+                        "name": "Componentes alergéneos",
+                        "value_name": "Derivados do leite, Derivados de huevo, Derivados de soja"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_LACTANTING_PEOPLE",
+                        "name": "É apto para as pessoas lactantes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_PREGNANT_PEOPLE",
+                        "name": "É apto para as pessoas durante a gravidez",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_ORGANIC",
+                        "name": "É orgânico",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "MPN",
+                        "name": "MPN",
+                        "value_name": "25"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "998155-MLU78648065297_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_998155-MLU78648065297_082024-F.jpg"
+                    },
+                    {
+                        "id": "645578-MLA54077024940_022023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_645578-MLA54077024940_022023-F.jpg"
+                    },
+                    {
+                        "id": "787823-MLU76548514391_052024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_787823-MLU76548514391_052024-F.jpg"
+                    },
+                    {
+                        "id": "900469-MLA74177100409_012024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_900469-MLA74177100409_012024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB6098705",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Suplemento Academia Creatina Max Titanium Em Pó Pote 150g Creatina Sem Sabor",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB37728549",
+        "domain_id": "MLB-BARBELL_WEIGHT_KITS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB37728549",
+                "date_created": "2024-06-14T13:28:18Z",
+                "catalog_product_id": "MLB37728549",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-BARBELL_WEIGHT_KITS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Kit De Halteres E Anilhas Ajustáveis Kettlebell Academia Fit Cor Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "38436881",
+                        "value_name": "Alteres Peso de Musculação"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "38436882",
+                        "value_name": "Barra Funcional Querobel Gym"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "TOTAL_WEIGHT",
+                        "name": "Peso total",
+                        "value_id": "33346893",
+                        "value_name": "15 kg"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3041279",
+                        "value_name": "20"
+                    },
+                    {
+                        "id": "WEIGHT_PLATE_MATERIAL",
+                        "name": "Material da anilha",
+                        "value_id": "38436886",
+                        "value_name": "Plástico Reforçado"
+                    },
+                    {
+                        "id": "BAR_MATERIAL",
+                        "name": "Material da barra",
+                        "value_id": "38436883",
+                        "value_name": "Plástico Reforçado"
+                    },
+                    {
+                        "id": "IS_FACTORY_KIT",
+                        "name": "É kit de fábrica",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "BAR_TYPE",
+                        "name": "Tipo de barra",
+                        "value_id": "1229945",
+                        "value_name": "Reta"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "13381505",
+                        "value_name": "1.3 m"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "659837-MLU77011143237_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_659837-MLU77011143237_062024-F.jpg"
+                    },
+                    {
+                        "id": "947074-MLU77011745485_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_947074-MLU77011745485_062024-F.jpg"
+                    },
+                    {
+                        "id": "724445-MLU77011715685_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_724445-MLU77011715685_062024-F.jpg"
+                    },
+                    {
+                        "id": "845366-MLU77011143265_062024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_845366-MLU77011143265_062024-F.jpg"
+                    },
+                    {
+                        "id": "675611-MLA80266615064_112024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_675611-MLA80266615064_112024-F.jpg"
+                    },
+                    {
+                        "id": "800795-MLA80266366716_112024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_800795-MLA80266366716_112024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB37728546",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Kit De Halteres E Anilhas Ajustáveis Kettlebell Academia Fit Cor Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB24144362",
+        "domain_id": "MLB-GYM_BARS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB24144362",
+                "date_created": "2023-06-25T23:50:31Z",
+                "catalog_product_id": "MLB24144362",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-GYM_BARS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Barra Fixa de Parede para taf e treinar em casa cor preto com suporte de saco de pancada",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "20321096",
+                        "value_name": "Barra Fixa"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "6812615",
+                        "value_name": "De Parede"
+                    },
+                    {
+                        "id": "BAR_TYPE",
+                        "name": "Tipo de barra",
+                        "value_id": "53553383",
+                        "value_name": "Puxador"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "BAR_WEIGHT",
+                        "name": "Peso da barra",
+                        "value_id": "19971483",
+                        "value_name": "5 kg"
+                    },
+                    {
+                        "id": "SLEEVE_DIAMETER",
+                        "name": "Diâmetro da manga",
+                        "value_id": "48538642",
+                        "value_name": "2.54 cm"
+                    },
+                    {
+                        "id": "BAR_LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "19972124",
+                        "value_name": "50 cm"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "4837600",
+                        "value_name": "Aço"
+                    },
+                    {
+                        "id": "WITH_ERGONOMIC_GRIP",
+                        "name": "Com pegada ergonômica",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "832762-MLU73883066897_012024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_832762-MLU73883066897_012024-F.jpg"
+                    },
+                    {
+                        "id": "759215-MLU70118747572_062023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_759215-MLU70118747572_062023-F.jpg"
+                    },
+                    {
+                        "id": "982608-MLU70118747574_062023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_982608-MLU70118747574_062023-F.jpg"
+                    },
+                    {
+                        "id": "802465-MLU70118747576_062023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_802465-MLU70118747576_062023-F.jpg"
+                    },
+                    {
+                        "id": "818729-MLU78099838116_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_818729-MLU78099838116_082024-F.jpg"
+                    },
+                    {
+                        "id": "658741-MLU78099828822_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_658741-MLU78099828822_082024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB24144356",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Barra Fixa de Parede para taf e treinar em casa cor preto com suporte de saco de pancada",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB43583935",
+        "domain_id": "MLB-GYM_LIFTING_STRAPS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB43583935",
+                "date_created": "2024-11-23T02:09:56Z",
+                "catalog_product_id": "MLB43583935",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-GYM_LIFTING_STRAPS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Straps Rudel H-40 Std Cor Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "929482",
+                        "value_name": "Rudel"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "44729276",
+                        "value_name": "H40-S"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "55354165",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "PAIRS_NUMBER",
+                        "name": "Quantidade de pares",
+                        "value_id": "3626979",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450295",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "STRAPS_NUMBER",
+                        "name": "Quantidade de straps",
+                        "value_id": "44729280",
+                        "value_name": "60"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "2482319",
+                        "value_name": "Polipropileno"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "570691",
+                        "value_name": "17 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "570695",
+                        "value_name": "12 cm"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "906844-MLA80629669184_112024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_906844-MLA80629669184_112024-F.jpg"
+                    },
+                    {
+                        "id": "935592-MLA82567564623_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_935592-MLA82567564623_022025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB43583928",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Straps Rudel H-40 Std Cor Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB26901797",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB26901797",
+                "date_created": "2023-09-09T07:51:44Z",
+                "catalog_product_id": "MLB26901797",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Monocross Over Polia Simples De Chão 80 Kg De Peso Academia Cor da estrutura Cinza-escuro",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "18545890",
+                        "value_name": "Exercit Esportes"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "24092522",
+                        "value_name": "Monocross Over de Chão"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "52051",
+                        "value_name": "Cinza-escuro"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "3589353",
+                        "value_name": "200 kg"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Musculação"
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Bíceps, Pernas, Tríceps, deltoides, dorsal"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Metalon"
+                    },
+                    {
+                        "id": "MAX_WEIGHT_CAPACITY",
+                        "name": "Capacidade máxima de peso",
+                        "value_id": "18276097",
+                        "value_name": "80 kg"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4986469",
+                        "value_name": "80 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "USE_TYPES",
+                        "name": "Tipos de uso",
+                        "value_name": "Musculação"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "8058451",
+                        "value_name": "50 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "5662061",
+                        "value_name": "60 cm"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "11466750",
+                        "value_name": "2.1 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "19189250",
+                        "value_name": "80 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "624854-MLU74159506713_012024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_624854-MLU74159506713_012024-F.jpg"
+                    },
+                    {
+                        "id": "950451-MLU72759405762_112023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_950451-MLU72759405762_112023-F.jpg"
+                    },
+                    {
+                        "id": "606065-MLA79696513528_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_606065-MLA79696513528_102024-F.jpg"
+                    },
+                    {
+                        "id": "871973-MLA79696573040_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_871973-MLA79696573040_102024-F.jpg"
+                    },
+                    {
+                        "id": "740422-MLA79696573050_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_740422-MLA79696573050_102024-F.jpg"
+                    },
+                    {
+                        "id": "629032-MLA79696630938_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_629032-MLA79696630938_102024-F.jpg"
+                    },
+                    {
+                        "id": "783795-MLA79696513544_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_783795-MLA79696513544_102024-F.jpg"
+                    },
+                    {
+                        "id": "644964-MLA79696689926_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_644964-MLA79696689926_102024-F.jpg"
+                    },
+                    {
+                        "id": "843371-MLA79696630948_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_843371-MLA79696630948_102024-F.jpg"
+                    },
+                    {
+                        "id": "906700-MLA79696630954_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_906700-MLA79696630954_102024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB26901758",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Monocross Over Polia Simples De Chão 80 Kg De Peso Academia Cor da estrutura Cinza-escuro",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB23557714",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB23557714",
+                "date_created": "2023-05-30T17:00:47Z",
+                "catalog_product_id": "MLB23557714",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Multi Estação De Musculação Academia Completa Cor do estofamento Cinza/Vinho",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2638606",
+                        "value_name": "WCT Fitness"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "19523181",
+                        "value_name": "10010007"
+                    },
+                    {
+                        "id": "UPHOLSTERY_COLOR",
+                        "name": "Cor do estofamento",
+                        "value_id": "19523184",
+                        "value_name": "Cinza/Vinho"
+                    },
+                    {
+                        "id": "MAX_USER_WEIGHT",
+                        "name": "Peso máximo do usuário",
+                        "value_id": "4954750",
+                        "value_name": "140 kg"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "19523183",
+                        "value_name": "204 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "31900584",
+                        "value_name": "2.22 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "31900585",
+                        "value_name": "2.22 m"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "975301-MLU72494514450_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_975301-MLU72494514450_102023-F.jpg"
+                    },
+                    {
+                        "id": "937212-MLU75358482607_032024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_937212-MLU75358482607_032024-F.jpg"
+                    },
+                    {
+                        "id": "981305-MLU72563948661_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_981305-MLU72563948661_102023-F.jpg"
+                    },
+                    {
+                        "id": "803121-MLU72563948669_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_803121-MLU72563948669_102023-F.jpg"
+                    },
+                    {
+                        "id": "631572-MLU72416921593_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_631572-MLU72416921593_102023-F.jpg"
+                    },
+                    {
+                        "id": "642202-MLU75358482619_032024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_642202-MLU75358482619_032024-F.jpg"
+                    },
+                    {
+                        "id": "667750-MLU72563870911_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_667750-MLU72563870911_102023-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB23557713",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Multi Estação De Musculação Academia Completa Cor do estofamento Cinza/Vinho",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB43607930",
+        "domain_id": "MLB-GYM_LIFTING_STRAPS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB43607930",
+                "date_created": "2024-11-23T13:05:24Z",
+                "catalog_product_id": "MLB43607930",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-GYM_LIFTING_STRAPS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Par De Protetor De Punho Profissional Para Crossfit Academia",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "21213197",
+                        "value_name": "D1fitness"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "44733884",
+                        "value_name": "Munhequeira Protetor"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "PAIRS_NUMBER",
+                        "name": "Quantidade de pares",
+                        "value_id": "3626979",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "2482319",
+                        "value_name": "Polipropileno"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "943435",
+                        "value_name": "50 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "3259574",
+                        "value_name": "8 cm"
+                    },
+                    {
+                        "id": "IS_ANTI_SLIP",
+                        "name": "É antiderrapante",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "110461",
+                        "value_name": "Sem gênero"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "641494-MLA80903551923_112024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_641494-MLA80903551923_112024-F.jpg"
+                    },
+                    {
+                        "id": "951944-MLA80903620311_112024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_951944-MLA80903620311_112024-F.jpg"
+                    },
+                    {
+                        "id": "743879-MLA81852888148_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_743879-MLA81852888148_012025-F.jpg"
+                    },
+                    {
+                        "id": "750670-MLA81852925248_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_750670-MLA81852925248_012025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB43607926",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Par De Protetor De Punho Profissional Para Crossfit Academia",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB28094728",
+        "domain_id": "MLB-RESISTANCE_BANDS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB28094728",
+                "date_created": "2023-11-12T20:52:52Z",
+                "catalog_product_id": "MLB28094728",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-RESISTANCE_BANDS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Kit Mini Band Muvin FXE-300 Faixas Elásticas Circulares com 5 Tensões Diferentes Intensidades de Resistência Elásticos Para Musculação Exercícios Força Treino Funcional Academia Ginástica",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "432048",
+                        "value_name": "Muvin"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "26073495",
+                        "value_name": "FXE-300"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359391",
+                        "value_name": "Unidade"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "RESISTANCE_INTENSITIES",
+                        "name": "Intensidades de resistência",
+                        "value_name": "5 intensidades, 5 resistencias"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "1125714",
+                        "value_name": "27.5 cm"
+                    },
+                    {
+                        "id": "WITH_HANDLES",
+                        "name": "Com alças",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3402025",
+                        "value_name": "5"
+                    },
+                    {
+                        "id": "MPN",
+                        "name": "MPN",
+                        "value_name": "19303-24813"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "632918-MLA79689744523_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_632918-MLA79689744523_102024-F.jpg"
+                    },
+                    {
+                        "id": "600026-MLA79443954440_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_600026-MLA79443954440_102024-F.jpg"
+                    },
+                    {
+                        "id": "730930-MLA79548906116_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_730930-MLA79548906116_102024-F.jpg"
+                    },
+                    {
+                        "id": "923961-MLA79444003390_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_923961-MLA79444003390_102024-F.jpg"
+                    },
+                    {
+                        "id": "643480-MLA79443983894_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_643480-MLA79443983894_102024-F.jpg"
+                    },
+                    {
+                        "id": "810092-MLA79690026347_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_810092-MLA79690026347_102024-F.jpg"
+                    },
+                    {
+                        "id": "634207-MLA79690026369_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_634207-MLA79690026369_102024-F.jpg"
+                    },
+                    {
+                        "id": "811431-MLA79444003440_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_811431-MLA79444003440_102024-F.jpg"
+                    },
+                    {
+                        "id": "857080-MLA79444090344_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_857080-MLA79444090344_102024-F.jpg"
+                    },
+                    {
+                        "id": "717965-MLA79690026319_102024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_717965-MLA79690026319_102024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB28094725",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Kit Mini Band Muvin FXE-300 Faixas Elásticas Circulares com 5 Tensões Diferentes Intensidades de Resistência Elásticos Para Musculação Exercícios Força Treino Funcional Academia Ginástica",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB27824518",
+        "domain_id": "MLB-RESISTANCE_BANDS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB27824518",
+                "date_created": "2023-10-20T20:21:32Z",
+                "catalog_product_id": "MLB27824518",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-RESISTANCE_BANDS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Jcanova Store Kit Elásticos Academia 11 Peças Borracha Corda Tubos Alças Âncoras Crossfit Elastico Extensor Faixa Elástica Exercício Treinos Fisioterapia Funcional Ginastica Látex Musculaçã",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "21310263",
+                        "value_name": "Jcanova Store"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "49390234",
+                        "value_name": "Academia Alta Band"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359392",
+                        "value_name": "Kit"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "1215521",
+                        "value_name": "11"
+                    },
+                    {
+                        "id": "RESISTANCE_INTENSITIES",
+                        "name": "Intensidades de resistência",
+                        "value_name": "Média, Baixa, Alta"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "570740",
+                        "value_name": "46 cm"
+                    },
+                    {
+                        "id": "WITH_HANDLES",
+                        "name": "Com alças",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3906530",
+                        "value_name": "11"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "968784-MLU72388005511_102023",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_968784-MLU72388005511_102023-F.jpg"
+                    },
+                    {
+                        "id": "793276-MLA82139010952_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_793276-MLA82139010952_022025-F.jpg"
+                    },
+                    {
+                        "id": "668729-MLA82421693403_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_668729-MLA82421693403_022025-F.jpg"
+                    },
+                    {
+                        "id": "682639-MLA82138961718_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_682639-MLA82138961718_022025-F.jpg"
+                    },
+                    {
+                        "id": "614532-MLA82421936191_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_614532-MLA82421936191_022025-F.jpg"
+                    },
+                    {
+                        "id": "782402-MLA82139010988_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_782402-MLA82139010988_022025-F.jpg"
+                    },
+                    {
+                        "id": "941064-MLA82421936203_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_941064-MLA82421936203_022025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB27824516",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Jcanova Store Kit Elásticos Academia 11 Peças Borracha Corda Tubos Alças Âncoras Crossfit Elastico Extensor Faixa Elástica Exercício Treinos Fisioterapia Funcional Ginastica Látex Musculaçã",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB47665373",
+        "domain_id": "MLB-BARBELL_WEIGHT_KITS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB47665373",
+                "date_created": "2025-04-03T13:36:45Z",
+                "catalog_product_id": "MLB47665373",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-BARBELL_WEIGHT_KITS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Kit Halteres E Anilhas Kettlebell Ajustáveis Academia Fit 6 Em 1 15kg Redfin + Brinde Incluso",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "50299031",
+                        "value_name": "Redfin"
+                    },
+                    {
+                        "id": "MANUFACTURER",
+                        "name": "Fabricante",
+                        "value_id": "26014317",
+                        "value_name": "RDF"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "38436882",
+                        "value_name": "Barra Funcional Querobel Gym"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "TOTAL_WEIGHT",
+                        "name": "Peso total",
+                        "value_id": "33346893",
+                        "value_name": "15 kg"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3041279",
+                        "value_name": "20"
+                    },
+                    {
+                        "id": "WEIGHT_PLATE_MATERIAL",
+                        "name": "Material da anilha",
+                        "value_id": "38436886",
+                        "value_name": "Plástico Reforçado"
+                    },
+                    {
+                        "id": "BAR_MATERIAL",
+                        "name": "Material da barra",
+                        "value_id": "38436883",
+                        "value_name": "Plástico Reforçado"
+                    },
+                    {
+                        "id": "IS_FACTORY_KIT",
+                        "name": "É kit de fábrica",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "BAR_TYPE",
+                        "name": "Tipo de barra",
+                        "value_id": "1229945",
+                        "value_name": "Reta"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "13381505",
+                        "value_name": "1.3 m"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "606973-MLA85554325391_062025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_606973-MLA85554325391_062025-F.jpg"
+                    },
+                    {
+                        "id": "767691-MLA83679231743_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_767691-MLA83679231743_042025-F.jpg"
+                    },
+                    {
+                        "id": "765644-MLA83679231755_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_765644-MLA83679231755_042025-F.jpg"
+                    },
+                    {
+                        "id": "786665-MLA83679231771_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_786665-MLA83679231771_042025-F.jpg"
+                    },
+                    {
+                        "id": "689875-MLA83387071950_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_689875-MLA83387071950_042025-F.jpg"
+                    },
+                    {
+                        "id": "851370-MLA83387128356_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_851370-MLA83387128356_042025-F.jpg"
+                    },
+                    {
+                        "id": "869221-MLA83679231807_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_869221-MLA83679231807_042025-F.jpg"
+                    },
+                    {
+                        "id": "877615-MLA83679222019_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_877615-MLA83679222019_042025-F.jpg"
+                    },
+                    {
+                        "id": "834508-MLA83387071986_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_834508-MLA83387071986_042025-F.jpg"
+                    },
+                    {
+                        "id": "723320-MLA83387071996_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_723320-MLA83387071996_042025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB47665371",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Kit Halteres E Anilhas Kettlebell Ajustáveis Academia Fit 6 Em 1 15kg Redfin + Brinde Incluso",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB27113800",
+        "domain_id": "MLB-BARBELL_PADS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB27113800",
+                "date_created": "2023-09-17T21:43:12Z",
+                "catalog_product_id": "MLB27113800",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-BARBELL_PADS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Almofada Para Barra Para Agachamentos Hip Thrusts D1fitness Cor Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "21213197",
+                        "value_name": "D1fitness"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "39339081",
+                        "value_name": "Protetor Para Agachamento"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "12289997",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359391",
+                        "value_name": "Unidade"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450295",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "111551",
+                        "value_name": "Poliuretano"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "1125601",
+                        "value_name": "44 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "3157",
+                        "value_name": "10 cm"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "1016242",
+                        "value_name": "10 cm"
+                    },
+                    {
+                        "id": "IS_ANTI_SLIP",
+                        "name": "É antiderrapante",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_VELCRO",
+                        "name": "Com velcro",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "798901-MLA84538326532_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_798901-MLA84538326532_052025-F.jpg"
+                    },
+                    {
+                        "id": "780454-MLA84836463989_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_780454-MLA84836463989_052025-F.jpg"
+                    },
+                    {
+                        "id": "754539-MLA84836464007_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_754539-MLA84836464007_052025-F.jpg"
+                    },
+                    {
+                        "id": "744057-MLA84836500839_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_744057-MLA84836500839_052025-F.jpg"
+                    },
+                    {
+                        "id": "698570-MLA84538326602_052025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_698570-MLA84538326602_052025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB27113784",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Almofada Para Barra Para Agachamentos Hip Thrusts D1fitness Cor Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB27897933",
+        "domain_id": "MLB-HOME_GYMS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB27897933",
+                "date_created": "2023-10-25T11:08:25Z",
+                "catalog_product_id": "MLB27897933",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-HOME_GYMS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Multi Estação De Musculação Profissional Academia Cor Preto",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "2587460",
+                        "value_name": "Natural Fitness"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "25644062",
+                        "value_name": "CONSPORT"
+                    },
+                    {
+                        "id": "STRUCTURE_COLOR",
+                        "name": "Cor da estrutura",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "UPHOLSTERY_COLOR",
+                        "name": "Cor do estofamento",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "EXERCISE_TYPES",
+                        "name": "Tipos de exercícios",
+                        "value_name": "Mais de 100 exercícios."
+                    },
+                    {
+                        "id": "RECOMMENDED_MUSCLES",
+                        "name": "Músculos recomendados",
+                        "value_name": "Todos"
+                    },
+                    {
+                        "id": "STRUCTURE_MATERIALS",
+                        "name": "Materiais da estrutura",
+                        "value_name": "Aço"
+                    },
+                    {
+                        "id": "MAX_WEIGHT_CAPACITY",
+                        "name": "Capacidade máxima de peso",
+                        "value_id": "1162482",
+                        "value_name": "120 kg"
+                    },
+                    {
+                        "id": "INCLUDED_LOAD_WEIGHT",
+                        "name": "Peso da carga inclui",
+                        "value_id": "4986469",
+                        "value_name": "80 kg"
+                    },
+                    {
+                        "id": "INCLUDES_BAR",
+                        "name": "Inclui barra",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_REINFORCED_CABLES",
+                        "name": "Inclui cabos reforçados",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WORKOUT_BENCH",
+                        "name": "Inclui banco de exercícios",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_PULLEY_SYSTEM",
+                        "name": "Inclui sistema de polias",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "INCLUDES_WEIGHTS",
+                        "name": "Inclui pesos",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "USE_TYPES",
+                        "name": "Tipos de uso",
+                        "value_name": "Treino Residencial"
+                    },
+                    {
+                        "id": "ACCESSORIES_INCLUDED",
+                        "name": "Acessórios incluídos",
+                        "value_name": "Alças"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "8715841",
+                        "value_name": "92 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "42685114",
+                        "value_name": "1.92 m"
+                    },
+                    {
+                        "id": "HEIGHT",
+                        "name": "Altura",
+                        "value_id": "25644067",
+                        "value_name": "210 m"
+                    },
+                    {
+                        "id": "WEIGHT",
+                        "name": "Peso",
+                        "value_id": "25644071",
+                        "value_name": "133 kg"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "873571-MLU78394138390_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_873571-MLU78394138390_082024-F.jpg"
+                    },
+                    {
+                        "id": "652795-MLU78393980814_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_652795-MLU78393980814_082024-F.jpg"
+                    },
+                    {
+                        "id": "796006-MLU78394157802_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_796006-MLU78394157802_082024-F.jpg"
+                    },
+                    {
+                        "id": "844687-MLU78393980818_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_844687-MLU78393980818_082024-F.jpg"
+                    },
+                    {
+                        "id": "649298-MLU78625398799_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_649298-MLU78625398799_082024-F.jpg"
+                    },
+                    {
+                        "id": "607658-MLU78625398813_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_607658-MLU78625398813_082024-F.jpg"
+                    },
+                    {
+                        "id": "896784-MLU78394138412_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_896784-MLU78394138412_082024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB27897931",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Multi Estação De Musculação Profissional Academia Cor Preto",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB37276039",
+        "domain_id": "MLB-RESISTANCE_BANDS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB37276039",
+                "date_created": "2024-05-29T01:34:12Z",
+                "catalog_product_id": "MLB37276039",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-RESISTANCE_BANDS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Kit 3 Faixa Elastica Hip Mini Band Treino Exercicio Academia",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "24968025",
+                        "value_name": "Kit 3 Faixas Elasticas Treino"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "34431955",
+                        "value_name": "Hip Mini Band"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359392",
+                        "value_name": "Kit"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "334424",
+                        "value_name": "3"
+                    },
+                    {
+                        "id": "RESISTANCE_INTENSITIES",
+                        "name": "Intensidades de resistência",
+                        "value_name": "Leve, Medio, Pesado"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "15110321",
+                        "value_name": "76 m"
+                    },
+                    {
+                        "id": "WITH_HANDLES",
+                        "name": "Com alças",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3010075",
+                        "value_name": "3"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "857344-MLU77897409513_072024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_857344-MLU77897409513_072024-F.jpg"
+                    },
+                    {
+                        "id": "811164-MLU76494847304_052024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_811164-MLU76494847304_052024-F.jpg"
+                    },
+                    {
+                        "id": "972036-MLU76494798126_052024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_972036-MLU76494798126_052024-F.jpg"
+                    },
+                    {
+                        "id": "983030-MLU76494601226_052024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_983030-MLU76494601226_052024-F.jpg"
+                    },
+                    {
+                        "id": "732016-MLU76692376019_052024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_732016-MLU76692376019_052024-F.jpg"
+                    },
+                    {
+                        "id": "785139-MLU78087886864_082024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_785139-MLU78087886864_082024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB34154518",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Kit 3 Faixa Elastica Hip Mini Band Treino Exercicio Academia",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB35694733",
+        "domain_id": "MLB-RESISTANCE_BANDS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB35694733",
+                "date_created": "2024-04-11T05:01:39Z",
+                "catalog_product_id": "MLB35694733",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-RESISTANCE_BANDS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Kit 11 Elastico Extensor Para Treino Exercicio Fisioterapia Academia Ginastica Musculação Kaizu Shop",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "26977417",
+                        "value_name": "Kaizu Shop"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "38437719",
+                        "value_name": "Kit 11 Elastico Exercicio"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52049",
+                        "value_name": "Preto"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359392",
+                        "value_name": "Kit"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "1215521",
+                        "value_name": "11"
+                    },
+                    {
+                        "id": "RESISTANCE_INTENSITIES",
+                        "name": "Intensidades de resistência",
+                        "value_name": "Leve, Médio, Pesado, Super-leve, Super-pesado"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "124833",
+                        "value_name": "1.2 m"
+                    },
+                    {
+                        "id": "WITH_HANDLES",
+                        "name": "Com alças",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "PIECES_NUMBER",
+                        "name": "Quantidade de peças",
+                        "value_id": "3906530",
+                        "value_name": "11"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "973109-MLA83503339330_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_973109-MLA83503339330_042025-F.jpg"
+                    },
+                    {
+                        "id": "717196-MLA83503291482_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_717196-MLA83503291482_042025-F.jpg"
+                    },
+                    {
+                        "id": "974469-MLA83503368324_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_974469-MLA83503368324_042025-F.jpg"
+                    },
+                    {
+                        "id": "748156-MLA83503368332_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_748156-MLA83503368332_042025-F.jpg"
+                    },
+                    {
+                        "id": "875573-MLA83796058005_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_875573-MLA83796058005_042025-F.jpg"
+                    },
+                    {
+                        "id": "816619-MLA83503291526_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_816619-MLA83503291526_042025-F.jpg"
+                    },
+                    {
+                        "id": "940270-MLA83503339404_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_940270-MLA83503339404_042025-F.jpg"
+                    },
+                    {
+                        "id": "715302-MLA83795972273_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_715302-MLA83795972273_042025-F.jpg"
+                    },
+                    {
+                        "id": "778108-MLA83503339430_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_778108-MLA83503339430_042025-F.jpg"
+                    },
+                    {
+                        "id": "729499-MLA83795972295_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_729499-MLA83795972295_042025-F.jpg"
+                    },
+                    {
+                        "id": "695080-MLA83503339466_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_695080-MLA83503339466_042025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB37506104",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Kit 11 Elastico Extensor Para Treino Exercicio Fisioterapia Academia Ginastica Musculação Kaizu Shop",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB36118110",
+        "domain_id": "MLB-GYM_LIFTING_STRAPS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB36118110",
+                "date_created": "2024-04-23T22:13:46Z",
+                "catalog_product_id": "MLB36118110",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-GYM_LIFTING_STRAPS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Fita Strap Profissional 100% Algodão Mais Resultado Cor Preto/azul Fortwazz ZZ50",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "26124625",
+                        "value_name": "Fortwazz"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "26124624",
+                        "value_name": "ZZ50"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "59785",
+                        "value_name": "Preto/Azul"
+                    },
+                    {
+                        "id": "PAIRS_NUMBER",
+                        "name": "Quantidade de pares",
+                        "value_id": "3626979",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450293",
+                        "value_name": "Azul"
+                    },
+                    {
+                        "id": "STRAPS_NUMBER",
+                        "name": "Quantidade de straps",
+                        "value_id": "21053833",
+                        "value_name": "2"
+                    },
+                    {
+                        "id": "MATERIAL",
+                        "name": "Material",
+                        "value_id": "466793",
+                        "value_name": "Algodão"
+                    },
+                    {
+                        "id": "LENGTH",
+                        "name": "Comprimento",
+                        "value_id": "908317",
+                        "value_name": "60 cm"
+                    },
+                    {
+                        "id": "WIDTH",
+                        "name": "Largura",
+                        "value_id": "1115139",
+                        "value_name": "4 cm"
+                    },
+                    {
+                        "id": "IS_ANTI_SLIP",
+                        "name": "É antiderrapante",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "110461",
+                        "value_name": "Sem gênero"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "795888-MLU79016291406_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_795888-MLU79016291406_092024-F.jpg"
+                    },
+                    {
+                        "id": "736335-MLU79256171719_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_736335-MLU79256171719_092024-F.jpg"
+                    },
+                    {
+                        "id": "730727-MLU79256132191_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_730727-MLU79256132191_092024-F.jpg"
+                    },
+                    {
+                        "id": "869668-MLU79016271596_092024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_869668-MLU79016271596_092024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB25844774",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Fita Strap Profissional 100% Algodão Mais Resultado Cor Preto/azul Fortwazz ZZ50",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB6087972",
+        "domain_id": "MLB-SUPPLEMENTS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB6087972",
+                "date_created": "2015-12-30T22:41:56Z",
+                "catalog_product_id": "MLB6087972",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SUPPLEMENTS",
+                "settings": {
+                    "listing_strategy": "catalog_required",
+                    "exclusive": false
+                },
+                "name": "Suplemento Academia Whey Pro Max Titanium Concentrado Pote 1kg Sabor Chocolate",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "131529",
+                        "value_name": "Max Titanium"
+                    },
+                    {
+                        "id": "LINE",
+                        "name": "Linha",
+                        "value_id": "16105",
+                        "value_name": "Pro"
+                    },
+                    {
+                        "id": "MAIN_SUPPLEMENT",
+                        "name": "Suplemento principal",
+                        "value_id": "11310569",
+                        "value_name": "Proteína"
+                    },
+                    {
+                        "id": "TRADE_NAME",
+                        "name": "Nome comercial",
+                        "value_id": "325918",
+                        "value_name": "Whey Pro"
+                    },
+                    {
+                        "id": "SUPPLEMENT_FORMAT",
+                        "name": "Formato do suplemento",
+                        "value_id": "4567842",
+                        "value_name": "Pó"
+                    },
+                    {
+                        "id": "PACKAGING_TYPE",
+                        "name": "Tipo de embalagem",
+                        "value_id": "130169",
+                        "value_name": "Pote"
+                    },
+                    {
+                        "id": "FLAVOR",
+                        "name": "Sabor",
+                        "value_id": "2517712",
+                        "value_name": "Chocolate"
+                    },
+                    {
+                        "id": "SALE_FORMAT",
+                        "name": "Formato de venda",
+                        "value_id": "1359391",
+                        "value_name": "Unidade"
+                    },
+                    {
+                        "id": "UNITS_PER_PACKAGE",
+                        "name": "Unidades por embalagem",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "UNITS_PER_PACK",
+                        "name": "Unidades por kit",
+                        "value_id": "2726554",
+                        "value_name": "1"
+                    },
+                    {
+                        "id": "NET_WEIGHT",
+                        "name": "Peso líquido",
+                        "value_id": "135512",
+                        "value_name": "1 kg"
+                    },
+                    {
+                        "id": "INGREDIENTS",
+                        "name": "Ingredientes",
+                        "value_name": "Proteína concentrada do soro do leite (WPC), Emulsificante lecitina de soja, Aromatizantes, Edulcorante sucralose"
+                    },
+                    {
+                        "id": "NUTRITIONAL_VALUES_PER_SERVING",
+                        "name": "Valores nutricionais por porção",
+                        "value_name": "150 kcal valor energético, 19 g carbohidratos, 15 g proteínas, 1.5 g Grasas totales, 1.0 g grasas saturadas, 0 g grasas trans, 0 g fibra alimentar, 131 mg sodio"
+                    },
+                    {
+                        "id": "SUPPLEMENT_CLASS",
+                        "name": "Classe de suplemento",
+                        "value_id": "52261838",
+                        "value_name": "Proteínas"
+                    },
+                    {
+                        "id": "SUPPLEMENT_TYPE",
+                        "name": "Tipo de suplemento",
+                        "value_id": "13117980",
+                        "value_name": "Nutricional/Esportivo"
+                    },
+                    {
+                        "id": "SERVING_WEIGHT",
+                        "name": "Peso da porção",
+                        "value_id": "11006993",
+                        "value_name": "40 g"
+                    },
+                    {
+                        "id": "SERVING_VOLUME",
+                        "name": "Volume da porção",
+                        "value_id": "12269896",
+                        "value_name": "0 mL"
+                    },
+                    {
+                        "id": "AMINO_ACIDS_PER_SERVING",
+                        "name": "Aminoácidos por porção",
+                        "value_name": "800 mg alanina, 500 mg arginina, 1.400 mg ácido aspartico, 300 mg cistina, 2.500 mg ácido glutámico, 300 mg glicina, 400 mg histidina, 900 mg isoleucina, 1.700 mg leucina, 1.800 mg lisina, 300 mg metionina, 500 mg fenilalanina, 1.100 mg prolina, 800 mg serina, 1.000 mg treonina, 200 mg triptofano, 400 mg tirosina, 800 mg valina"
+                    },
+                    {
+                        "id": "MIN_RECOMMENDED_AGE",
+                        "name": "Idade mínima recomendada",
+                        "value_id": "10633233",
+                        "value_name": "18 anos"
+                    },
+                    {
+                        "id": "IS_GLUTEN_FREE",
+                        "name": "É livre de glúten",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "IS_VEGAN",
+                        "name": "É vegano",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "CONTAINS_LACTOSE",
+                        "name": "Contém lactose",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "ALLERGENIC_COMPONENTS",
+                        "name": "Componentes alergéneos",
+                        "value_name": "Derivados do leite, Derivados de soja, Derivados de huevo"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_LACTANTING_PEOPLE",
+                        "name": "É apto para as pessoas lactantes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_SUITABLE_FOR_PREGNANT_PEOPLE",
+                        "name": "É apto para as pessoas durante a gravidez",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "IS_ORGANIC",
+                        "name": "É orgânico",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "927256-MLA82243737156_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_927256-MLA82243737156_022025-F.jpg"
+                    },
+                    {
+                        "id": "788205-MLA82243639840_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_788205-MLA82243639840_022025-F.jpg"
+                    },
+                    {
+                        "id": "671087-MLA82243757008_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_671087-MLA82243757008_022025-F.jpg"
+                    },
+                    {
+                        "id": "982850-MLA82243639858_022025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_982850-MLA82243639858_022025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB6087970",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Suplemento Academia Whey Pro Max Titanium Concentrado Pote 1kg Sabor Chocolate",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    }
+]

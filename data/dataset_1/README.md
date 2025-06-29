@@ -1,0 +1,1 @@
+This dataset has 12648 products, because for some queries, the website did not return any product_id. I will proceed to classifying this dataset to finish the end-to-end architecture (from getting the products information, organizing in a dataframe, classifying and saving into a csv containing). This dataset will be versioned as dataset_1.

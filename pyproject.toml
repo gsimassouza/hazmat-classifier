@@ -8,12 +8,17 @@ packages = []  # opcional, se quiser deixar claro que nada será empacotado
 package-mode = false
 
 [tool.poetry.dependencies]
-python = ">=3.12"
+python = ">=3.12,<4.0"
 pandas = "^2.3.0"
 requests = "^2.32.4"
 dotenv = "^0.9.9"
 bs4 = "^0.0.2"
 beautifulsoup4 = "^4.13.4"
+litellm = "^1.73.2"
+docling = "^2.39.0"
+html-to-markdown = "^1.4.0"
+crawl4ai = "^0.6.3"
+google-adk = "^1.5.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

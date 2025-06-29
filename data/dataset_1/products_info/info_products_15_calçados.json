@@ -1,0 +1,1061 @@
+[
+    {
+        "keywords": "MLB19530955",
+        "domain_id": "MLB-SNEAKERS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB19530955",
+                "date_created": "2022-08-15T19:49:24Z",
+                "catalog_product_id": "MLB19530955",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SNEAKERS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Olympikus Delta Masculino Adultos",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "251409",
+                        "value_name": "Olympikus"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "2011",
+                        "value_name": "Delta"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "339666",
+                        "value_name": "Masculino"
+                    },
+                    {
+                        "id": "AGE_GROUP",
+                        "name": "Idade",
+                        "value_id": "6725189",
+                        "value_name": "Adultos"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "12947161",
+                        "value_name": "Azul/Preto/Preto"
+                    },
+                    {
+                        "id": "SIZE_GRID_ROW_ID",
+                        "name": "ID da linha da guia de tamanhos",
+                        "value_id": "11505430",
+                        "value_name": "210037:8"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450293",
+                        "value_name": "Azul"
+                    },
+                    {
+                        "id": "SIZE_GRID_ID",
+                        "name": "ID da guia de tamanhos",
+                        "value_id": "11505054",
+                        "value_name": "210037"
+                    },
+                    {
+                        "id": "EXTERIOR_MATERIALS",
+                        "name": "Materiais do exterior",
+                        "value_name": "Sintético, Tecido"
+                    },
+                    {
+                        "id": "OUTSOLE_MATERIALS",
+                        "name": "Materiais da sola",
+                        "value_name": "Borracha EVA"
+                    },
+                    {
+                        "id": "FOOTWEAR_TECHNOLOGIES",
+                        "name": "Tecnologias do calçado",
+                        "value_name": "Evasense"
+                    },
+                    {
+                        "id": "FOOTWEAR_TYPE",
+                        "name": "Tipo de calçado",
+                        "value_id": "517583",
+                        "value_name": "Tênis"
+                    },
+                    {
+                        "id": "ADJUSTMENT_TYPES",
+                        "name": "Tipos de ajuste",
+                        "value_name": "Cadarços"
+                    },
+                    {
+                        "id": "WITH_RECYCLED_MATERIALS",
+                        "name": "Com materiais reciclados",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "RECOMMENDED_USES",
+                        "name": "Usos recomendados",
+                        "value_name": "Training"
+                    },
+                    {
+                        "id": "WITH_ANTI_SLIP_OUTSOLE",
+                        "name": "Com sola antiderrapante",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PLATFORM",
+                        "name": "Com plataforma",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_LIGHTS",
+                        "name": "Com luzes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_PADDED_MIDSOLE",
+                        "name": "Com entressola acolchoada",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PADDED_COLLAR",
+                        "name": "Com cano acolchoado",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "SUITABLE_SURFACES",
+                        "name": "Superfícies aptas",
+                        "value_name": "Cimento"
+                    },
+                    {
+                        "id": "MPN",
+                        "name": "MPN",
+                        "value_name": "43321122_1-006"
+                    },
+                    {
+                        "id": "SIZE",
+                        "name": "Tamanho",
+                        "value_id": "11375348",
+                        "value_name": "40 BR"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "749436-MLA50876292799_072022",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_749436-MLA50876292799_072022-F.jpg"
+                    },
+                    {
+                        "id": "977164-MLA50876291829_072022",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_977164-MLA50876291829_072022-F.jpg"
+                    },
+                    {
+                        "id": "899199-MLA50876292814_072022",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_899199-MLA50876292814_072022-F.jpg"
+                    },
+                    {
+                        "id": "852183-MLA74676698586_022024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_852183-MLA74676698586_022024-F.jpg"
+                    },
+                    {
+                        "id": "892681-MLA74808090451_022024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_892681-MLA74808090451_022024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB19480915",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Olympikus Delta Masculino Adultos",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB47135251",
+        "domain_id": "MLB-SNEAKERS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB47135251",
+                "date_created": "2025-03-14T08:54:53Z",
+                "catalog_product_id": "MLB47135251",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SNEAKERS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Tênis Masculino Triunfo 3 Olympikus",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "251409",
+                        "value_name": "Olympikus"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "48704491",
+                        "value_name": "Triunfo 3"
+                    },
+                    {
+                        "id": "VERSION",
+                        "name": "Versão",
+                        "value_id": "2079807",
+                        "value_name": "3"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "339666",
+                        "value_name": "Masculino"
+                    },
+                    {
+                        "id": "ALPHANUMERIC_MODEL",
+                        "name": "Modelo alfanumérico",
+                        "value_id": "48704490",
+                        "value_name": "43290314"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "48704495",
+                        "value_name": "MRHDRD"
+                    },
+                    {
+                        "id": "FABRIC_DESIGN",
+                        "name": "Desenho do tecido",
+                        "value_id": "930483",
+                        "value_name": "Lisa"
+                    },
+                    {
+                        "id": "WIDTH_TYPE",
+                        "name": "Tipo de largura",
+                        "value_id": "15665144",
+                        "value_name": "Padrão"
+                    },
+                    {
+                        "id": "SIZE_GRID_ROW_ID",
+                        "name": "ID da linha da guia de tamanhos",
+                        "value_id": "48705252",
+                        "value_name": "2880540:7"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450293",
+                        "value_name": "Azul"
+                    },
+                    {
+                        "id": "SIZE_GRID_ID",
+                        "name": "ID da guia de tamanhos",
+                        "value_id": "48704499",
+                        "value_name": "2880540"
+                    },
+                    {
+                        "id": "EXTERIOR_MATERIALS",
+                        "name": "Materiais do exterior",
+                        "value_name": "Tecido"
+                    },
+                    {
+                        "id": "INTERIOR_MATERIALS",
+                        "name": "Materiais do interior",
+                        "value_name": "Poliéster com espuma"
+                    },
+                    {
+                        "id": "OUTSOLE_MATERIALS",
+                        "name": "Materiais da sola",
+                        "value_name": "EVA"
+                    },
+                    {
+                        "id": "FOOTWEAR_TECHNOLOGIES",
+                        "name": "Tecnologias do calçado",
+                        "value_name": "Evasense, Gripper, Supporter"
+                    },
+                    {
+                        "id": "FOOTWEAR_TYPE",
+                        "name": "Tipo de calçado",
+                        "value_id": "517583",
+                        "value_name": "Tênis"
+                    },
+                    {
+                        "id": "ADJUSTMENT_TYPES",
+                        "name": "Tipos de ajuste",
+                        "value_name": "Cadarços"
+                    },
+                    {
+                        "id": "WITH_RECYCLED_MATERIALS",
+                        "name": "Com materiais reciclados",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "RECOMMENDED_USES",
+                        "name": "Usos recomendados",
+                        "value_name": "Moda"
+                    },
+                    {
+                        "id": "IS_IMPERMEABLE",
+                        "name": "É impermeável",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_ANTI_SLIP_OUTSOLE",
+                        "name": "Com sola antiderrapante",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PLATFORM",
+                        "name": "Com plataforma",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_LIGHTS",
+                        "name": "Com luzes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_REMOVABLE_INSOLES",
+                        "name": "Com palmilhas removíveis",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_BREATHEABLE_INSOLES",
+                        "name": "Com palmilhas respiráveis",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "INSOLES_MATERIALS",
+                        "name": "Materiais das palmilhas",
+                        "value_name": "Poliéster e EVA"
+                    },
+                    {
+                        "id": "SHAFT_TYPE",
+                        "name": "Tipo de cano",
+                        "value_id": "1164226",
+                        "value_name": "Curto"
+                    },
+                    {
+                        "id": "MIDSOLE_MATERIALS",
+                        "name": "Materiais da entressola",
+                        "value_name": "Borracha EVA"
+                    },
+                    {
+                        "id": "WITH_PADDED_MIDSOLE",
+                        "name": "Com entressola acolchoada",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PADDED_TONGUE",
+                        "name": "Com lingüeta acolchoada",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PADDED_COLLAR",
+                        "name": "Com cano acolchoado",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "SUITABLE_SURFACES",
+                        "name": "Superfícies aptas",
+                        "value_name": "Cimento"
+                    },
+                    {
+                        "id": "RELEASE_SEASON",
+                        "name": "Temporada de lançamento",
+                        "value_id": "4369777",
+                        "value_name": "Todas as estações"
+                    },
+                    {
+                        "id": "RELEASE_YEAR",
+                        "name": "Ano de lançamento",
+                        "value_id": "35167500",
+                        "value_name": "2025"
+                    },
+                    {
+                        "id": "SIZE",
+                        "name": "Tamanho",
+                        "value_name": "39 BR"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "693941-MLA83363401028_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_693941-MLA83363401028_042025-F.jpg"
+                    },
+                    {
+                        "id": "754468-MLA83482264795_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_754468-MLA83482264795_042025-F.jpg"
+                    },
+                    {
+                        "id": "731030-MLA83190922998_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_731030-MLA83190922998_042025-F.jpg"
+                    },
+                    {
+                        "id": "748905-MLA83191040312_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_748905-MLA83191040312_042025-F.jpg"
+                    },
+                    {
+                        "id": "954407-MLA83482013257_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_954407-MLA83482013257_042025-F.jpg"
+                    },
+                    {
+                        "id": "633474-MLA83482187751_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_633474-MLA83482187751_042025-F.jpg"
+                    },
+                    {
+                        "id": "726361-MLA83482013267_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_726361-MLA83482013267_042025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB47134944",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Tênis Masculino Triunfo 3 Olympikus",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB45475084",
+        "domain_id": "MLB-SANDALS_AND_CLOGS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB45475084",
+                "date_created": "2025-01-15T00:19:47Z",
+                "catalog_product_id": "MLB45475084",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SANDALS_AND_CLOGS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Chinelo Feminino Slim Havaianas",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "127443",
+                        "value_name": "Havaianas"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "34975",
+                        "value_name": "Slim"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "339665",
+                        "value_name": "Feminino"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "46685872",
+                        "value_name": "0090 Preto"
+                    },
+                    {
+                        "id": "PATTERN_NAME",
+                        "name": "Nome do desenho",
+                        "value_id": "24721100",
+                        "value_name": "Liso"
+                    },
+                    {
+                        "id": "SIZE_GRID_ROW_ID",
+                        "name": "ID da linha da guia de tamanhos",
+                        "value_id": "46686210",
+                        "value_name": "2659496:3"
+                    },
+                    {
+                        "id": "SIZE_GRID_ID",
+                        "name": "ID da guia de tamanhos",
+                        "value_id": "46685874",
+                        "value_name": "2659496"
+                    },
+                    {
+                        "id": "FOOTWEAR_TYPE",
+                        "name": "Tipo de calçado",
+                        "value_id": "517586",
+                        "value_name": "Chinelo"
+                    },
+                    {
+                        "id": "FOOTWEAR_STYLE",
+                        "name": "Estilo do calçado",
+                        "value_id": "45659198",
+                        "value_name": "Chinelo"
+                    },
+                    {
+                        "id": "FOOTWEAR_MATERIALS",
+                        "name": "Materiais do calçado",
+                        "value_name": "Tiras em PVC"
+                    },
+                    {
+                        "id": "OUTSOLE_MATERIAL",
+                        "name": "Material da sola",
+                        "value_id": "930364",
+                        "value_name": "Borracha"
+                    },
+                    {
+                        "id": "RELEASE_SEASON",
+                        "name": "Temporada de lançamento",
+                        "value_id": "994283",
+                        "value_name": "Primavera/Verão"
+                    },
+                    {
+                        "id": "RELEASE_YEAR",
+                        "name": "Ano de lançamento",
+                        "value_id": "7885601",
+                        "value_name": "2020"
+                    },
+                    {
+                        "id": "WITH_PLATFORM",
+                        "name": "Com plataforma",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "SIZE",
+                        "name": "Tamanho",
+                        "value_name": "37/38"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "623232-MLA81945183965_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_623232-MLA81945183965_012025-F.jpg"
+                    },
+                    {
+                        "id": "995142-MLA81945193597_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_995142-MLA81945193597_012025-F.jpg"
+                    },
+                    {
+                        "id": "876569-MLA81945193601_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_876569-MLA81945193601_012025-F.jpg"
+                    },
+                    {
+                        "id": "671885-MLA81672743644_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg"
+                    },
+                    {
+                        "id": "857947-MLA81945286637_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_857947-MLA81945286637_012025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB44924727",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Chinelo Feminino Slim Havaianas",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB45774405",
+        "domain_id": "MLB-SANDALS_AND_CLOGS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB45774405",
+                "date_created": "2025-01-29T17:50:20Z",
+                "catalog_product_id": "MLB45774405",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SANDALS_AND_CLOGS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Chinelo Casual Masculino E Feminino Top Cor Branca Havaianas",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "127443",
+                        "value_name": "Havaianas"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "108015",
+                        "value_name": "Top"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "110461",
+                        "value_name": "Sem gênero"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "47046070",
+                        "value_name": "Branco"
+                    },
+                    {
+                        "id": "PATTERN_NAME",
+                        "name": "Nome do desenho",
+                        "value_id": "24721100",
+                        "value_name": "Liso"
+                    },
+                    {
+                        "id": "SIZE_GRID_ROW_ID",
+                        "name": "ID da linha da guia de tamanhos",
+                        "value_id": "46111182",
+                        "value_name": "2675929:5"
+                    },
+                    {
+                        "id": "MAIN_COLOR",
+                        "name": "Cor principal",
+                        "value_id": "2450308",
+                        "value_name": "Branco"
+                    },
+                    {
+                        "id": "SIZE_GRID_ID",
+                        "name": "ID da guia de tamanhos",
+                        "value_id": "46109861",
+                        "value_name": "2675929"
+                    },
+                    {
+                        "id": "FOOTWEAR_TYPE",
+                        "name": "Tipo de calçado",
+                        "value_id": "517586",
+                        "value_name": "Chinelo"
+                    },
+                    {
+                        "id": "FOOTWEAR_STYLE",
+                        "name": "Estilo do calçado",
+                        "value_id": "44712379",
+                        "value_name": "Sandálias"
+                    },
+                    {
+                        "id": "FOOTWEAR_MATERIALS",
+                        "name": "Materiais do calçado",
+                        "value_name": "Tiras em PVC, Borracha"
+                    },
+                    {
+                        "id": "OUTSOLE_MATERIAL",
+                        "name": "Material da sola",
+                        "value_id": "930364",
+                        "value_name": "Borracha"
+                    },
+                    {
+                        "id": "RELEASE_SEASON",
+                        "name": "Temporada de lançamento",
+                        "value_id": "994283",
+                        "value_name": "Primavera/Verão"
+                    },
+                    {
+                        "id": "RELEASE_YEAR",
+                        "name": "Ano de lançamento",
+                        "value_id": "7885601",
+                        "value_name": "2020"
+                    },
+                    {
+                        "id": "WITH_PLATFORM",
+                        "name": "Com plataforma",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "HEEL_TYPE",
+                        "name": "Tipo de salto",
+                        "value_id": "46109860",
+                        "value_name": "Indeterminado"
+                    },
+                    {
+                        "id": "FOOTWEAR_CLOSURE_TYPE",
+                        "name": "Tipo de fechamento do calçado",
+                        "value_id": "46109856",
+                        "value_name": "Indeterminado"
+                    },
+                    {
+                        "id": "TECHNOLOGY",
+                        "name": "Tecnologia",
+                        "value_id": "46109863",
+                        "value_name": "Indeterminado"
+                    },
+                    {
+                        "id": "SHOE_INSOLE_TYPE",
+                        "name": "Tipo de palmilha",
+                        "value_id": "11959106",
+                        "value_name": "Regular"
+                    },
+                    {
+                        "id": "FOOTWEAR_DECORATION_TYPE",
+                        "name": "Tipo de decoração do calçado",
+                        "value_id": "46109857",
+                        "value_name": "Indeterminado"
+                    },
+                    {
+                        "id": "SIZE",
+                        "name": "Tamanho",
+                        "value_name": "41.42 BR"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "963202-MLA81498348675_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_963202-MLA81498348675_122024-F.jpg"
+                    },
+                    {
+                        "id": "765517-MLA81888651384_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_765517-MLA81888651384_012025-F.jpg"
+                    },
+                    {
+                        "id": "961609-MLA81888651402_012025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_961609-MLA81888651402_012025-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB44923444",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Chinelo Casual Masculino E Feminino Top Cor Branca Havaianas",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    },
+    {
+        "keywords": "MLB44925299",
+        "domain_id": "MLB-SNEAKERS",
+        "paging": {
+            "total": 1,
+            "limit": 10,
+            "offset": 0
+        },
+        "results": [
+            {
+                "id": "MLB44925299",
+                "date_created": "2024-12-19T04:38:34Z",
+                "catalog_product_id": "MLB44925299",
+                "pdp_types": [],
+                "status": "active",
+                "domain_id": "MLB-SNEAKERS",
+                "settings": {
+                    "listing_strategy": "open",
+                    "exclusive": false
+                },
+                "name": "Tênis De Corrida Masculino Challenger 5 Olympikus",
+                "main_features": [],
+                "attributes": [
+                    {
+                        "id": "BRAND",
+                        "name": "Marca",
+                        "value_id": "251409",
+                        "value_name": "Olympikus"
+                    },
+                    {
+                        "id": "MODEL",
+                        "name": "Modelo",
+                        "value_id": "45624123",
+                        "value_name": "Challenger 5"
+                    },
+                    {
+                        "id": "VERSION",
+                        "name": "Versão",
+                        "value_id": "443491",
+                        "value_name": "5"
+                    },
+                    {
+                        "id": "GENDER",
+                        "name": "Gênero",
+                        "value_id": "339666",
+                        "value_name": "Masculino"
+                    },
+                    {
+                        "id": "ALPHANUMERIC_MODEL",
+                        "name": "Modelo alfanumérico",
+                        "value_id": "45624119",
+                        "value_name": "43271285"
+                    },
+                    {
+                        "id": "COLOR",
+                        "name": "Cor",
+                        "value_id": "52055",
+                        "value_name": "Branco"
+                    },
+                    {
+                        "id": "FABRIC_DESIGN",
+                        "name": "Desenho do tecido",
+                        "value_id": "930483",
+                        "value_name": "Lisa"
+                    },
+                    {
+                        "id": "WIDTH_TYPE",
+                        "name": "Tipo de largura",
+                        "value_id": "15665144",
+                        "value_name": "Padrão"
+                    },
+                    {
+                        "id": "SIZE_GRID_ROW_ID",
+                        "name": "ID da linha da guia de tamanhos",
+                        "value_id": "46111428",
+                        "value_name": "2593074:4"
+                    },
+                    {
+                        "id": "SIZE_GRID_ID",
+                        "name": "ID da guia de tamanhos",
+                        "value_id": "46109837",
+                        "value_name": "2593074"
+                    },
+                    {
+                        "id": "EXTERIOR_MATERIALS",
+                        "name": "Materiais do exterior",
+                        "value_name": "Tecido"
+                    },
+                    {
+                        "id": "INTERIOR_MATERIALS",
+                        "name": "Materiais do interior",
+                        "value_name": "Tecido Poliéster"
+                    },
+                    {
+                        "id": "OUTSOLE_MATERIALS",
+                        "name": "Materiais da sola",
+                        "value_name": "Borracha"
+                    },
+                    {
+                        "id": "FOOTWEAR_TECHNOLOGIES",
+                        "name": "Tecnologias do calçado",
+                        "value_name": "Eleva +, Gripper, Hypersox"
+                    },
+                    {
+                        "id": "FOOTWEAR_TYPE",
+                        "name": "Tipo de calçado",
+                        "value_id": "517583",
+                        "value_name": "Tênis"
+                    },
+                    {
+                        "id": "ADJUSTMENT_TYPES",
+                        "name": "Tipos de ajuste",
+                        "value_name": "Cadarços"
+                    },
+                    {
+                        "id": "WITH_RECYCLED_MATERIALS",
+                        "name": "Com materiais reciclados",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "RECOMMENDED_USES",
+                        "name": "Usos recomendados",
+                        "value_name": "Caminhada, Corrida, Dia a dia"
+                    },
+                    {
+                        "id": "EXTERIOR_COMPOSITION",
+                        "name": "Composição do exterior",
+                        "value_name": "Tecido"
+                    },
+                    {
+                        "id": "OUTSOLE_COMPOSITION",
+                        "name": "Composição da sola",
+                        "value_name": "Borracha, EVA"
+                    },
+                    {
+                        "id": "IS_IMPERMEABLE",
+                        "name": "É impermeável",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_ANTI_SLIP_OUTSOLE",
+                        "name": "Com sola antiderrapante",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PLATFORM",
+                        "name": "Com plataforma",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_LIGHTS",
+                        "name": "Com luzes",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "WITH_REMOVABLE_INSOLES",
+                        "name": "Com palmilhas removíveis",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_BREATHEABLE_INSOLES",
+                        "name": "Com palmilhas respiráveis",
+                        "value_id": "242084",
+                        "value_name": "Não"
+                    },
+                    {
+                        "id": "INSOLES_MATERIALS",
+                        "name": "Materiais das palmilhas",
+                        "value_name": "Borracha EVA"
+                    },
+                    {
+                        "id": "SHAFT_TYPE",
+                        "name": "Tipo de cano",
+                        "value_id": "1164226",
+                        "value_name": "Curto"
+                    },
+                    {
+                        "id": "MIDSOLE_MATERIALS",
+                        "name": "Materiais da entressola",
+                        "value_name": "Borracha EVA"
+                    },
+                    {
+                        "id": "WITH_PADDED_MIDSOLE",
+                        "name": "Com entressola acolchoada",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PADDED_TONGUE",
+                        "name": "Com lingüeta acolchoada",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "WITH_PADDED_COLLAR",
+                        "name": "Com cano acolchoado",
+                        "value_id": "242085",
+                        "value_name": "Sim"
+                    },
+                    {
+                        "id": "SUITABLE_SURFACES",
+                        "name": "Superfícies aptas",
+                        "value_name": "TODAS"
+                    },
+                    {
+                        "id": "RELEASE_SEASON",
+                        "name": "Temporada de lançamento",
+                        "value_id": "4369777",
+                        "value_name": "Todas as estações"
+                    },
+                    {
+                        "id": "RELEASE_YEAR",
+                        "name": "Ano de lançamento",
+                        "value_id": "22764580",
+                        "value_name": "2024"
+                    },
+                    {
+                        "id": "SIZE",
+                        "name": "Tamanho",
+                        "value_name": "36 BR"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "id": "608264-MLA81230007940_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_608264-MLA81230007940_122024-F.jpg"
+                    },
+                    {
+                        "id": "676928-MLA81498348637_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_676928-MLA81498348637_122024-F.jpg"
+                    },
+                    {
+                        "id": "988263-MLA83496855337_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_988263-MLA83496855337_042025-F.jpg"
+                    },
+                    {
+                        "id": "603007-MLA83205568808_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_603007-MLA83205568808_042025-F.jpg"
+                    },
+                    {
+                        "id": "832716-MLA83497320171_042025",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_832716-MLA83497320171_042025-F.jpg"
+                    },
+                    {
+                        "id": "622791-MLA81498043683_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_622791-MLA81498043683_122024-F.jpg"
+                    },
+                    {
+                        "id": "661595-MLA81230007952_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_661595-MLA81230007952_122024-F.jpg"
+                    },
+                    {
+                        "id": "637465-MLA81498043687_122024",
+                        "url": "https://http2.mlstatic.com/D_NQ_NP_637465-MLA81498043687_122024-F.jpg"
+                    }
+                ],
+                "parent_id": "MLB44923433",
+                "children_ids": [],
+                "quality_type": "COMPLETE",
+                "priority": "MEDIUM",
+                "type": "PRODUCT",
+                "site_id": "MLB",
+                "keywords": "Tênis De Corrida Masculino Challenger 5 Olympikus",
+                "variations": [],
+                "description": ""
+            }
+        ],
+        "used_attributes": [],
+        "query_type": "PRODUCT_ID"
+    }
+]

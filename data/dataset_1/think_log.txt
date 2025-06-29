@@ -1,0 +1,22 @@
+Batch 1:
+The user wants me to classify five products based on the provided Hazmat definition. I need to evaluate each product's title and attributes against the nine Hazmat classes and their examples.
+
+1.  **Product MLB29523289:** A chair base made of steel, nylon, and plastic. These materials are inert and do not fall into any Hazmat categories.
+2.  **Product MLB34230359:** An office desk made of MDP. MDP is a wood-based material, which is not classified as a Hazmat in its finished form according to the definition.
+3.  **Product MLB15904595:** An office chair made of synthetic PU fabric, metal, and foam. These are common, non-hazardous materials for furniture.
+4.  **Product MLB26801865:** A lunchbox made of plastic. Finished plastic products are generally not Hazmat.
+5.  **Product MLB22522670:** An office chair made of mesh upholstery, steel, and foam. Similar to the other chairs, these materials are non-hazardous in this context.
+
+None of these products contain substances that are radioactive, flammable, explosive, corrosive, oxidizing, asphyxiating, biohazardous, toxic, poisonous, pathogenic, or allergenic in a way that would classify them as Hazmat for transport or general handling as finished goods. They are all common consumer goods made of stable materials.
+
+Batch 3:
+I will classify each product based on the provided Hazmat definition. I will examine the product title and attributes for any materials or characteristics that match the nine classes of hazardous materials (Explosives, Gases, Flammable Liquids, Flammable Solids, Oxidizing Agents, Toxic/Infectious, Radioactive, Corrosive, Miscellaneous Hazardous).
+
+1.  **MLB44809994 (Estante Para Livros):** This is a bookcase made of wood and iron. These materials, in this form, are not listed as hazardous in the definition.
+2.  **MLB19582938 (Cadeira De Escritório):** This is an office chair made of synthetic leather, wood, foam, and chrome. None of these materials, as part of a finished chair, are defined as hazardous.
+3.  **MLB26982962 (Escrivaninha):** This is a desk made of MDP and iron. These materials, in this form, are not defined as hazardous.
+4.  **MLB32459667 (Etiqueta Impressora A4):** This product is A4 adhesive paper labels. Paper and common adhesives in this form are not listed as hazardous materials.
+5.  **MLB30185053 (Armário Aéreo Escritório):** This is an office cabinet made of MDP. MDP is not listed as a hazardous material.
+
+Based on the analysis, none of the products contain substances or characteristics that align with the Hazmat definition provided.
+
