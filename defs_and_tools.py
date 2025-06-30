@@ -1,4 +1,5 @@
-# Code to create function to call LLM receiving a prompt and returning the response
+# File: defs_and_tools.py
+# This file contains definitions and tools used in the project.
 
 import litellm
 
