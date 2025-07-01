@@ -85715,3 +85715,322 @@ I will analyze each product based on the provided Hazmat definition, focusing on
 ]
 ```
 
+Batch 1:
+Here's the Hazmat classification for each product:
+
+**Reasoning Process:**
+
+1.  **MLB26638075 - Adesivo De Parede Regua Altura Do Crescimento Decorativa Cor CASTELO**: This is a decorative wall decal. While "adhesives" can be Hazmat, this is a finished product (a roll of adhesive material) for home decoration, not a liquid adhesive or solvent. It falls under "Furniture & Home Goods" which are typically non-Hazmat.
+2.  **MLB47671976 - Rodinha Cadeira Rodízio C/ 5 Rodas Anti-risco Pu Escritório Roda Brcost**: These are chair wheels made of silicone and ABS. These are basic hardware components. No hazardous materials or properties are indicated. Falls under "Tools & Hardware (Non-Chemical)" or "Furniture & Home Goods".
+3.  **MLB24144140 - Armário Aço Escritório Fechadura 4 Prateleiras Ea301 Azul**: This is a steel office cabinet. It's a piece of furniture made of common materials (steel). No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+4.  **MLB43793644 - Pistão Gás Coluna Universal Cadeira Reforçada Classe-4 180kg**: This is a "Pistão Gás" (gas piston/gas lift) for a chair. Gas lifts contain compressed gas (typically nitrogen). The Hazmat definition lists "compressed gases/liquids" and "Non-flammable gases" (Class 2) as hazardous materials.
+5.  **MLB41371816 - Mesa Escrivaninha Gamer Para Quarto Estudo Home Office Escritório Com Gaveta E Prateleira - Moveis Barboza**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+6.  **MLB21964604 - Adesivo Decorativo Dia Dos Pais Bigode Cor Preto**: This is a decorative sticker. Similar to MLB26638075, it's a finished decorative item. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods" or "Office Supplies".
+7.  **MLB25772829 - Armário Para Escritório 2 Portas Rústico Me4115 - Tecno Cor Marrom**: This is an office cabinet made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+8.  **MLB25535738 - Painel Ripado Laminado De Eva Cor Black Linha Urban - 10m Cor Preto**: This is a laminated EVA panel. EVA is a common plastic/foam material. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+9.  **MLB47188113 - Kit De Limpador Perfumado Chá Branco E Orquídea Negra 120ml**: This is a "Limpador Perfumado" (perfumed cleaner). The Hazmat definition explicitly lists "Chemical products (acids, solvents, cleaners)" under "HAZMAT Indicators". Cleaners, by nature, contain chemical substances that can pose risks.
+10. **MLB50365086 - Kit Capas De Almofadas Decorativas Estampadas Com Zíper 45 X 45 Cm Modernas Luxo Sala Quarto Escritório 04 Peças**: These are pillow covers made of polyester. These are textile items. No hazardous materials or properties are indicated. Falls under "Clothing & Textiles" or "Furniture & Home Goods".
+11. **MLB49876937 - Kit 5 Rodas Para Cadeira De Escritório e Gamer Rodizios Rodinhas Risistente Silicone Gel Anti Riscos 3 Polegadas Pino 11mm Rodas Ideal Para Pisos Em Madeira E Carpete Marca Rrj Com Tecnologia Ro-2034**: These are chair wheels made of silicone. Similar to MLB47671976, these are basic hardware components. No hazardous materials or properties are indicated. Falls under "Tools & Hardware (Non-Chemical)" or "Furniture & Home Goods".
+12. **MLB25891155 - Cadeira Gamer Havit - Gc933 Ultimate - Rosa(pink) E Branca**: This is a gaming chair made of synthetic leather, steel, foam, and metal. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+13. **MLB50471009 - Adesivo De Parede Decal Infantil Galhos Coruja Baby Premium Cor Corujinha Baby**: This is a decorative wall decal. Similar to MLB26638075 and MLB21964604, it's a finished decorative item. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods" or "Office Supplies".
+14. **MLB24032011 - Escrivaninha Taurus Gaveta Com Chave 1.20mx 74cm x 60cm Preto Móveis Escritório**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+15. **MLB29354385 - Conjunto 2 Prateleira De Aço 6 Níveis Estante Organizadora Livros Ferramentas Escritório Marca Cozinha Gourmet + Brinde**: This is a steel shelf unit with epoxy paint. The paint is a cured coating on a finished product, not a hazardous substance in itself for transport. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+16. **MLB31756787 - Escrivaninha Classicmaga150 Para Escritório Mesa Diretor Industrial 150x60 Cor Laminado com Preto Sofa Sogude**: This is a desk made of MDP/steel. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+17. **MLB23925171 - Luminária De Mesa Escritório Leitura Led 4w Pelicano - Kian Cor Da Estrutura Azul**: This is an LED desk lamp. It's a complete electronic device. The definition lists "Complete electronic devices (phones, computers)" as non-Hazmat. No hazardous components (e.g., loose batteries, mercury) are indicated.
+18. **MLB24720671 - Mesa Em L Escritório Diretor Metal Madeira 150x150cm Cor Preto Total E-led Brasil**: This is a desk made of MDP/metal. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+19. **MLB18193875 - Cadeira de escritório Ultra Móveis Corporativo Caixa couro ecológico Cadeira Caixa Couro Ecológico ergonômica preta com estofado de couro sintético**: This is an office chair made of synthetic leather, foam, and iron. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+20. **MLB24245622 - Escrivaninha Mesa Para Computador Gamer 9424 Madesa Cor Preto/Azul**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+21. **MLB28842997 - Mesa De Escritório 1.20x60 Tampo 30mm Netmobil Cor Carvalho**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+22. **MLB15742233 - Escrivaninha Compace W30ML7181.CL.GF20 mdp de 1.6m x 75cm x 70cm x 1.8m preto-onix BP acetinado**: This is a desk made of MDP and PVC. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+23. **MLB51385229 - Organizador Acrilico Escritório Sala Estante Sala Multiuso Livros Bolsa Clutch Carteira Paramount**: This is an organizer made of acrylic. It's an office supply/home good. No hazardous materials or properties are indicated. Falls under "Office Supplies" or "Furniture & Home Goods".
+24. **MLB33302205 - Mesa Escrivaninha Industrial Home Office Com Prateleiras Vintage Industrial De Ferro E Madeira Cor: Amadeirado Mel E-led**: This is a desk made of MDP and metal. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+25. **MLB35330674 - Mesa Escrivaninha L Gamer Para Computador Em Madeira Cor Preta Casa Lustre**: This is a desk made of MDF and MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+26. **MLB24031104 - Cadeira De Escritório Astra Ergonômica Elements Cinza Branco**: This is an office chair made of mesh, steel, and foam. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+27. **MLB29424956 - Kit 3 controle remoto 433 portão automático alarme Rcg**: This remote control includes a "Bateria recarregável" with "Voltagem da bateria: 12V". The definition explicitly states "Batteries (when sold separately)" are Hazmat. While this is a complete device, a 12V rechargeable battery is often a more significant battery type (e.g., lead-acid, certain lithium types) that can pose risks if mishandled, short-circuited, or damaged, unlike small button cells or AA/AAA batteries typically found in simple remotes which are generally non-Hazmat when contained within a device. Given the voltage, it's safer to classify it as Hazmat.
+28. **MLB50127182 - Mesa Escrivaninha Milão Estilo Home Com Prateleira Para Pc Cor Preto**: This is a desk made of MDF. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+29. **MLB14574546 - Escrivaninha J&A Móveis Taurus 02 gavetas com chave 1.20m Jequitibá**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+30. **MLB38093082 - Tapete Para Quarto ,sala ,escritório 1,33 X 2,00 Pelo Macio. Cor Prata Desenho Do Tecido Prata**: This is a carpet/rug made of polyester. It's a textile home good. No hazardous materials or properties are indicated. Falls under "Clothing & Textiles" or "Furniture & Home Goods".
+31. **MLB50168118 - Espelho 170x70 Orgânico Led Grande Corpo Inteiro Luxo Moldura Led Branco Frio**: This is a mirror with integrated LED lighting. It's a complete electronic device. The definition lists "Complete electronic devices (phones, computers)" as non-Hazmat. No hazardous components (e.g., loose batteries, mercury) are indicated.
+32. **MLB27956224 - Cadeira de Escritório Renaflex Caixa Alta com Braços Preta com Estofado de Tecido Jserrano**: This is an office chair made of fabric and steel. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+33. **MLB25602798 - Escrivaninha Diretor Estilo Industrial 1,80m Kuadra Cor Carvalho / Est.Preta**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+34. **MLB47548844 - Kit 4 Organizador Guarda Roupa Cesto Caixa Multiuso Dobrável Cor Cinza-escuro**: This is a fabric organizer made of polyester. It's a home good. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods".
+35. **MLB50124416 - Tapete Sala Quarto Grande 300x200 Algodão Antiderrapante Comprimento 3 M Cor Branco/preto Desenho Do Tecido Obra Arte Largura 2 M**: This is a carpet/rug made of cotton, jacquard, and latex. While latex can be allergenic, the definition does not classify finished goods with bound allergenic materials as Hazmat; it refers to allergenic *substances*. No hazardous properties indicated for the finished product. Falls under "Clothing & Textiles" or "Furniture & Home Goods".
+36. **MLB25442580 - Suporte Aparador Bibliocanto Acrimet Premium 2 Peças P/livros Organizador Cor Preto**: This is a bookend/organizer made of metal. It's an office supply/home good. No hazardous materials or properties are indicated. Falls under "Office Supplies" or "Furniture & Home Goods".
+37. **MLB43830624 - Kit 10 Placas Adesivas Mármore Parede 3d Porcelanato Lavável Cor Branco**: These are adhesive wall panels. Similar to other wall decals, these are finished decorative items. The adhesive is integrated into the solid panels, not a liquid adhesive or solvent. No hazardous materials or properties are indicated for the finished product. Falls under "Furniture & Home Goods".
+38. **MLB15841767 - Escrivaninha Netmobil Mesa para escritorio industrial mdp de 1.5m x 75cm x 60cm branco**: This is a desk made of MDP and metal. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+39. **MLB38197921 - Lixeira Redonda Aço Inox 5 Litros Tampa Basculante Banheiro**: This is a trash can made of stainless steel. It's a home good. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods".
+40. **MLB42863681 - Mesa Escrivaninha Estilo Industrial Em L Com Prateleiras - Klm Store - Bronze/off White**: This is a desk made of carbon steel and MDF. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+41. **MLB25959537 - Mesa Escrivaninha Para Escritório Office 1,20m Dynamica Cor Nogal / Est.Preta**: This is a desk made of steel and MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+42. **MLB24326308 - Armário Livreiro Estante Multiuso Para Quarto 2 Portas Preta**: This is a cabinet/bookshelf. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+43. **MLB21686843 - Mesa Escritório C/ Gaveta 1,18x53cm Freijo Preto Fosco Prade**: This is a desk made of MDF. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+44. **MLB50439811 - Tapete Decorativo 1,46x200 Maya Antiderrapante Sala Quarto Comprimento 2 M Cor Cinza-escuro Desenho Do Tecido Geométrico Largura 1.46 M**: This is a carpet/rug made of cotton, latex, and polyester. Similar to MLB50124416, no hazardous properties indicated for the finished product. Falls under "Clothing & Textiles" or "Furniture & Home Goods".
+45. **MLB23809073 - Lixeira Suspensa Tampa Retrátil Chão Armário Cozinha Quarto**: This is a trash can made of reinforced plastic and rubber. It's a home good. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods".
+46. **MLB35898105 - Balcão Organizador Escritório 270cm M515.b (escritório)**: This is an office counter/organizer made of MDF. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+47. **MLB21410344 - Escrivaninha Em L Taurus Cores 2 Gavetas - J&a Branco**: This is a desk made of MDF/MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+48. **MLB24665561 - Mesa Escrivaninha Para Escritório Computador Estudos Gaveta Cor Off White/Cumaru**: This is a desk made of MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+49. **MLB51527694 - Kit 4 Organizador Acrilico Escritório Sala Estante Sala Multiuso Livros Bolsa Clutch Carteira Paramount**: This is an organizer made of acrylic. Similar to MLB51385229, it's an office supply/home good. No hazardous materials or properties are indicated. Falls under "Office Supplies" or "Furniture & Home Goods".
+50. **MLB47706305 - Adesivo Decorativo Flores Roda Teto Aquarela Jardim Rosa Cor Jardim 01**: This is a decorative wall decal. Similar to MLB26638075, MLB21964604, MLB50471009, and MLB43830624, it's a finished decorative item. No hazardous materials or properties are indicated. Falls under "Furniture & Home Goods" or "Office Supplies".
+51. **MLB39459990 - Apoio Para Pés Ergonômico Reclinável - Descanso Para Escritório**: This is a footrest made of plastic. It's an office accessory. No hazardous materials or properties are indicated. Falls under "Office Supplies" or "Furniture & Home Goods".
+52. **MLB17810620 - Cadeira de Escritório Pctop Office Fit 1001 9050 Ergonômica Preta com Estofado de Mesh y Tecido**: This is an office chair made of mesh, fabric, steel, polypropylene, foam, and metal. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+53. **MLB37988571 - Relógio De Parede Decorativo Grande 30cm Silencioso Cozinha Estrutura Cinza Fundo Cinza**: This is a wall clock. It uses an AA battery. The definition explicitly states "Batteries (when sold separately)" are Hazmat, implying that batteries *contained within* a complete electronic device are generally not Hazmat for transport. This is a complete electronic device.
+54. **MLB32239475 - GF Casa Decor Placa 3D Cor Branco Kit 15 Autocolante Revestimento Tijolinho**: These are adhesive 3D wall panels. Similar to MLB43830624, these are finished decorative items with integrated adhesive. No hazardous materials or properties are indicated for the finished product. Falls under "Furniture & Home Goods".
+55. **MLB30999068 - Estante Organizadora 57cm Multimóveis Cr25251 Cor Natura/off White**: This is a shelf unit made of MDP. It's a piece of furniture. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+56. **MLB34154784 - Mesa Home Office C/prateleiras Industrial E&a Moveis Cor Preto/canela**: This is a desk made of iron and MDP. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+57. **MLB37024908 - Saco Lixo Branco Reforçado Casa Escritório Perfumado 50l**: These are perfumed trash bags. While "perfume" contains chemicals, the quantity and concentration in a finished product like a trash bag are negligible and do not pose a Hazmat risk. The primary material is plastic.
+58. **MLB15580104 - Escrivaninha Compace KUME150.CL mdp de 1.5m x 75cm x 60cm carvalho Acetinado**: This is a desk made of MDP, steel, and MDF. It's a piece of furniture made of common materials. No hazardous components or properties are indicated. Falls under "Furniture & Home Goods".
+59. **MLB42520997 - Computador Completo 2Eletro Slim Intel Core i5, 8GB RAM, SSD 256GB, Bivolt, Monitor 20" LED - CD2E-0110SL**: This is a "Computador Completo" (complete computer). The definition explicitly lists "Complete electronic devices (phones, computers)" under "NON-HAZMAT Indicators".
+60. **MLB30196919 - Nexgard Spectra 30,1 A 60kg Pulga Carrapato Sarna Verme 3 Un Cor Vermelho**: This product is described as an "Inseticida" (insecticide) and "Vermifugo" (dewormer). The Hazmat definition lists "Pesticides" as "Toxic substances liable to cause death or serious injury if inhaled, swallowed, or by skin absorption" (Class 6: Toxic and Infectious Substances).
+
+```json
+[
+  {
+    "product_id": "MLB26638075",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB47671976",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24144140",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB43793644",
+    "is_hazmat": true,
+    "reason": "Contains a compressed gas (gas piston/lift), which is classified under Class 2: Gases (Non-flammable gases).",
+    "confidence": "high"
+  },
+  {
+    "product_id": "MLB41371816",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB21964604",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25772829",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25535738",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB47188113",
+    "is_hazmat": true,
+    "reason": "It is a 'Limpador Perfumado' (perfumed cleaner), which falls under 'Chemical products (acids, solvents, cleaners)', a Hazmat indicator.",
+    "confidence": "high"
+  },
+  {
+    "product_id": "MLB50365086",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB49876937",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25891155",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB50471009",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24032011",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB29354385",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB31756787",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB23925171",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24720671",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB18193875",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24245622",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB28842997",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB15742233",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB51385229",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB33302205",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB35330674",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24031104",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB29424956",
+    "is_hazmat": true,
+    "reason": "Contains a 'Bateria recarregável' (rechargeable battery) with '12V' voltage. The definition lists 'Batteries (when sold separately)' as a Hazmat indicator, and higher voltage rechargeable batteries often fall under Hazmat regulations due to potential risks.",
+    "confidence": "medium"
+  },
+  {
+    "product_id": "MLB50127182",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB14574546",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB38093082",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB50168118",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB27956224",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25602798",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB47548844",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB50124416",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25442580",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB43830624",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB15841767",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB38197921",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB42863681",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB25959537",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24326308",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB21686843",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB50439811",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB23809073",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB35898105",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB21410344",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB24665561",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB51527694",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB47706305",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB39459990",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB17810620",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB37988571",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB32239475",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB30999068",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB34154784",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB37024908",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB15580104",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB42520997",
+    "is_hazmat": false
+  },
+  {
+    "product_id": "MLB30196919",
+    "is_hazmat": true,
+    "reason": "It is an 'Inseticida' and 'Vermifugo' (pesticide/dewormer). The definition classifies 'Pesticides' as 'Toxic substances' under Class 6: Toxic and Infectious Substances.",
+    "confidence": "high"
+  }
+]
+```
+

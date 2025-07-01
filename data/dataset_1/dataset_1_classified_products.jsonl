@@ -13190,3 +13190,65 @@
 {"product_id": "MLB38278657", "is_hazmat": false}
 {"product_id": "MLB41152149", "is_hazmat": false}
 
+
+{"product_id": "MLB26638075", "is_hazmat": false}
+{"product_id": "MLB47671976", "is_hazmat": false}
+{"product_id": "MLB24144140", "is_hazmat": false}
+{"product_id": "MLB43793644", "is_hazmat": true, "reason": "Contains a compressed gas (gas piston/lift), which is classified under Class 2: Gases (Non-flammable gases).", "confidence": "high"}
+{"product_id": "MLB41371816", "is_hazmat": false}
+{"product_id": "MLB21964604", "is_hazmat": false}
+{"product_id": "MLB25772829", "is_hazmat": false}
+{"product_id": "MLB25535738", "is_hazmat": false}
+{"product_id": "MLB47188113", "is_hazmat": true, "reason": "It is a 'Limpador Perfumado' (perfumed cleaner), which falls under 'Chemical products (acids, solvents, cleaners)', a Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB50365086", "is_hazmat": false}
+{"product_id": "MLB49876937", "is_hazmat": false}
+{"product_id": "MLB25891155", "is_hazmat": false}
+{"product_id": "MLB50471009", "is_hazmat": false}
+{"product_id": "MLB24032011", "is_hazmat": false}
+{"product_id": "MLB29354385", "is_hazmat": false}
+{"product_id": "MLB31756787", "is_hazmat": false}
+{"product_id": "MLB23925171", "is_hazmat": false}
+{"product_id": "MLB24720671", "is_hazmat": false}
+{"product_id": "MLB18193875", "is_hazmat": false}
+{"product_id": "MLB24245622", "is_hazmat": false}
+{"product_id": "MLB28842997", "is_hazmat": false}
+{"product_id": "MLB15742233", "is_hazmat": false}
+{"product_id": "MLB51385229", "is_hazmat": false}
+{"product_id": "MLB33302205", "is_hazmat": false}
+{"product_id": "MLB35330674", "is_hazmat": false}
+{"product_id": "MLB24031104", "is_hazmat": false}
+{"product_id": "MLB29424956", "is_hazmat": true, "reason": "Contains a 'Bateria recargável' (rechargeable battery) with '12V' voltage. The definition lists 'Batteries (when sold separately)' as a Hazmat indicator, and higher voltage rechargeable batteries often fall under Hazmat regulations due to potential risks.", "confidence": "medium"}
+{"product_id": "MLB50127182", "is_hazmat": false}
+{"product_id": "MLB14574546", "is_hazmat": false}
+{"product_id": "MLB38093082", "is_hazmat": false}
+{"product_id": "MLB50168118", "is_hazmat": false}
+{"product_id": "MLB27956224", "is_hazmat": false}
+{"product_id": "MLB25602798", "is_hazmat": false}
+{"product_id": "MLB47548844", "is_hazmat": false}
+{"product_id": "MLB50124416", "is_hazmat": false}
+{"product_id": "MLB25442580", "is_hazmat": false}
+{"product_id": "MLB43830624", "is_hazmat": false}
+{"product_id": "MLB15841767", "is_hazmat": false}
+{"product_id": "MLB38197921", "is_hazmat": false}
+{"product_id": "MLB42863681", "is_hazmat": false}
+{"product_id": "MLB25959537", "is_hazmat": false}
+{"product_id": "MLB24326308", "is_hazmat": false}
+{"product_id": "MLB21686843", "is_hazmat": false}
+{"product_id": "MLB50439811", "is_hazmat": false}
+{"product_id": "MLB23809073", "is_hazmat": false}
+{"product_id": "MLB35898105", "is_hazmat": false}
+{"product_id": "MLB21410344", "is_hazmat": false}
+{"product_id": "MLB24665561", "is_hazmat": false}
+{"product_id": "MLB51527694", "is_hazmat": false}
+{"product_id": "MLB47706305", "is_hazmat": false}
+{"product_id": "MLB39459990", "is_hazmat": false}
+{"product_id": "MLB17810620", "is_hazmat": false}
+{"product_id": "MLB37988571", "is_hazmat": false}
+{"product_id": "MLB32239475", "is_hazmat": false}
+{"product_id": "MLB30999068", "is_hazmat": false}
+{"product_id": "MLB34154784", "is_hazmat": false}
+{"product_id": "MLB37024908", "is_hazmat": false}
+{"product_id": "MLB15580104", "is_hazmat": false}
+{"product_id": "MLB42520997", "is_hazmat": false}
+{"product_id": "MLB30196919", "is_hazmat": true, "reason": "It is an 'Inseticida' and 'Vermifugo' (pesticide/dewormer). The definition classifies 'Pesticides' as 'Toxic substances' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+
