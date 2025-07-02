@@ -66,3 +66,12 @@ Guidelines:
 - If not certain of the classification, output as hazmat with lower confidence.
 - Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.
 """
+
+
+# For the refactoring, I just asked Github Copilot (GPT-4.1) to refactor my codebase, and went interacting with it, and some fixes I had to do to the proposed codebase, but accelerated the process of converting the notebooks into a more usable code. The README was included in the refactoring.
+
+
+
+# For creating a draft of the v2 classifier, I used Claude 4.0, with this following prompt:
+
+create another classification pipeline (may be another classifier python file) leveraging the Google's agent development kit SDK to create some agents: one that receives the product information from the API andsearches in NCM or GTIN databases to get the composition of the product and global identifications of the product. The second agent will be run right after the first, receiving the product composition(if applicable and if found), and its global identifiers, and will search in a Hazmat reference database and SDS databases to find more information about the hazardousness of the product, and also thehazmat formal definition (prompt insertion) and then classifies the product as hazmat or not. Then, a final llm call would just extract the json schema, similar to the first implemented classifier. This agents' architecture must be based on the sketch found in the image
