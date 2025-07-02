@@ -10,8 +10,6 @@ A modular and reproducible pipeline for classifying products as hazardous materi
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
