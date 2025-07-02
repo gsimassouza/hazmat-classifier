@@ -116,6 +116,35 @@ hazmat-classifier/
 2.  **Pipeline Configuration (`src/config.py`):**
     - The `src/config.py` file contains all the configurable parameters for the pipeline, such as API endpoints, model names, file paths, and the list of search queries. You can modify this file to change the pipeline's behavior.
 
+### Configuring LLM API Keys
+
+To use LLM-based classification, you must provide API keys for your chosen LLM provider (e.g., OpenAI, Gemini, Groq, etc.). To use local LLMs, an API key is not needed, just use Ollama to serve the model and set the name of the model in `src/config.py` as `ollama/your-local-model-name`.
+
+1. **Add your API key(s) to the `.env` file:**
+   - For OpenAI:
+     ```
+     OPENAI_API_KEY="your-openai-api-key"
+     ```
+   - For Gemini:
+     ```
+     GEMINI_API_KEY="your-gemini-api-key"
+     ```
+   - For Groq:
+     ```
+     GROQ_API_KEY="your-groq-api-key"
+     ```
+   - (Add other providers as needed.)
+
+2. **Environment variable usage:**
+   - The pipeline and utility functions will automatically load these keys from the environment using `python-dotenv`.
+   - Make sure your `.env` file is not committed to version control (it is already in `.gitignore`).
+
+3. **Security:**
+   - Never share your `.env` file or API keys publicly.
+   - Use `.env.example` to document required variables for collaborators.
+
+For more details, see the documentation for your LLM provider.
+
 ## Usage
 
 The pipeline is executed through the `main.py` script.
@@ -155,15 +184,3 @@ You can specify a different dataset name and batch size for classification:
 python main.py --skip-data-collection --skip-data-processing --dataset-name my_dataset --batch-size 50
 ```
 
-### Debugging with VS Code
-
-For debugging purposes, you can use the provided `launch.json` configuration in VS Code. This allows you to run the `main.py` script with predefined arguments and debug your code.
-
-To use it:
-
-1.  Open the project in VS Code.
-2.  Go to the Run and Debug view (Ctrl+Shift+D or Cmd+Shift+D).
-3.  Select "Python Debugger" from the dropdown menu.
-4.  Click the green play button to start debugging.
-
-The `launch.json` is configured to skip data collection and processing, and run classification on a sample dataset with a batch size of 5. You can modify the `args` array in `.vscode/launch.json` to suit your debugging needs.
