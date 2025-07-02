@@ -6,14 +6,14 @@
     "configurations": [
         
         {
-            "name": "Python Debugger: Current File",
+            "name": "Python Debugger",
             "type": "debugpy",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal",
             "args": [
-                // "--skip-data-collection",
-                // "--skip-data-processing",
+                "--skip-data-collection",
+                "--skip-data-processing",
                 "--dataset-name", "sample_dataset",
                 "--batch-size", "5"
             ]

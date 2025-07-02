@@ -23,6 +23,20 @@ This project provides a complete pipeline to:
 
 The pipeline is designed to be modular, configurable, and reproducible.
 
+## Architecture
+
+### Architecture V1 (Implemented)
+
+This diagram illustrates the currently implemented architecture of the Hazmat Classifier pipeline.
+
+![Architecture V1](docs/img/architecture-v1.png)
+
+### Architecture V2 (Proposed)
+
+This diagram presents a proposed updated architecture for future enhancements.
+
+![Architecture V2](docs/img/architecture-v2.png)
+
 ## Workflow
 
 The pipeline consists of three main stages:
@@ -53,7 +67,7 @@ hazmat-classifier/
 │       ├── products_info/        # Raw product info (JSON)
 │       ├── dataset_1.csv           # Processed product data
 │       └── ...
-├── notebooks/              # Jupyter notebooks for exploration and analysis
+├── notebooks/              # Jupyter notebooks for exploration and analysis (for reference only)
 ├── src/
 │   ├── __init__.py
 │   ├── classification.py     # Product classification logic
@@ -142,3 +156,16 @@ You can specify a different dataset name and batch size for classification:
 ```bash
 python main.py --skip-data-collection --skip-data-processing --dataset-name my_dataset --batch-size 50
 ```
+
+### Debugging with VS Code
+
+For debugging purposes, you can use the provided `launch.json` configuration in VS Code. This allows you to run the `main.py` script with predefined arguments and debug your code.
+
+To use it:
+
+1.  Open the project in VS Code.
+2.  Go to the Run and Debug view (Ctrl+Shift+D or Cmd+Shift+D).
+3.  Select "Python Debugger" from the dropdown menu.
+4.  Click the green play button to start debugging.
+
+The `launch.json` is configured to skip data collection and processing, and run classification on a sample dataset with a batch size of 5. You can modify the `args` array in `.vscode/launch.json` to suit your debugging needs.

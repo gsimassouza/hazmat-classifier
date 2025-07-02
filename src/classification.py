@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 import json
 import os
@@ -107,19 +105,10 @@ def classify_products(dataset_name="dataset_1", batch_size=100):
         
         logging.info(f"Batch {i//batch_size + 1} processed and saved to {output_jsonl} and {log_file}!")
 
-    def try_decode_line(line):
-        for encoding in ["utf-8", "latin1", "utf-8-sig"]:
-            try:
-                return line.decode(encoding)
-            except UnicodeDecodeError:
-                continue
-        logging.warning(f"Could not decode line: {line}")
-        return None
-
     classified_rows = []
     with open(output_jsonl, "rb") as f:
         for bline in f:
-            decoded_line = try_decode_line(bline)
+            decoded_line = _try_decode_line(bline)
             if decoded_line and decoded_line.strip():
                 try:
                     row = json.loads(decoded_line)
@@ -142,7 +131,21 @@ def classify_products(dataset_name="dataset_1", batch_size=100):
         suffixes=("", "_CLASSIFIED")
     )
 
+    # Ensure required columns exist in the output
+    for col in ["IS_HAZMAT", "REASON", "CONFIDENCE"]:
+        if col not in products_df.columns:
+            products_df[col] = None
+
     classified_csv_path = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}_classified_products.csv")
     products_df.to_csv(classified_csv_path, index=False, encoding="utf-8")
     logging.info(f"Classification complete. Results saved to {classified_csv_path}")
+
+def _try_decode_line(line):
+    for encoding in ["utf-8", "latin1", "utf-8-sig"]:
+        try:
+            return line.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    logging.warning(f"Could not decode line: {line}")
+    return None
 
