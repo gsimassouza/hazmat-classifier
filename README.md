@@ -65,7 +65,10 @@ hazmat-classifier/
 │       ├── products_info/        # Raw product info (JSON)
 │       ├── dataset_1.csv           # Processed product data
 │       └── ...
-├── notebooks/              # Jupyter notebooks for exploration and analysis (for reference only)
+├── notebooks/              # Notebooks that contain first version of implementation.
+│                           # They were used for exploration, API tests and classifier 
+│                           # implementation, later refactored to main.py 
+│                           # (kept here for historical reference only)
 ├── src/
 │   ├── __init__.py
 │   ├── classification.py     # Product classification logic
