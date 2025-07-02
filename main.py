@@ -15,7 +15,7 @@ def main():
     parser.add_argument("--skip-data-processing", action="store_true", help="Skip the data processing step")
     parser.add_argument("--skip-classification", action="store_true", help="Skip the classification step")
     parser.add_argument("--dataset-name", type=str, default="dataset_1", help="Name of the dataset")
-    parser.add_argument("--batch-size", type=int, default=100, help="Batch size for classification")
+    parser.add_argument("--batch-size", type=int, default=1, help="Batch size for classification")
 
     args = parser.parse_args()
 

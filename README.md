@@ -147,7 +147,7 @@ python main.py --skip-data-collection --skip-data-processing
 You can specify a different dataset name and batch size for classification:
 
 - `--dataset-name <name>`: Sets the name of the dataset directory (default: `dataset_1`).
-- `--batch-size <size>`: Sets the batch size for classification (default: `100`).
+- `--batch-size <size>`: Sets the batch size for classification (default: `1`).
 
 **Example:** Run the classification on a dataset named `my_dataset` with a batch size of 50:
 
