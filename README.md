@@ -5,11 +5,16 @@ A modular and reproducible pipeline for classifying products as hazardous materi
 ## Table of Contents
 
 - [Overview](#overview)
+- [Architecture](#architecture)
 - [Workflow](#workflow)
 - [Directory Structure](#directory-structure)
 - [Installation](#installation)
 - [Configuration](#configuration)
+  - [Configuring LLM API Keys](#configuring-llm-api-keys)
 - [Usage](#usage)
+  - [Running the Full Pipeline](#running-the-full-pipeline)
+  - [Skipping Stages](#skipping-stages)
+  - [Customizing the Dataset](#customizing-the-dataset)
 
 ## Overview
 
