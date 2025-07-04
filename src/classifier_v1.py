@@ -38,7 +38,7 @@ def get_hazmat_definition():
         logging.error(f"Hazmat definition file not found at: {HAZMAT_DEFINITION_FILE}")
         raise
 
-def classify_products(dataset_name="dataset_1", batch_size=100):
+def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=None, output_csv_name=None):
     hazmat_def = get_hazmat_definition()
     
     dataset_path = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}.csv")
@@ -47,6 +47,10 @@ def classify_products(dataset_name="dataset_1", batch_size=100):
     except FileNotFoundError:
         logging.error(f"Dataset file not found at: {dataset_path}")
         return
+
+    # Filter by product_ids if provided
+    if product_ids:
+        products_df = products_df[products_df['product_id'].isin(product_ids)]
 
     products_df.drop(columns=['IS_HAZMAT', 'REASON', 'CONFIDENCE'], inplace=True, errors='ignore')
 
@@ -136,7 +140,10 @@ def classify_products(dataset_name="dataset_1", batch_size=100):
         if col not in products_df.columns:
             products_df[col] = None
 
-    classified_csv_path = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}_classified_products.csv")
+    if output_csv_name:
+        classified_csv_path = os.path.join(DATA_DIR, dataset_name, output_csv_name)
+    else:
+        classified_csv_path = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}_classified_products.csv")
     products_df.to_csv(classified_csv_path, index=False, encoding="utf-8")
     logging.info(f"Classification complete. Results saved to {classified_csv_path}")
 
