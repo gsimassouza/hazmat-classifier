@@ -14,9 +14,10 @@
             "args": [
                 "--skip-data-collection",
                 "--skip-data-processing",
-                "--dataset-name", "sample_dataset",
-                "--batch-size", "5"
+                "--product-ids", "MLB43793644",
+                "--output-csv-name", "test.csv"
             ]
+            
         }
     ]
 }

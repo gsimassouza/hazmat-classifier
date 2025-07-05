@@ -50,7 +50,10 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
 
     # Filter by product_ids if provided
     if product_ids:
-        products_df = products_df[products_df['product_id'].isin(product_ids)]
+        products_df = products_df[products_df['PRODUCT_ID'].isin(product_ids)]
+        if len(products_df) < len(product_ids):
+            missing_ids = set(product_ids) - set(products_df['PRODUCT_ID'])
+            logging.warning(f"Some product IDs not found in the dataset: {missing_ids}")
 
     products_df.drop(columns=['IS_HAZMAT', 'REASON', 'CONFIDENCE'], inplace=True, errors='ignore')
 
@@ -101,8 +104,21 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
         jsonl_content = extract_from_tag(formatted_response, "jsonl")
         if jsonl_content:
             logging.info(f"Batch {i//batch_size + 1} jsonl content extracted!")
+            # Add classifier name and llm model to each line before saving
+            jsonl_lines = jsonl_content.strip().split("\n")
+            updated_lines = []
+            for line in jsonl_lines:
+                try:
+                    row = json.loads(line)
+                    row["CLASSIFIER_NAME"] = "classifier_v1"
+                    row["LLM_MODEL"] = HAZMAT_CLASSIFIER_MODEL
+                    updated_lines.append(json.dumps(row, ensure_ascii=False))
+                except Exception as e:
+                    logging.warning(f"Could not update jsonl line: {line} ({e})")
+                    continue
             with open(output_jsonl, "a", encoding="utf-8") as f:
-                f.write(jsonl_content + "\n")
+                for updated_line in updated_lines:
+                    f.write(updated_line + "\n")
         
         with open(log_file, "a", encoding="utf-8") as f:
             f.write(f"Batch {i//batch_size + 1}:\n{raw_response}\n\n")
@@ -136,9 +152,14 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
     )
 
     # Ensure required columns exist in the output
-    for col in ["IS_HAZMAT", "REASON", "CONFIDENCE"]:
+    for col in ["IS_HAZMAT", "REASON", "CONFIDENCE", "CLASSIFIER_NAME", "LLM_MODEL"]:
         if col not in products_df.columns:
-            products_df[col] = None
+            if col == "CLASSIFIER_NAME":
+                products_df[col] = "classifier_v1"
+            elif col == "LLM_MODEL":
+                products_df[col] = HAZMAT_CLASSIFIER_MODEL
+            else:
+                products_df[col] = None
 
     if output_csv_name:
         classified_csv_path = os.path.join(DATA_DIR, dataset_name, output_csv_name)

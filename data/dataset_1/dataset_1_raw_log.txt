@@ -86034,3 +86034,59 @@ Here's the Hazmat classification for each product:
 ]
 ```
 
+Batch 1:
+Reasoning Process:
+1.  **Analyze the Product Title:** The product title is "Pistão Gás Coluna Universal Cadeira Reforçada Classe-4 180kg" which translates to "Gas Piston Universal Column Reinforced Chair Class-4 180kg". The key term here is "Pistão Gás" (Gas Piston).
+2.  **Consult the Hazmat Definition - Class 2: Gases:** The definition clearly states that "Gases" are a Hazmat class. It lists examples like "Acetylene, Hydrogen, Propane" (flammable gases) and "Nitrogen, Neon, Carbon dioxide" (non-flammable gases, including cryogenic gases/liquids).
+3.  **General Hazmat Definition:** The overarching definition of a Hazmat includes "compressed gases/liquids".
+4.  **Apply to Product:** A "gas piston" inherently contains gas under pressure. Regardless of whether the gas is flammable, non-flammable, or toxic, the fact that it is a *compressed gas* makes it a Hazmat according to the definition. Compressed gases pose risks such as rupture, explosion, or asphyxiation (if the gas leaks in a confined space).
+5.  **Conclusion:** The product is a Hazmat due to containing compressed gas.
+
+```json
+[
+  {
+    "product_id": "MLB43793644",
+    "is_hazmat": true,
+    "reason": "The product is a 'Gas Piston', which contains compressed gas. Compressed gases are classified as Hazmat under Class 2 (Gases) due to the inherent risks associated with pressurized containers, such as rupture or asphyxiation.",
+    "confidence": "high"
+  }
+]
+```
+
+Batch 1:
+**Reasoning Process:**
+
+1.  **Analyze the Product Title:** The product title is "Pistão Gás Coluna Universal Cadeira Reforçada Classe-4 180kg". The crucial term here is "Pistão Gás" (Gas Piston).
+2.  **Consult Hazmat Definition - Class 2: Gases:** The Hazmat definition explicitly lists "Class 2: Gases" as a category of hazardous materials.
+3.  **Check for specific examples or characteristics:**
+    *   The definition states: "Nitrogen, Neon, Carbon dioxide: Non-flammable gases, as they are neither flammable nor poisonous, and include cryogenic gases/liquids."
+    *   Gas pistons for chairs typically contain compressed inert gases, most commonly nitrogen. Nitrogen is explicitly listed as a Class 2 Hazmat (non-flammable gas).
+    *   The general definition of Hazmat also includes "compressed gases/liquids" as a characteristic.
+    *   Under "HAZMAT Indicators," "Aerosol sprays and pressurized containers" are listed. A gas piston is a type of pressurized container.
+4.  **Conclusion:** Since the product is a "gas piston" and contains compressed gas (likely nitrogen, which is a listed Hazmat under Class 2, or another compressed gas), it falls under the Hazmat classification for gases.
+
+**Classification:**
+
+```json
+[
+  {
+    "product_id": "MLB43793644",
+    "is_hazmat": true,
+    "reason": "The product is a 'gas piston', which contains compressed gas (likely nitrogen). Compressed gases, including non-flammable ones like nitrogen, are classified as Hazmat under Class 2 (Gases) and are considered pressurized containers.",
+    "confidence": "high"
+  }
+]
+```
+
+Batch 1:
+```json
+[
+  {
+    "product_id": "MLB43793644",
+    "is_hazmat": true,
+    "reason": "The product is a 'Pistão Gás' (gas piston/strut), which by its nature contains compressed gas. Compressed gases are classified as Class 2 Hazmat, as they pose a risk due to pressure, even if the gas itself is non-flammable or non-poisonous.",
+    "confidence": "high"
+  }
+]
+```
+

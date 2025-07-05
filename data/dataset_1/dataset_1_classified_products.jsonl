@@ -671,132 +671,36 @@
 {"product_id": "MLB16027723", "is_hazmat": false}
 
 
-[
-  {
-    "product_id": "MLB26638075",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB47671976",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24144140",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB43793644",
-    "is_hazmat": true,
-    "reason": "Contains compressed gas (Class 2: Gases).",
-    "confidence": "high"
-  },
-  {
-    "product_id": "MLB41371816",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB21964604",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25772829",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25535738",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB47188113",
-    "is_hazmat": true,
-    "reason": "It is a chemical product classified as a cleaner, which is explicitly listed as a HAZMAT Indicator.",
-    "confidence": "high"
-  },
-  {
-    "product_id": "MLB50365086",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB49876937",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25891155",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB50471009",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24032011",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB29354385",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB31756787",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB23925171",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24720671",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB18193875",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24245622",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB28842997",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB15742233",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB19532694",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB51385229",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB33302205",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB35330674",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24031104",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB29424956",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB50127182",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB14574546",
-    "is_hazmat": false
-  }
-]
+{"product_id": "MLB26638075", "is_hazmat": false}
+{"product_id": "MLB47671976", "is_hazmat": false}
+{"product_id": "MLB24144140", "is_hazmat": false}
+{"product_id": "MLB43793644", "is_hazmat": true, "reason": "Contains compressed gas (Class 2: Gases).", "confidence": "high"}
+{"product_id": "MLB41371816", "is_hazmat": false}
+{"product_id": "MLB21964604", "is_hazmat": false}
+{"product_id": "MLB25772829", "is_hazmat": false}
+{"product_id": "MLB25535738", "is_hazmat": false}
+{"product_id": "MLB47188113", "is_hazmat": true, "reason": "It is a chemical product classified as a cleaner, which is explicitly listed as a HAZMAT Indicator.", "confidence": "high"}
+{"product_id": "MLB50365086", "is_hazmat": false}
+{"product_id": "MLB49876937", "is_hazmat": false}
+{"product_id": "MLB25891155", "is_hazmat": false}
+{"product_id": "MLB50471009", "is_hazmat": false}
+{"product_id": "MLB24032011", "is_hazmat": false}
+{"product_id": "MLB29354385", "is_hazmat": false}
+{"product_id": "MLB31756787", "is_hazmat": false}
+{"product_id": "MLB23925171", "is_hazmat": false}
+{"product_id": "MLB24720671", "is_hazmat": false}
+{"product_id": "MLB18193875", "is_hazmat": false}
+{"product_id": "MLB24245622", "is_hazmat": false}
+{"product_id": "MLB28842997", "is_hazmat": false}
+{"product_id": "MLB15742233", "is_hazmat": false}
+{"product_id": "MLB19532694", "is_hazmat": false}
+{"product_id": "MLB51385229", "is_hazmat": false}
+{"product_id": "MLB33302205", "is_hazmat": false}
+{"product_id": "MLB35330674", "is_hazmat": false}
+{"product_id": "MLB24031104", "is_hazmat": false}
+{"product_id": "MLB29424956", "is_hazmat": false}
+{"product_id": "MLB50127182", "is_hazmat": false}
+{"product_id": "MLB14574546", "is_hazmat": false}
 
 
 {"product_id": "MLB29331375", "is_hazmat": false}
@@ -838,7 +742,7 @@
 {"product_id": "MLB22751885", "is_hazmat": false}
 {"product_id": "MLB30177412", "is_hazmat": false}
 {"product_id": "MLB27307691", "is_hazmat": false}
-{"product_id": "MLB26520588", "is_hazmat": true, "reason": "The product is a 'Pistão Gás' (Gas Piston), which contains compressed gas. According to the Hazmat definition, 'compressed gases/liquids' are classified as Class 2: Gases.", "confidence": "high"}
+{"product_id": "MLB26520588", "is_hazmat": true, "reason": "The product is a 'Pistï¿½o Gï¿½s' (Gas Piston), which contains compressed gas. According to the Hazmat definition, 'compressed gases/liquids' are classified as Class 2: Gases.", "confidence": "high"}
 {"product_id": "MLB26732282", "is_hazmat": false}
 {"product_id": "MLB35432181", "is_hazmat": false}
 {"product_id": "MLB50036603", "is_hazmat": false}
@@ -859,7 +763,7 @@
 {"product_id": "MLB22190982", "is_hazmat": false}
 {"product_id": "MLB37832097", "is_hazmat": false}
 {"product_id": "MLB39081505", "is_hazmat": false}
-{"product_id": "MLB45702719", "is_hazmat": true, "reason": "The product is a 'Limpador Perfumado' (Scented Cleaner) and explicitly states it contains 'Álcool' (Alcohol). The Hazmat definition lists 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and alcohol is an example of a Class 3: Flammable Liquid.", "confidence": "high"}
+{"product_id": "MLB45702719", "is_hazmat": true, "reason": "The product is a 'Limpador Perfumado' (Scented Cleaner) and explicitly states it contains 'ï¿½lcool' (Alcohol). The Hazmat definition lists 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and alcohol is an example of a Class 3: Flammable Liquid.", "confidence": "high"}
 {"product_id": "MLB40656323", "is_hazmat": false}
 
 
@@ -1023,128 +927,37 @@
 {"product_id": "MLB24755310", "is_hazmat": false}
 
 
-[
-  {
-    "product_id": "MLB38093082",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB50168118",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB27956224",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25602798",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB47548844",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB50124416",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25442580",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB43830624",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB15841767",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB38197921",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB42863681",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB19967228",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB25959537",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24326308",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB21686843",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB50439811",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB23809073",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB35898105",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB21410344",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB24665561",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB51527694",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB47706305",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB39459990",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB17810620",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB37988571",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB32239475",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB30999068",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB34154784",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB37024908",
-    "is_hazmat": false
-  },
-  {
-    "product_id": "MLB15580104",
-    "is_hazmat": false
-  }
-]
+
+{"product_id": "MLB38093082", "is_hazmat": false}
+{"product_id": "MLB50168118", "is_hazmat": false}
+{"product_id": "MLB27956224", "is_hazmat": false}
+{"product_id": "MLB25602798", "is_hazmat": false}
+{"product_id": "MLB47548844", "is_hazmat": false}
+{"product_id": "MLB50124416", "is_hazmat": false}
+{"product_id": "MLB25442580", "is_hazmat": false}
+{"product_id": "MLB43830624", "is_hazmat": false}
+{"product_id": "MLB15841767", "is_hazmat": false}
+{"product_id": "MLB38197921", "is_hazmat": false}
+{"product_id": "MLB42863681", "is_hazmat": false}
+{"product_id": "MLB19967228", "is_hazmat": false}
+{"product_id": "MLB25959537", "is_hazmat": false}
+{"product_id": "MLB24326308", "is_hazmat": false}
+{"product_id": "MLB21686843", "is_hazmat": false}
+{"product_id": "MLB50439811", "is_hazmat": false}
+{"product_id": "MLB23809073", "is_hazmat": false}
+{"product_id": "MLB35898105", "is_hazmat": false}
+{"product_id": "MLB21410344", "is_hazmat": false}
+{"product_id": "MLB24665561", "is_hazmat": false}
+{"product_id": "MLB51527694", "is_hazmat": false}
+{"product_id": "MLB47706305", "is_hazmat": false}
+{"product_id": "MLB39459990", "is_hazmat": false}
+{"product_id": "MLB17810620", "is_hazmat": false}
+{"product_id": "MLB37988571", "is_hazmat": false}
+{"product_id": "MLB32239475", "is_hazmat": false}
+{"product_id": "MLB30999068", "is_hazmat": false}
+{"product_id": "MLB34154784", "is_hazmat": false}
+{"product_id": "MLB37024908", "is_hazmat": false}
+{"product_id": "MLB15580104", "is_hazmat": false}
 
 
 {"product_id": "MLB29327373", "is_hazmat": false}
@@ -1261,7 +1074,7 @@
 {"product_id": "MLB23630292", "is_hazmat": false}
 {"product_id": "MLB19443719", "is_hazmat": false}
 {"product_id": "MLB42141289", "is_hazmat": false}
-{"product_id": "MLB27643287", "is_hazmat": true, "reason": "The product is explicitly stated as 'É tóxico: Sim' (Is toxic: Yes) in its attributes. Toxic substances are classified as Hazmat (Class 6).", "confidence": "high"}
+{"product_id": "MLB27643287", "is_hazmat": true, "reason": "The product is explicitly stated as 'ï¿½ tï¿½xico: Sim' (Is toxic: Yes) in its attributes. Toxic substances are classified as Hazmat (Class 6).", "confidence": "high"}
 {"product_id": "MLB40767413", "is_hazmat": false}
 {"product_id": "MLB22622514", "is_hazmat": false}
 {"product_id": "MLB27982208", "is_hazmat": false}
@@ -1292,7 +1105,7 @@
 {"product_id": "MLB26885908", "is_hazmat": false}
 {"product_id": "MLB23789922", "is_hazmat": false}
 {"product_id": "MLB30911120", "is_hazmat": false}
-{"product_id": "MLB24840394", "is_hazmat": true, "reason": "This product is a highlighter with 'À base de álcool' (Alcohol-based) ink. Alcohol is a flammable liquid (Class 3), as indicated by examples like 'Gasoline (petrol), Acetone' and '99% isopropyl alcohol'. Therefore, products containing alcohol-based inks are classified as Hazmat.", "confidence": "high"}
+{"product_id": "MLB24840394", "is_hazmat": true, "reason": "This product is a highlighter with 'ï¿½ base de ï¿½lcool' (Alcohol-based) ink. Alcohol is a flammable liquid (Class 3), as indicated by examples like 'Gasoline (petrol), Acetone' and '99% isopropyl alcohol'. Therefore, products containing alcohol-based inks are classified as Hazmat.", "confidence": "high"}
 {"product_id": "MLB43949101", "is_hazmat": false}
 {"product_id": "MLB25854309", "is_hazmat": false}
 {"product_id": "MLB23892983", "is_hazmat": false}
@@ -1303,7 +1116,7 @@
 {"product_id": "MLB27126950", "is_hazmat": false}
 {"product_id": "MLB28015039", "is_hazmat": false}
 {"product_id": "MLB45696646", "is_hazmat": false}
-{"product_id": "MLB36262897", "is_hazmat": true, "reason": "These are permanent markers with 'À base de álcool' (Alcohol-based) ink. Alcohol is a flammable liquid (Class 3), as indicated by examples like 'Gasoline (petrol), Acetone' and '99% isopropyl alcohol'. Therefore, products containing alcohol-based inks are classified as Hazmat.", "confidence": "high"}
+{"product_id": "MLB36262897", "is_hazmat": true, "reason": "These are permanent markers with 'ï¿½ base de ï¿½lcool' (Alcohol-based) ink. Alcohol is a flammable liquid (Class 3), as indicated by examples like 'Gasoline (petrol), Acetone' and '99% isopropyl alcohol'. Therefore, products containing alcohol-based inks are classified as Hazmat.", "confidence": "high"}
 {"product_id": "MLB27511384", "is_hazmat": false}
 
 
@@ -1336,7 +1149,7 @@
 {"product_id": "MLB44759686", "is_hazmat": false}
 {"product_id": "MLB44120998", "is_hazmat": false}
 {"product_id": "MLB36894046", "is_hazmat": false}
-{"product_id": "MLB32368123", "is_hazmat": true, "reason": "The product is a 'Conjunto De Canetas Marcador Permanente Ponta Dupla 60 Cores' (Set of 60 Permanent Double-Tip Marker Pens) with 'À base de álcool' (Alcohol-based) ink. Alcohol is a flammable liquid. Given the quantity (60 pens), the total volume of flammable liquid poses a fire hazard, classifying it under Class 3: Flammable Liquids. The Hazmat definition lists 'Flammable liquids' and 'Chemical products' as indicators.", "confidence": "high"}
+{"product_id": "MLB32368123", "is_hazmat": true, "reason": "The product is a 'Conjunto De Canetas Marcador Permanente Ponta Dupla 60 Cores' (Set of 60 Permanent Double-Tip Marker Pens) with 'ï¿½ base de ï¿½lcool' (Alcohol-based) ink. Alcohol is a flammable liquid. Given the quantity (60 pens), the total volume of flammable liquid poses a fire hazard, classifying it under Class 3: Flammable Liquids. The Hazmat definition lists 'Flammable liquids' and 'Chemical products' as indicators.", "confidence": "high"}
 
 
 {"product_id": "MLB24340815", "is_hazmat": false}
@@ -1346,7 +1159,7 @@
 {"product_id": "MLB42815133", "is_hazmat": false}
 {"product_id": "MLB36521923", "is_hazmat": false}
 {"product_id": "MLB23178503", "is_hazmat": false}
-{"product_id": "MLB26777050", "is_hazmat": true, "reason": "The product attributes explicitly state 'É tóxico: Sim' (Is toxic: Yes), classifying it as a toxic substance under Class 6, which includes substances harmful to human health. It is also a chemical product.", "confidence": "high"}
+{"product_id": "MLB26777050", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ tï¿½xico: Sim' (Is toxic: Yes), classifying it as a toxic substance under Class 6, which includes substances harmful to human health. It is also a chemical product.", "confidence": "high"}
 {"product_id": "MLB49691827", "is_hazmat": false}
 {"product_id": "MLB25421948", "is_hazmat": false}
 {"product_id": "MLB32223979", "is_hazmat": false}
@@ -1354,7 +1167,7 @@
 {"product_id": "MLB26260256", "is_hazmat": true, "reason": "Permanent markers typically contain flammable solvents (e.g., alcohol, xylene) in their ink, which are classified as flammable liquids (Class 3) or chemical products that pose a risk.", "confidence": "medium"}
 {"product_id": "MLB32725481", "is_hazmat": false}
 {"product_id": "MLB41242218", "is_hazmat": false}
-{"product_id": "MLB24376253", "is_hazmat": true, "reason": "Copy pencils (Lápis Cópia) typically contain aniline dyes, which are considered toxic or irritants, classifying them as toxic substances harmful to human health (Class 6).", "confidence": "medium"}
+{"product_id": "MLB24376253", "is_hazmat": true, "reason": "Copy pencils (Lï¿½pis Cï¿½pia) typically contain aniline dyes, which are considered toxic or irritants, classifying them as toxic substances harmful to human health (Class 6).", "confidence": "medium"}
 {"product_id": "MLB24005136", "is_hazmat": false}
 {"product_id": "MLB30940727", "is_hazmat": false}
 {"product_id": "MLB37565308", "is_hazmat": false}
@@ -1362,7 +1175,7 @@
 {"product_id": "MLB36163646", "is_hazmat": false}
 {"product_id": "MLB35851860", "is_hazmat": false}
 {"product_id": "MLB19289426", "is_hazmat": false}
-{"product_id": "MLB35280046", "is_hazmat": true, "reason": "The product attributes explicitly state 'É tóxico: Sim' (Is toxic: Yes), classifying it as a toxic substance under Class 6, which includes substances harmful to human health. It is also a chemical product.", "confidence": "high"}
+{"product_id": "MLB35280046", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ tï¿½xico: Sim' (Is toxic: Yes), classifying it as a toxic substance under Class 6, which includes substances harmful to human health. It is also a chemical product.", "confidence": "high"}
 {"product_id": "MLB28400125", "is_hazmat": false}
 {"product_id": "MLB27938143", "is_hazmat": false}
 {"product_id": "MLB26250832", "is_hazmat": false}
@@ -1567,7 +1380,7 @@
 {"product_id": "MLB43969074", "is_hazmat": false}
 {"product_id": "MLB42315969", "is_hazmat": false}
 {"product_id": "MLB32539804", "is_hazmat": false}
-{"product_id": "MLB29026491", "is_hazmat": true, "reason": "The product is explicitly labeled as toxic ('É tóxico: Sim'), classifying it as a Class 6: Toxic substance according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB29026491", "is_hazmat": true, "reason": "The product is explicitly labeled as toxic ('ï¿½ tï¿½xico: Sim'), classifying it as a Class 6: Toxic substance according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB26769276", "is_hazmat": false}
 {"product_id": "MLB29308227", "is_hazmat": false}
 {"product_id": "MLB28001580", "is_hazmat": false}
@@ -1833,7 +1646,7 @@
 {"product_id": "MLB24282086", "is_hazmat": false}
 {"product_id": "MLB28821367", "is_hazmat": true, "reason": "Permanent markers typically contain flammable or toxic solvents in their ink, which are classified as Flammable Liquids (Class 3) or Toxic Substances (Class 6). The definition lists 'solvents' as a Hazmat indicator.", "confidence": "medium"}
 {"product_id": "MLB29472445", "is_hazmat": false}
-{"product_id": "MLB34894723", "is_hazmat": true, "reason": "The product is explicitly stated as 'toxic' ('É tóxico': 'Sim'), which classifies it as a toxic substance (Class 6 Hazmat).", "confidence": "high"}
+{"product_id": "MLB34894723", "is_hazmat": true, "reason": "The product is explicitly stated as 'toxic' ('ï¿½ tï¿½xico': 'Sim'), which classifies it as a toxic substance (Class 6 Hazmat).", "confidence": "high"}
 {"product_id": "MLB37097157", "is_hazmat": true, "reason": "The markers contain 'alcohol-based ink,' which is a flammable liquid (Class 3), thus classifying it as a Hazmat.", "confidence": "high"}
 {"product_id": "MLB42250089", "is_hazmat": false}
 {"product_id": "MLB23275911", "is_hazmat": false}
@@ -1949,7 +1762,7 @@
 
 {"product_id": "MLB24768103", "is_hazmat": false}
 {"product_id": "MLB46015685", "is_hazmat": false}
-{"product_id": "MLB26969185", "is_hazmat": true, "reason": "The product attributes explicitly state 'É tóxico: Sim' (Is toxic: Yes), which classifies it as a Class 6: Toxic substance, liable to cause harm to human health.", "confidence": "high"}
+{"product_id": "MLB26969185", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ tï¿½xico: Sim' (Is toxic: Yes), which classifies it as a Class 6: Toxic substance, liable to cause harm to human health.", "confidence": "high"}
 {"product_id": "MLB24127766", "is_hazmat": false}
 {"product_id": "MLB36484595", "is_hazmat": false}
 {"product_id": "MLB23425410", "is_hazmat": false}
@@ -2001,7 +1814,7 @@
 {"product_id": "MLB29809161", "is_hazmat": false}
 {"product_id": "MLB19427543", "is_hazmat": false}
 {"product_id": "MLB37722389", "is_hazmat": false}
-{"product_id": "MLB27590693", "is_hazmat": true, "reason": "Contains alcohol-based ink, which is a flammable liquid/solvent (Class 3 Flammable Liquids). The definition lists 'Chemical products (acids, solvents, cleaners)' and 'Flammable, corrosive, or toxic substances' as HAZMAT indicators, and 'Alcohol isopropílico' as an example of a flammable liquid.", "confidence": "high"}
+{"product_id": "MLB27590693", "is_hazmat": true, "reason": "Contains alcohol-based ink, which is a flammable liquid/solvent (Class 3 Flammable Liquids). The definition lists 'Chemical products (acids, solvents, cleaners)' and 'Flammable, corrosive, or toxic substances' as HAZMAT indicators, and 'Alcohol isopropï¿½lico' as an example of a flammable liquid.", "confidence": "high"}
 {"product_id": "MLB36751127", "is_hazmat": false}
 {"product_id": "MLB43950711", "is_hazmat": false}
 {"product_id": "MLB32458090", "is_hazmat": false}
@@ -2011,7 +1824,7 @@
 {"product_id": "MLB29454297", "is_hazmat": false}
 
 
-{"product_id": "MLB28061116", "is_hazmat": true, "reason": "The product attributes explicitly state it is a toxic substance ('É tóxico': 'Sim'), which falls under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB28061116", "is_hazmat": true, "reason": "The product attributes explicitly state it is a toxic substance ('ï¿½ tï¿½xico': 'Sim'), which falls under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB24130572", "is_hazmat": false}
 {"product_id": "MLB24201644", "is_hazmat": false}
 {"product_id": "MLB37933993", "is_hazmat": false}
@@ -2024,7 +1837,7 @@
 {"product_id": "MLB24643810", "is_hazmat": false}
 {"product_id": "MLB31497252", "is_hazmat": false}
 {"product_id": "MLB36649778", "is_hazmat": false}
-{"product_id": "MLB23366504", "is_hazmat": true, "reason": "The product contains alcohol-based ink ('Tipo de tinta': 'À base de álcool'). Alcohol is a flammable liquid (Class 3), and a kit of 80 markers represents a significant quantity of this solvent.", "confidence": "high"}
+{"product_id": "MLB23366504", "is_hazmat": true, "reason": "The product contains alcohol-based ink ('Tipo de tinta': 'ï¿½ base de ï¿½lcool'). Alcohol is a flammable liquid (Class 3), and a kit of 80 markers represents a significant quantity of this solvent.", "confidence": "high"}
 {"product_id": "MLB19744581", "is_hazmat": false}
 {"product_id": "MLB24027609", "is_hazmat": false}
 {"product_id": "MLB24747809", "is_hazmat": false}
@@ -2048,7 +1861,7 @@
 {"product_id": "MLB28884128", "is_hazmat": false}
 {"product_id": "MLB25300775", "is_hazmat": false}
 {"product_id": "MLB29622601", "is_hazmat": false}
-{"product_id": "MLB42915694", "is_hazmat": true, "reason": "The product is explicitly stated to be toxic ('É tóxico': 'Sim'), falling under Class 6: Toxic Substances.", "confidence": "high"}
+{"product_id": "MLB42915694", "is_hazmat": true, "reason": "The product is explicitly stated to be toxic ('ï¿½ tï¿½xico': 'Sim'), falling under Class 6: Toxic Substances.", "confidence": "high"}
 {"product_id": "MLB27395981", "is_hazmat": false}
 {"product_id": "MLB22401066", "is_hazmat": false}
 {"product_id": "MLB22755949", "is_hazmat": false}
@@ -2213,7 +2026,7 @@
 {"product_id": "MLB30269311", "is_hazmat": false}
 {"product_id": "MLB23641650", "is_hazmat": false}
 {"product_id": "MLB23186101", "is_hazmat": false}
-{"product_id": "MLB29723669", "is_hazmat": true, "reason": "The product's attributes explicitly state 'É tóxico: Sim' (Is toxic: Yes). This directly matches the Hazmat definition for Class 6 (Toxic and Infectious Substances), which includes 'Toxic substances liable to cause death or serious injury'. The 'HAZMAT Indicators' also list 'Flammable, corrosive, or toxic substances' and 'Chemical products'.", "confidence": "high"}
+{"product_id": "MLB29723669", "is_hazmat": true, "reason": "The product's attributes explicitly state 'ï¿½ tï¿½xico: Sim' (Is toxic: Yes). This directly matches the Hazmat definition for Class 6 (Toxic and Infectious Substances), which includes 'Toxic substances liable to cause death or serious injury'. The 'HAZMAT Indicators' also list 'Flammable, corrosive, or toxic substances' and 'Chemical products'.", "confidence": "high"}
 {"product_id": "MLB29030077", "is_hazmat": false}
 {"product_id": "MLB31218574", "is_hazmat": false}
 {"product_id": "MLB42127678", "is_hazmat": false}
@@ -2923,7 +2736,7 @@
 {"product_id": "MLB21645490", "is_hazmat": false}
 {"product_id": "MLB23892958", "is_hazmat": true, "reason": "This product is a standalone rechargeable battery ('Pilha Recarregavel'). The Hazmat definition states that 'Batteries (when sold separately)' are classified as Hazmat.", "confidence": "high"}
 {"product_id": "MLB50517407", "is_hazmat": false}
-{"product_id": "MLB35333415", "is_hazmat": true, "reason": "The product 'Suporte Para Monitor Articulado Pistão Gás' contains a 'Pistão Gás' (gas piston), which implies the presence of compressed gas. Compressed gases are explicitly mentioned as a hazardous characteristic in the Hazmat definition (Class 2: Gases).", "confidence": "high"}
+{"product_id": "MLB35333415", "is_hazmat": true, "reason": "The product 'Suporte Para Monitor Articulado Pistï¿½o Gï¿½s' contains a 'Pistï¿½o Gï¿½s' (gas piston), which implies the presence of compressed gas. Compressed gases are explicitly mentioned as a hazardous characteristic in the Hazmat definition (Class 2: Gases).", "confidence": "high"}
 {"product_id": "MLB49825352", "is_hazmat": false}
 {"product_id": "MLB16034205", "is_hazmat": false}
 {"product_id": "MLB20816276", "is_hazmat": false}
@@ -3176,7 +2989,7 @@
 {"product_id": "MLB21530246", "is_hazmat": false}
 {"product_id": "MLB23304671", "is_hazmat": false}
 {"product_id": "MLB23159467", "is_hazmat": false}
-{"product_id": "MLB32551820", "is_hazmat": true, "reason": "Contains \"pasta térmica\" (thermal paste), which is a chemical product that can contain hazardous substances depending on its composition, falling under the general category of \"Chemical products\" which are Hazmat indicators.", "confidence": "medium"}
+{"product_id": "MLB32551820", "is_hazmat": true, "reason": "Contains \"pasta tï¿½rmica\" (thermal paste), which is a chemical product that can contain hazardous substances depending on its composition, falling under the general category of \"Chemical products\" which are Hazmat indicators.", "confidence": "medium"}
 {"product_id": "MLB15580144", "is_hazmat": false}
 {"product_id": "MLB29350223", "is_hazmat": false}
 {"product_id": "MLB19296479", "is_hazmat": false}
@@ -3383,7 +3196,7 @@
 {"product_id": "MLB28609315", "is_hazmat": false}
 {"product_id": "MLB22571719", "is_hazmat": false}
 {"product_id": "MLB7872953", "is_hazmat": false}
-{"product_id": "MLB38713100", "is_hazmat": true, "reason": "The product is 'Toner Compatível'. Toner powder is classified as a hazardous material due to its potential to be a flammable solid (Class 4) and an inhalation hazard (Class 6). This aligns with the Hazmat definition's categories of 'Flammable solids' and 'Toxic substances'.", "confidence": "high"}
+{"product_id": "MLB38713100", "is_hazmat": true, "reason": "The product is 'Toner Compatï¿½vel'. Toner powder is classified as a hazardous material due to its potential to be a flammable solid (Class 4) and an inhalation hazard (Class 6). This aligns with the Hazmat definition's categories of 'Flammable solids' and 'Toxic substances'.", "confidence": "high"}
 {"product_id": "MLB22570415", "is_hazmat": false}
 {"product_id": "MLB44619370", "is_hazmat": false}
 {"product_id": "MLB35662377", "is_hazmat": false}
@@ -3465,7 +3278,7 @@
 {"product_id": "MLB18436965", "is_hazmat": false}
 {"product_id": "MLB47417257", "is_hazmat": false}
 {"product_id": "MLB21573031", "is_hazmat": false}
-{"product_id": "MLB28794450", "is_hazmat": true, "reason": "The product is 'Limpa Contato Elétrico Eletronico' (Electrical/Electronic Contact Cleaner). This is a chemical cleaner, typically containing flammable solvents (e.g., isopropyl alcohol, which is a flammable liquid example) and is often sold in aerosol/pressurized cans. Both 'Aerosol sprays and pressurized containers' and 'Chemical products (acids, solvents, cleaners)' are explicitly listed as Hazmat indicators.", "confidence": "high"}
+{"product_id": "MLB28794450", "is_hazmat": true, "reason": "The product is 'Limpa Contato Elï¿½trico Eletronico' (Electrical/Electronic Contact Cleaner). This is a chemical cleaner, typically containing flammable solvents (e.g., isopropyl alcohol, which is a flammable liquid example) and is often sold in aerosol/pressurized cans. Both 'Aerosol sprays and pressurized containers' and 'Chemical products (acids, solvents, cleaners)' are explicitly listed as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB21340416", "is_hazmat": false}
 {"product_id": "MLB36753870", "is_hazmat": true, "reason": "The product is 'Refil Tinta' (Ink Refill). Ink is a chemical product. While not explicitly listed as flammable or toxic in the title, inks often contain solvents or dyes that can be irritants or mild hazards, fitting the 'Chemical products' Hazmat indicator. As a refill, it's a larger volume of liquid ink.", "confidence": "high"}
 {"product_id": "MLB19296353", "is_hazmat": false}
@@ -4105,7 +3918,7 @@
 {"product_id": "MLB32078039", "is_hazmat": true, "reason": "The product is a 'Desinfetante Concentrado' (concentrated disinfectant). Disinfectants are chemical products that pose a risk to health, fitting the Hazmat definition as 'Chemical products (acids, solvents, cleaners)'. Being concentrated further increases the potential hazard.", "confidence": "high"}
 {"product_id": "MLB24157012", "is_hazmat": false}
 {"product_id": "MLB18400048", "is_hazmat": false}
-{"product_id": "MLB19925052", "is_hazmat": true, "reason": "The product is 'Sabão Detergente C/ Secante Máquina Lavar Louça' (dishwasher detergent with drying agent). Dishwasher detergents are strong chemical products, often containing alkalis or other corrosive/irritant substances, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB19925052", "is_hazmat": true, "reason": "The product is 'Sabï¿½o Detergente C/ Secante Mï¿½quina Lavar Louï¿½a' (dishwasher detergent with drying agent). Dishwasher detergents are strong chemical products, often containing alkalis or other corrosive/irritant substances, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB17875892", "is_hazmat": false}
 {"product_id": "MLB24612855", "is_hazmat": true, "reason": "The product is a 'Removedor multiuso' (multipurpose remover). Removers often contain solvents or other chemicals that can be irritants or toxic, fitting the Hazmat indicator 'Chemical products (acids, solvents, cleaners)'. Despite being labeled as non-flammable, other hazards may exist.", "confidence": "medium"}
 {"product_id": "MLB19897410", "is_hazmat": false}
@@ -4117,12 +3930,12 @@
 {"product_id": "MLB22644553", "is_hazmat": false}
 {"product_id": "MLB28053686", "is_hazmat": true, "reason": "The product is an antiparasitic medication for dogs, functioning as a pesticide. 'Pesticides' are explicitly listed as Class 6 Toxic Substances.", "confidence": "high"}
 {"product_id": "MLB15380543", "is_hazmat": false}
-{"product_id": "MLB18420834", "is_hazmat": true, "reason": "The product is a 'Limpa Máquinas' (washing machine cleaner). Similar to dishwasher detergents, these are strong chemical products that can be corrosive or irritant, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB18420834", "is_hazmat": true, "reason": "The product is a 'Limpa Mï¿½quinas' (washing machine cleaner). Similar to dishwasher detergents, these are strong chemical products that can be corrosive or irritant, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB24287405", "is_hazmat": true, "reason": "The product is a 'Cheirinho Automotivo' (automotive air freshener) in spray format. Many automotive sprays are aerosols (Class 2 Gases) or contain flammable liquids, which are Hazmat indicators ('Aerosol sprays and pressurized containers', 'Automotive chemicals').", "confidence": "high"}
 {"product_id": "MLB35478457", "is_hazmat": false}
 {"product_id": "MLB19900140", "is_hazmat": false}
 {"product_id": "MLB29886328", "is_hazmat": false}
-{"product_id": "MLB40589751", "is_hazmat": true, "reason": "The product is a 'Garrafa Sifão' (siphon bottle) for whipped cream. These devices are designed to use compressed gas cartridges (e.g., nitrous oxide) for pressurization. 'Compressed gases/liquids' are classified as Hazmat (Class 2 Gases).", "confidence": "medium"}
+{"product_id": "MLB40589751", "is_hazmat": true, "reason": "The product is a 'Garrafa Sifï¿½o' (siphon bottle) for whipped cream. These devices are designed to use compressed gas cartridges (e.g., nitrous oxide) for pressurization. 'Compressed gases/liquids' are classified as Hazmat (Class 2 Gases).", "confidence": "medium"}
 {"product_id": "MLB15380544", "is_hazmat": false}
 {"product_id": "MLB19559345", "is_hazmat": false}
 {"product_id": "MLB35342179", "is_hazmat": true, "reason": "The product is 'Sanol Tira Mofo' (mold remover) and indicated as a disinfectant. Mold removers often contain strong chemicals like bleach (sodium hypochlorite), which are oxidizing agents (Class 5) and can be corrosive (Class 8). This falls under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
@@ -4134,14 +3947,14 @@
 {"product_id": "MLB18392305", "is_hazmat": false}
 {"product_id": "MLB24582840", "is_hazmat": false}
 {"product_id": "MLB27118619", "is_hazmat": true, "reason": "The product is an antiparasitic treatment for pets ('Contra pulgas, Carrapatos, Sarnas'). This functions as a pesticide, which is a Class 6 Toxic Substance. The 'Spray' format could also indicate an aerosol, which is a Hazmat (Class 2 Gas).", "confidence": "high"}
-{"product_id": "MLB28374512", "is_hazmat": true, "reason": "The product is a 'Limpador Banheiro Oxi Ativo Antibac' (bathroom cleaner with active oxygen) and explicitly states 'É inflamável: Sim'. This classifies it as a Class 3 Flammable Liquid or Class 2 Gas (if aerosol). 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators. Active oxygen products may also be oxidizing agents (Class 5).", "confidence": "high"}
+{"product_id": "MLB28374512", "is_hazmat": true, "reason": "The product is a 'Limpador Banheiro Oxi Ativo Antibac' (bathroom cleaner with active oxygen) and explicitly states 'ï¿½ inflamï¿½vel: Sim'. This classifies it as a Class 3 Flammable Liquid or Class 2 Gas (if aerosol). 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators. Active oxygen products may also be oxidizing agents (Class 5).", "confidence": "high"}
 {"product_id": "MLB22986726", "is_hazmat": false}
 {"product_id": "MLB20773596", "is_hazmat": false}
 {"product_id": "MLB19913323", "is_hazmat": false}
 {"product_id": "MLB40231261", "is_hazmat": false}
 {"product_id": "MLB19736109", "is_hazmat": false}
 {"product_id": "MLB15983681", "is_hazmat": true, "reason": "The product is an antiparasitic medication for dogs, functioning as a pesticide. 'Pesticides' are explicitly listed as Class 6 Toxic Substances.", "confidence": "high"}
-{"product_id": "MLB16155058", "is_hazmat": true, "reason": "The product is 'Detergente automático para lava-louças' (automatic dishwasher detergent). Dishwasher detergents are strong chemical products, often containing alkalis or other corrosive/irritant substances, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB16155058", "is_hazmat": true, "reason": "The product is 'Detergente automï¿½tico para lava-louï¿½as' (automatic dishwasher detergent). Dishwasher detergents are strong chemical products, often containing alkalis or other corrosive/irritant substances, falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB19777568", "is_hazmat": false}
 {"product_id": "MLB29503781", "is_hazmat": false}
 {"product_id": "MLB16949144", "is_hazmat": false}
@@ -4155,8 +3968,8 @@
 {"product_id": "MLB19544965", "is_hazmat": false}
 {"product_id": "MLB22328235", "is_hazmat": false}
 {"product_id": "MLB26850945", "is_hazmat": false}
-{"product_id": "MLB18968687", "is_hazmat": true, "reason": "The product is a 'Limpador Sapólio Radium Saponáceo Lavanda Cremoso' (creamy abrasive cleaner) and explicitly states 'É inflamável: Sim'. This classifies it as a Class 3 Flammable Liquid. 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators.", "confidence": "high"}
-{"product_id": "MLB35948258", "is_hazmat": true, "reason": "The product is an 'Algicida Manutenção' (algicide for pool maintenance) with 'Cloreto de Benzalcônio' (Benzalkonium Chloride) as a component. Algicides are chemical treatments for water, designed to kill organisms, implying a level of toxicity or chemical reactivity, fitting the 'Chemical products' Hazmat indicator. Benzalkonium Chloride can be corrosive/irritant.", "confidence": "high"}
+{"product_id": "MLB18968687", "is_hazmat": true, "reason": "The product is a 'Limpador Sapï¿½lio Radium Saponï¿½ceo Lavanda Cremoso' (creamy abrasive cleaner) and explicitly states 'ï¿½ inflamï¿½vel: Sim'. This classifies it as a Class 3 Flammable Liquid. 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators.", "confidence": "high"}
+{"product_id": "MLB35948258", "is_hazmat": true, "reason": "The product is an 'Algicida Manutenï¿½ï¿½o' (algicide for pool maintenance) with 'Cloreto de Benzalcï¿½nio' (Benzalkonium Chloride) as a component. Algicides are chemical treatments for water, designed to kill organisms, implying a level of toxicity or chemical reactivity, fitting the 'Chemical products' Hazmat indicator. Benzalkonium Chloride can be corrosive/irritant.", "confidence": "high"}
 {"product_id": "MLB28607795", "is_hazmat": false}
 {"product_id": "MLB29126673", "is_hazmat": false}
 {"product_id": "MLB47114791", "is_hazmat": false}
@@ -4167,7 +3980,7 @@
 {"product_id": "MLB39292442", "is_hazmat": true, "reason": "The product is a 'Desinfetante' (disinfectant). Disinfectants are chemical products that pose a risk to health, fitting the Hazmat definition as 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB36566595", "is_hazmat": false}
 {"product_id": "MLB19926027", "is_hazmat": false}
-{"product_id": "MLB18968693", "is_hazmat": true, "reason": "The product is 'Limpa Vidros Spray' (glass cleaner spray) and explicitly states 'É inflamável: Sim'. This classifies it as a Class 3 Flammable Liquid or Class 2 Gas (if aerosol). 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators.", "confidence": "high"}
+{"product_id": "MLB18968693", "is_hazmat": true, "reason": "The product is 'Limpa Vidros Spray' (glass cleaner spray) and explicitly states 'ï¿½ inflamï¿½vel: Sim'. This classifies it as a Class 3 Flammable Liquid or Class 2 Gas (if aerosol). 'Chemical products (acids, solvents, cleaners)' are also Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB22647509", "is_hazmat": false}
 {"product_id": "MLB19466913", "is_hazmat": true, "reason": "The product is a 'Desinfetante' (disinfectant). Disinfectants are chemical products that pose a risk to health, fitting the Hazmat definition as 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB20549444", "is_hazmat": false}
@@ -4178,11 +3991,11 @@
 {"product_id": "MLB19837005", "is_hazmat": false}
 {"product_id": "MLB20983610", "is_hazmat": true, "reason": "The product is a 'Desinfetante Perfumado' (perfumed disinfectant). Disinfectants are chemical products that pose a risk to health, fitting the Hazmat definition as 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB24391714", "is_hazmat": false}
-{"product_id": "MLB37557152", "is_hazmat": true, "reason": "The product contains 'Álcool Isopropilico' (Isopropyl alcohol). Isopropyl alcohol is explicitly listed as a Class 3 Flammable Liquid in the Hazmat definition examples ('99% isopropyl alcohol for electronics cleaning 1L').", "confidence": "high"}
+{"product_id": "MLB37557152", "is_hazmat": true, "reason": "The product contains 'ï¿½lcool Isopropilico' (Isopropyl alcohol). Isopropyl alcohol is explicitly listed as a Class 3 Flammable Liquid in the Hazmat definition examples ('99% isopropyl alcohol for electronics cleaning 1L').", "confidence": "high"}
 {"product_id": "MLB45551979", "is_hazmat": false}
 {"product_id": "MLB31006499", "is_hazmat": false}
 {"product_id": "MLB18392328", "is_hazmat": true, "reason": "The product is a 'Desinfetante Leitoso Herbal' (milky herbal disinfectant). Disinfectants are chemical products that pose a risk to health, fitting the Hazmat definition as 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
-{"product_id": "MLB28674829", "is_hazmat": true, "reason": "The product is a 'Hidro Óleo + Cor Para Marmore E Granito' (hydrophobic oil + color for marble and granite). This is a specialized chemical treatment/sealant for stone. 'Automotive chemicals (paints, thinners, sealants)' are listed as Hazmat indicators, and this product is a similar type of chemical sealant that likely contains solvents or other hazardous components.", "confidence": "medium"}
+{"product_id": "MLB28674829", "is_hazmat": true, "reason": "The product is a 'Hidro ï¿½leo + Cor Para Marmore E Granito' (hydrophobic oil + color for marble and granite). This is a specialized chemical treatment/sealant for stone. 'Automotive chemicals (paints, thinners, sealants)' are listed as Hazmat indicators, and this product is a similar type of chemical sealant that likely contains solvents or other hazardous components.", "confidence": "medium"}
 {"product_id": "MLB41145430", "is_hazmat": false}
 
 
@@ -4248,12 +4061,12 @@
 {"product_id": "MLB42608003", "is_hazmat": false}
 {"product_id": "MLB32335127", "is_hazmat": true, "reason": "Concentrated chemical product (aromatizer) which can be an irritant or potentially flammable, falling under 'Chemical products'.", "confidence": "high"}
 {"product_id": "MLB19752366", "is_hazmat": false}
-{"product_id": "MLB19766539", "is_hazmat": true, "reason": "Chemical product (heavy-duty cleaner), explicitly stated as a 'Produto Químico' and falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB19766539", "is_hazmat": true, "reason": "Chemical product (heavy-duty cleaner), explicitly stated as a 'Produto Quï¿½mico' and falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB37363275", "is_hazmat": true, "reason": "Chemical product (disinfectant), falling under 'Chemical products (acids, solvents, cleaners)' which can be toxic or corrosive.", "confidence": "high"}
 {"product_id": "MLB19822667", "is_hazmat": true, "reason": "Concentrated chemical product (dish soap), falling under 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB25252992", "is_hazmat": true, "reason": "Chemical product (calcium chloride) used as a desiccant, which can be an irritant or corrosive in solution, falling under 'Chemical products'.", "confidence": "high"}
 {"product_id": "MLB28607326", "is_hazmat": false}
-{"product_id": "MLB28102977", "is_hazmat": true, "reason": "Flammable liquid (multipurpose cleaner), explicitly stated as 'É inflamável: Sim' (Class 3: Flammable Liquids).", "confidence": "high"}
+{"product_id": "MLB28102977", "is_hazmat": true, "reason": "Flammable liquid (multipurpose cleaner), explicitly stated as 'ï¿½ inflamï¿½vel: Sim' (Class 3: Flammable Liquids).", "confidence": "high"}
 {"product_id": "MLB45231604", "is_hazmat": false}
 {"product_id": "MLB18424859", "is_hazmat": true, "reason": "Chemical product (wood oil/polish) which may contain flammable solvents or irritants, falling under 'Chemical products'.", "confidence": "high"}
 {"product_id": "MLB46693418", "is_hazmat": true, "reason": "Chemical product (air freshener) which may contain flammable solvents or irritants, falling under 'Chemical products'.", "confidence": "medium"}
@@ -4300,7 +4113,7 @@
 {"product_id": "MLB46827030", "is_hazmat": false}
 {"product_id": "MLB41260977", "is_hazmat": false}
 {"product_id": "MLB19548357", "is_hazmat": true, "reason": "This product is a 'Limpador' (cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
-{"product_id": "MLB37737407", "is_hazmat": true, "reason": "This product is a 'Desinfetante Tira Limo Com Cloro' (Disinfectant Lime Remover with Chlorine). The attributes explicitly state 'É inflamável: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. Additionally, it contains chlorine, which can be an oxidizing agent (Class 5), and is a chemical cleaner, fitting the 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB37737407", "is_hazmat": true, "reason": "This product is a 'Desinfetante Tira Limo Com Cloro' (Disinfectant Lime Remover with Chlorine). The attributes explicitly state 'ï¿½ inflamï¿½vel: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. Additionally, it contains chlorine, which can be an oxidizing agent (Class 5), and is a chemical cleaner, fitting the 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB19485721", "is_hazmat": false}
 {"product_id": "MLB19532359", "is_hazmat": false}
 {"product_id": "MLB32103939", "is_hazmat": false}
@@ -4325,7 +4138,7 @@
 {"product_id": "MLB20556510", "is_hazmat": true, "reason": "This product is a 'Flotador' (flotation cleaner) for heavy duty cleaning. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB27711610", "is_hazmat": true, "reason": "This product is an antiparasitic medication for animals, which functions as a pesticide. The Hazmat definition explicitly lists 'Pesticides' as 'Toxic substances harmful to human health' under Class 6.", "confidence": "high"}
 {"product_id": "MLB19588855", "is_hazmat": false}
-{"product_id": "MLB18390283", "is_hazmat": true, "reason": "This product is 'Água Sanitária Com Cloro Ativo' (Bleach with Active Chlorine). Bleach contains active chlorine compounds, which are strong oxidizing agents. 'Calcium hypochlorite' is listed as an 'Oxidizing agent' under Class 5. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB18390283", "is_hazmat": true, "reason": "This product is 'ï¿½gua Sanitï¿½ria Com Cloro Ativo' (Bleach with Active Chlorine). Bleach contains active chlorine compounds, which are strong oxidizing agents. 'Calcium hypochlorite' is listed as an 'Oxidizing agent' under Class 5. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB19901772", "is_hazmat": true, "reason": "This product is a 'Limpador Perfumado' (perfumed cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB44733027", "is_hazmat": true, "reason": "This product is a 'Desinfetante Gel' (disinfectant gel). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB34852471", "is_hazmat": false}
@@ -4351,7 +4164,7 @@
 {"product_id": "MLB40064578", "is_hazmat": false}
 {"product_id": "MLB41935909", "is_hazmat": true, "reason": "This product is a 'Detergente Concentrado' (concentrated detergent) for extractors. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB28199929", "is_hazmat": false}
-{"product_id": "MLB24878840", "is_hazmat": true, "reason": "This product is a 'Limpador Limpeza Pesada Com Álcool' (Heavy Duty Cleaner with Alcohol). The attributes explicitly state 'É inflamável: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB24878840", "is_hazmat": true, "reason": "This product is a 'Limpador Limpeza Pesada Com ï¿½lcool' (Heavy Duty Cleaner with Alcohol). The attributes explicitly state 'ï¿½ inflamï¿½vel: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB44976196", "is_hazmat": true, "reason": "This product is a 'Flotador Multiuso' (multi-purpose flotation cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB23988294", "is_hazmat": true, "reason": "This product is a 'Desinfetante' (disinfectant). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB21300441", "is_hazmat": false}
@@ -4362,7 +4175,7 @@
 {"product_id": "MLB19508709", "is_hazmat": false}
 {"product_id": "MLB36966294", "is_hazmat": false}
 {"product_id": "MLB24427807", "is_hazmat": true, "reason": "This product is 'Shampoo Automotivo' (automotive shampoo) for heavy cleaning. The Hazmat definition includes 'Automotive chemicals (paints, thinners, sealants)' as a Hazmat indicator, which applies to automotive cleaning chemicals.", "confidence": "high"}
-{"product_id": "MLB26380332", "is_hazmat": true, "reason": "This product is 'Cera líquida' (liquid wax) for automotive use. The Hazmat definition includes 'Automotive chemicals (paints, thinners, sealants)' as a Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB26380332", "is_hazmat": true, "reason": "This product is 'Cera lï¿½quida' (liquid wax) for automotive use. The Hazmat definition includes 'Automotive chemicals (paints, thinners, sealants)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB24433971", "is_hazmat": false}
 {"product_id": "MLB27461317", "is_hazmat": true, "reason": "This product is an antiparasitic medication for animals, which functions as a pesticide. The Hazmat definition explicitly lists 'Pesticides' as 'Toxic substances harmful to human health' under Class 6.", "confidence": "high"}
 {"product_id": "MLB28536564", "is_hazmat": false}
@@ -4373,18 +4186,18 @@
 {"product_id": "MLB16949210", "is_hazmat": false}
 {"product_id": "MLB45750951", "is_hazmat": false}
 {"product_id": "MLB27347444", "is_hazmat": false}
-{"product_id": "MLB19465853", "is_hazmat": true, "reason": "This product is 'Lustra móveis' (furniture polish). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB19465853", "is_hazmat": true, "reason": "This product is 'Lustra mï¿½veis' (furniture polish). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB24427819", "is_hazmat": true, "reason": "This product is 'Lava-auto Super Concentrado' (super concentrated car wash). The Hazmat definition includes 'Automotive chemicals (paints, thinners, sealants)' as a Hazmat indicator, which applies to automotive cleaning chemicals.", "confidence": "high"}
 {"product_id": "MLB19044620", "is_hazmat": false}
 {"product_id": "MLB19848567", "is_hazmat": false}
 {"product_id": "MLB16949106", "is_hazmat": false}
 {"product_id": "MLB18640232", "is_hazmat": false}
-{"product_id": "MLB20988811", "is_hazmat": true, "reason": "This product is 'Detergente Líquido' (liquid detergent) described as 'Pro' and 'Neutro Profissional' with 'Alto Poder Desengordurante'. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator. Its professional and concentrated nature suggests a stronger chemical composition than typical household detergents.", "confidence": "medium"}
-{"product_id": "MLB18400172", "is_hazmat": true, "reason": "This product is a 'Repelente Líquido Refil Elétrico' (liquid refill for electric repellent). Insect repellents are designed to deter or kill pests and often contain active chemical ingredients that are toxic. The Hazmat definition lists 'Pesticides' as 'Toxic substances harmful to human health' under Class 6.", "confidence": "high"}
+{"product_id": "MLB20988811", "is_hazmat": true, "reason": "This product is 'Detergente Lï¿½quido' (liquid detergent) described as 'Pro' and 'Neutro Profissional' with 'Alto Poder Desengordurante'. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator. Its professional and concentrated nature suggests a stronger chemical composition than typical household detergents.", "confidence": "medium"}
+{"product_id": "MLB18400172", "is_hazmat": true, "reason": "This product is a 'Repelente Lï¿½quido Refil Elï¿½trico' (liquid refill for electric repellent). Insect repellents are designed to deter or kill pests and often contain active chemical ingredients that are toxic. The Hazmat definition lists 'Pesticides' as 'Toxic substances harmful to human health' under Class 6.", "confidence": "high"}
 {"product_id": "MLB26870448", "is_hazmat": false}
 {"product_id": "MLB24325027", "is_hazmat": false}
 {"product_id": "MLB24029019", "is_hazmat": false}
-{"product_id": "MLB19032367", "is_hazmat": true, "reason": "This product is a 'Limpador Multiuso' (multi-purpose cleaner). The attributes explicitly state 'É inflamável: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB19032367", "is_hazmat": true, "reason": "This product is a 'Limpador Multiuso' (multi-purpose cleaner). The attributes explicitly state 'ï¿½ inflamï¿½vel: Sim' (Is flammable: Yes), which classifies it as a Class 3 Flammable Liquid. It also falls under 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB19866285", "is_hazmat": true, "reason": "This product is a 'Desinfetante para uso Geral' (general purpose disinfectant). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB23958420", "is_hazmat": false}
 {"product_id": "MLB17322605", "is_hazmat": true, "reason": "This product is 'Cera Liquida' (liquid wax) for cleaning. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as a Hazmat indicator. Waxes often contain solvents that can be flammable or irritating.", "confidence": "medium"}
@@ -4393,7 +4206,7 @@
 {"product_id": "MLB22772580", "is_hazmat": false}
 {"product_id": "MLB19599219", "is_hazmat": false}
 {"product_id": "MLB22511802", "is_hazmat": false}
-{"product_id": "MLB41045455", "is_hazmat": true, "reason": "This is a 'Concentrated Degreaser' for 'Heavy Cleaning'. Degreasers are chemical products that often contain strong solvents or corrosive agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'corrosive substances'. Despite stating it's 'Não inflamável', its heavy-duty nature suggests potential hazard.", "confidence": "high"}
+{"product_id": "MLB41045455", "is_hazmat": true, "reason": "This is a 'Concentrated Degreaser' for 'Heavy Cleaning'. Degreasers are chemical products that often contain strong solvents or corrosive agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'corrosive substances'. Despite stating it's 'Nï¿½o inflamï¿½vel', its heavy-duty nature suggests potential hazard.", "confidence": "high"}
 {"product_id": "MLB16929731", "is_hazmat": false}
 {"product_id": "MLB41831404", "is_hazmat": true, "reason": "This is a 'Limpador Perfumado' that 'Desinfeta Higieniza'. Disinfectants are chemical products that can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB36231370", "is_hazmat": true, "reason": "This is an 'Automotive chemical' ('Limpador Para Pneus E Borrachas'). The Hazmat definition explicitly lists 'Automotive chemicals (paints, thinners, sealants)' as Hazmat indicators, and cleaners can contain solvents or corrosive agents.", "confidence": "high"}
@@ -4402,34 +4215,34 @@
 {"product_id": "MLB20886056", "is_hazmat": false}
 {"product_id": "MLB20995278", "is_hazmat": false}
 {"product_id": "MLB37269222", "is_hazmat": false}
-{"product_id": "MLB24612847", "is_hazmat": true, "reason": "This is a 'Desinfetante Sanitário Líquido'. Toilet cleaners and disinfectants are chemical products that often contain strong corrosive or toxic agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB24612847", "is_hazmat": true, "reason": "This is a 'Desinfetante Sanitï¿½rio Lï¿½quido'. Toilet cleaners and disinfectants are chemical products that often contain strong corrosive or toxic agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB21604944", "is_hazmat": false}
-{"product_id": "MLB21127966", "is_hazmat": true, "reason": "This is a 'Limpa Cerâmica/ Azulejo/ Rejunte' for 'Limpeza Pesada'. Heavy-duty cleaners for specific surfaces like ceramic and grout often contain strong acids or alkalis, which are corrosive substances. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'Corrosive substances'.", "confidence": "high"}
+{"product_id": "MLB21127966", "is_hazmat": true, "reason": "This is a 'Limpa Cerï¿½mica/ Azulejo/ Rejunte' for 'Limpeza Pesada'. Heavy-duty cleaners for specific surfaces like ceramic and grout often contain strong acids or alkalis, which are corrosive substances. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'Corrosive substances'.", "confidence": "high"}
 {"product_id": "MLB43898067", "is_hazmat": false}
 {"product_id": "MLB26396744", "is_hazmat": false}
 {"product_id": "MLB37942111", "is_hazmat": false}
-{"product_id": "MLB18421029", "is_hazmat": true, "reason": "This is a 'Limpador Perfumado' that is also a disinfectant ('É produto desinfetante': 'Sim'). Disinfectants are chemical products that can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB18421029", "is_hazmat": true, "reason": "This is a 'Limpador Perfumado' that is also a disinfectant ('ï¿½ produto desinfetante': 'Sim'). Disinfectants are chemical products that can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB25780642", "is_hazmat": false}
-{"product_id": "MLB28054298", "is_hazmat": true, "reason": "This product is 'Remédio Contra Carrapatos E Pulgas Cachorro'. It contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB28054298", "is_hazmat": true, "reason": "This product is 'Remï¿½dio Contra Carrapatos E Pulgas Cachorro'. It contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB22616395", "is_hazmat": false}
 {"product_id": "MLB43424234", "is_hazmat": false}
 {"product_id": "MLB26008867", "is_hazmat": false}
-{"product_id": "MLB46208310", "is_hazmat": true, "reason": "This is a 'Limpador Concentrado' that is also a disinfectant ('É produto desinfetante': 'Sim'). Concentrated chemical products, especially disinfectants, can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB46208310", "is_hazmat": true, "reason": "This is a 'Limpador Concentrado' that is also a disinfectant ('ï¿½ produto desinfetante': 'Sim'). Concentrated chemical products, especially disinfectants, can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB20681235", "is_hazmat": false}
 {"product_id": "MLB22443708", "is_hazmat": false}
 {"product_id": "MLB22313865", "is_hazmat": false}
 {"product_id": "MLB34102529", "is_hazmat": false}
 {"product_id": "MLB18611173", "is_hazmat": false}
-{"product_id": "MLB41738687", "is_hazmat": true, "reason": "This is a 'Limpador para pisos' that is also a disinfectant ('É desinfetante': 'Sim'). Disinfectants are chemical products that can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB41738687", "is_hazmat": true, "reason": "This is a 'Limpador para pisos' that is also a disinfectant ('ï¿½ desinfetante': 'Sim'). Disinfectants are chemical products that can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB24993744", "is_hazmat": false}
 {"product_id": "MLB41920284", "is_hazmat": false}
 {"product_id": "MLB36565818", "is_hazmat": false}
 {"product_id": "MLB21003243", "is_hazmat": false}
 {"product_id": "MLB18342188", "is_hazmat": false}
 {"product_id": "MLB27119051", "is_hazmat": true, "reason": "This product is 'Antipulgas E Carrapatos'. It contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
-{"product_id": "MLB44207987", "is_hazmat": true, "reason": "This product is a 'Polidor Tira Mancha Chuva Ácida'. It's an automotive chemical designed to remove acid rain stains, implying it contains strong chemical agents (e.g., acids or solvents). The Hazmat definition includes 'Automotive chemicals' and 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
-{"product_id": "MLB15982835", "is_hazmat": true, "reason": "This product is an 'Antiparasitário' for 'Pulgas, Carrapatos, Sarna, Ácaros'. It contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
-{"product_id": "MLB16008146", "is_hazmat": true, "reason": "This 'Coleira Antiparasitária' is impregnated with a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB44207987", "is_hazmat": true, "reason": "This product is a 'Polidor Tira Mancha Chuva ï¿½cida'. It's an automotive chemical designed to remove acid rain stains, implying it contains strong chemical agents (e.g., acids or solvents). The Hazmat definition includes 'Automotive chemicals' and 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB15982835", "is_hazmat": true, "reason": "This product is an 'Antiparasitï¿½rio' for 'Pulgas, Carrapatos, Sarna, ï¿½caros'. It contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB16008146", "is_hazmat": true, "reason": "This 'Coleira Antiparasitï¿½ria' is impregnated with a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB39008972", "is_hazmat": true, "reason": "This is a 'Limpador Concentrado Perfumado'. Being a 'Concentrated' chemical cleaner, it may pose a risk due to its concentration, even if not explicitly a disinfectant. The Hazmat definition includes 'Chemical products'.", "confidence": "medium"}
 {"product_id": "MLB22227097", "is_hazmat": false}
 {"product_id": "MLB42521746", "is_hazmat": false}
@@ -4442,22 +4255,22 @@
 {"product_id": "MLB19137597", "is_hazmat": false}
 {"product_id": "MLB44301046", "is_hazmat": true, "reason": "This is a 'Limpador Desengordurante Cozinha'. Degreasers are chemical products that often contain strong solvents or corrosive agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB18399915", "is_hazmat": false}
-{"product_id": "MLB37494303", "is_hazmat": true, "reason": "This 'Limpador Multiuso' is explicitly stated as 'É inflamável': 'Sim'. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB37494303", "is_hazmat": true, "reason": "This 'Limpador Multiuso' is explicitly stated as 'ï¿½ inflamï¿½vel': 'Sim'. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB17823706", "is_hazmat": false}
 {"product_id": "MLB25860552", "is_hazmat": true, "reason": "This is a 'Shampoo automotivo super Concentrado'. Automotive chemicals are listed as Hazmat indicators. Being 'super concentrated' implies a higher potential for irritation or other hazards.", "confidence": "medium"}
 {"product_id": "MLB40643293", "is_hazmat": true, "reason": "This 'Balde De Cloro' contains 'Cloro para Piscina'. Chlorine (specifically 'Granulated chlorine for pool') is explicitly listed as an 'Oxidizing Agent' (Class 5) in the Hazmat definition examples.", "confidence": "high"}
-{"product_id": "MLB44966147", "is_hazmat": true, "reason": "This 'Desinfetante Lavanda' is a chemical product that disinfects ('É desinfetante': 'Sim'). Disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB44966147", "is_hazmat": true, "reason": "This 'Desinfetante Lavanda' is a chemical product that disinfects ('ï¿½ desinfetante': 'Sim'). Disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB19897738", "is_hazmat": false}
-{"product_id": "MLB15991150", "is_hazmat": true, "reason": "This 'Coleira Antiparasitária' is impregnated with a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB15991150", "is_hazmat": true, "reason": "This 'Coleira Antiparasitï¿½ria' is impregnated with a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB43533062", "is_hazmat": false}
 {"product_id": "MLB41020347", "is_hazmat": false}
 {"product_id": "MLB37499082", "is_hazmat": false}
 {"product_id": "MLB37138385", "is_hazmat": false}
 {"product_id": "MLB17899737", "is_hazmat": false}
-{"product_id": "MLB40113569", "is_hazmat": true, "reason": "This 'Desinfetante' for 'Limpeza Pesada' is a chemical product that disinfects ('É produto desinfetante': 'Sim'). Heavy-duty disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB40113569", "is_hazmat": true, "reason": "This 'Desinfetante' for 'Limpeza Pesada' is a chemical product that disinfects ('ï¿½ produto desinfetante': 'Sim'). Heavy-duty disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB19969083", "is_hazmat": false}
 {"product_id": "MLB24047439", "is_hazmat": false}
-{"product_id": "MLB24382162", "is_hazmat": true, "reason": "This 'Limpador Perfumado' is a chemical product that disinfects ('É produto desinfetante': 'Sim'). Disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
+{"product_id": "MLB24382162", "is_hazmat": true, "reason": "This 'Limpador Perfumado' is a chemical product that disinfects ('ï¿½ produto desinfetante': 'Sim'). Disinfectants can be corrosive or toxic. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)'.", "confidence": "high"}
 {"product_id": "MLB42137654", "is_hazmat": false}
 {"product_id": "MLB46509369", "is_hazmat": true, "reason": "This 'Limpa Pedras Concentrado' is a chemical product for cleaning stones. Stone cleaners often contain strong acids or other corrosive agents. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'Corrosive substances'.", "confidence": "high"}
 {"product_id": "MLB19760861", "is_hazmat": false}
@@ -4469,13 +4282,13 @@
 {"product_id": "MLB19772208", "is_hazmat": false}
 {"product_id": "MLB22372084", "is_hazmat": false}
 {"product_id": "MLB47814495", "is_hazmat": false}
-{"product_id": "MLB29677653", "is_hazmat": true, "reason": "This 'Cloro Multiação' for pools contains chlorine, which is explicitly listed as an 'Oxidizing Agent' (Class 5) in the Hazmat definition examples. It is also explicitly stated as 'É inflamável': 'Sim', which is a Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB29677653", "is_hazmat": true, "reason": "This 'Cloro Multiaï¿½ï¿½o' for pools contains chlorine, which is explicitly listed as an 'Oxidizing Agent' (Class 5) in the Hazmat definition examples. It is also explicitly stated as 'ï¿½ inflamï¿½vel': 'Sim', which is a Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB20797595", "is_hazmat": false}
 {"product_id": "MLB16197064", "is_hazmat": true, "reason": "This 'Limpa-Estofado Aerossol' is an aerosol spray. The Hazmat definition explicitly lists 'Aerosol sprays and pressurized containers' as Hazmat indicators, as they typically contain compressed gases or flammable propellants (Class 2).", "confidence": "high"}
-{"product_id": "MLB15995520", "is_hazmat": true, "reason": "This 'Comprimido antiparasitário para pulga' contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB15995520", "is_hazmat": true, "reason": "This 'Comprimido antiparasitï¿½rio para pulga' contains a substance designed to kill parasites (pesticide/insecticide). The Hazmat definition explicitly lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB19543075", "is_hazmat": false}
 {"product_id": "MLB16949116", "is_hazmat": false}
-{"product_id": "MLB26514740", "is_hazmat": true, "reason": "This 'Óleo Desengripante Lubrificante' is an automotive/industrial chemical. Such oils often contain petroleum-based solvents and can be flammable or irritating. The Hazmat definition includes 'Automotive chemicals' and 'solvents'.", "confidence": "high"}
+{"product_id": "MLB26514740", "is_hazmat": true, "reason": "This 'ï¿½leo Desengripante Lubrificante' is an automotive/industrial chemical. Such oils often contain petroleum-based solvents and can be flammable or irritating. The Hazmat definition includes 'Automotive chemicals' and 'solvents'.", "confidence": "high"}
 {"product_id": "MLB41819324", "is_hazmat": false}
 {"product_id": "MLB27270147", "is_hazmat": false}
 {"product_id": "MLB44127069", "is_hazmat": false}
@@ -4483,8 +4296,8 @@
 {"product_id": "MLB28466975", "is_hazmat": false}
 {"product_id": "MLB28909219", "is_hazmat": false}
 {"product_id": "MLB30464841", "is_hazmat": false}
-{"product_id": "MLB19880958", "is_hazmat": true, "reason": "This 'Limpa Cerâmicas Azulejos E Rejunte' is a chemical cleaner for specific surfaces. Such cleaners often contain strong acids or alkalis, which are corrosive substances. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'Corrosive substances'.", "confidence": "high"}
-{"product_id": "MLB33315848", "is_hazmat": true, "reason": "This 'Clarificante E Auxiliar De Filtração Para Piscinas' is a chemical product used for pool treatment. Pool chemicals often contain substances that can be irritating or harmful. The Hazmat definition includes 'Industrial chemicals and reagents' and 'Chemical products'.", "confidence": "medium"}
+{"product_id": "MLB19880958", "is_hazmat": true, "reason": "This 'Limpa Cerï¿½micas Azulejos E Rejunte' is a chemical cleaner for specific surfaces. Such cleaners often contain strong acids or alkalis, which are corrosive substances. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' and 'Corrosive substances'.", "confidence": "high"}
+{"product_id": "MLB33315848", "is_hazmat": true, "reason": "This 'Clarificante E Auxiliar De Filtraï¿½ï¿½o Para Piscinas' is a chemical product used for pool treatment. Pool chemicals often contain substances that can be irritating or harmful. The Hazmat definition includes 'Industrial chemicals and reagents' and 'Chemical products'.", "confidence": "medium"}
 {"product_id": "MLB20569911", "is_hazmat": false}
 {"product_id": "MLB29041983", "is_hazmat": false}
 {"product_id": "MLB16930158", "is_hazmat": false}
@@ -4495,9 +4308,9 @@
 {"product_id": "MLB21646973", "is_hazmat": false}
 {"product_id": "MLB18640231", "is_hazmat": false}
 {"product_id": "MLB25359109", "is_hazmat": false}
-{"product_id": "MLB19535881", "is_hazmat": true, "reason": "This product is an 'Acaricida Repelente Anti Acaro Fungos Solução', which is a pesticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB19535881", "is_hazmat": true, "reason": "This product is an 'Acaricida Repelente Anti Acaro Fungos Soluï¿½ï¿½o', which is a pesticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB40655650", "is_hazmat": false}
-{"product_id": "MLB18400220", "is_hazmat": true, "reason": "This product is a 'Repelente Elétrico Líquido', which functions as a pesticide/insecticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
+{"product_id": "MLB18400220", "is_hazmat": true, "reason": "This product is a 'Repelente Elï¿½trico Lï¿½quido', which functions as a pesticide/insecticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB32453042", "is_hazmat": true, "reason": "This product is a 'Desinfetante' (disinfectant). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB17823692", "is_hazmat": false}
 {"product_id": "MLB25264428", "is_hazmat": false}
@@ -4507,7 +4320,7 @@
 {"product_id": "MLB19837018", "is_hazmat": true, "reason": "This product is a 'Desinfetante Multiuso' (multipurpose disinfectant). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB17823731", "is_hazmat": false}
 {"product_id": "MLB29373859", "is_hazmat": true, "reason": "This product is 'Bravecto', an antiparasitic medication for dogs, functioning as a pesticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
-{"product_id": "MLB28712448", "is_hazmat": true, "reason": "This product is a 'Tira Manchas Líquido' (liquid stain remover), and its attributes state 'É inflamável: Sim'. Flammable liquids are classified under Class 3 of Hazmat.", "confidence": "high"}
+{"product_id": "MLB28712448", "is_hazmat": true, "reason": "This product is a 'Tira Manchas Lï¿½quido' (liquid stain remover), and its attributes state 'ï¿½ inflamï¿½vel: Sim'. Flammable liquids are classified under Class 3 of Hazmat.", "confidence": "high"}
 {"product_id": "MLB19588853", "is_hazmat": false}
 {"product_id": "MLB42440632", "is_hazmat": false}
 {"product_id": "MLB21931871", "is_hazmat": false}
@@ -4528,12 +4341,12 @@
 {"product_id": "MLB23495378", "is_hazmat": true, "reason": "This product is a 'Repelente Natural spray Anti pulgas', which functions as a pesticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 {"product_id": "MLB18392047", "is_hazmat": false}
 {"product_id": "MLB19483565", "is_hazmat": false}
-{"product_id": "MLB16197066", "is_hazmat": true, "reason": "This product is a 'Limpa Carpete e Tapete Líquido' (liquid carpet and rug cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and these cleaners often contain solvents or other irritating chemicals.", "confidence": "high"}
+{"product_id": "MLB16197066", "is_hazmat": true, "reason": "This product is a 'Limpa Carpete e Tapete Lï¿½quido' (liquid carpet and rug cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and these cleaners often contain solvents or other irritating chemicals.", "confidence": "high"}
 {"product_id": "MLB50850725", "is_hazmat": false}
 {"product_id": "MLB21157503", "is_hazmat": false}
 {"product_id": "MLB29614243", "is_hazmat": false}
 {"product_id": "MLB15982836", "is_hazmat": true, "reason": "This product is 'Simparic', an antiparasitic medication for pets, functioning as a pesticide. The Hazmat definition lists 'Pesticides' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
-{"product_id": "MLB19745649", "is_hazmat": true, "reason": "This product is 'Água sanitária e alvejante cloro ativo' (bleach and active chlorine whitener). Bleach is a corrosive substance, falling under Class 8: Corrosive Substances.", "confidence": "high"}
+{"product_id": "MLB19745649", "is_hazmat": true, "reason": "This product is 'ï¿½gua sanitï¿½ria e alvejante cloro ativo' (bleach and active chlorine whitener). Bleach is a corrosive substance, falling under Class 8: Corrosive Substances.", "confidence": "high"}
 {"product_id": "MLB27769971", "is_hazmat": false}
 {"product_id": "MLB27456693", "is_hazmat": false}
 {"product_id": "MLB28827523", "is_hazmat": true, "reason": "This product is a 'Desinfetante' (disinfectant). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
@@ -4543,7 +4356,7 @@
 {"product_id": "MLB24101165", "is_hazmat": false}
 {"product_id": "MLB28087766", "is_hazmat": false}
 {"product_id": "MLB21558353", "is_hazmat": false}
-{"product_id": "MLB24452772", "is_hazmat": true, "reason": "This product is 'Água Sanitária' (bleach). Bleach is a corrosive substance, falling under Class 8: Corrosive Substances.", "confidence": "high"}
+{"product_id": "MLB24452772", "is_hazmat": true, "reason": "This product is 'ï¿½gua Sanitï¿½ria' (bleach). Bleach is a corrosive substance, falling under Class 8: Corrosive Substances.", "confidence": "high"}
 {"product_id": "MLB19132609", "is_hazmat": false}
 {"product_id": "MLB35063798", "is_hazmat": false}
 {"product_id": "MLB18394878", "is_hazmat": true, "reason": "This product is an 'Odorizador de Ambiente' (air freshener) in a 'Frasco' (bottle) and described as a 'Refil' for an 'Automatic' dispenser, which often implies an aerosol or pressurized container. The Hazmat definition lists 'Aerosol sprays and pressurized containers' as Hazmat indicators.", "confidence": "high"}
@@ -4555,7 +4368,7 @@
 {"product_id": "MLB42082681", "is_hazmat": false}
 {"product_id": "MLB24650591", "is_hazmat": true, "reason": "This product is 'Massa De Polir' (polishing compound) for automotive use. The Hazmat definition lists 'Automotive chemicals (paints, thinners, sealants)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB15296536", "is_hazmat": false}
-{"product_id": "MLB18953390", "is_hazmat": true, "reason": "This product is 'Óleo Líquido' for wood cleaning and polishing. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and polishes/cleaners often contain solvents.", "confidence": "medium"}
+{"product_id": "MLB18953390", "is_hazmat": true, "reason": "This product is 'ï¿½leo Lï¿½quido' for wood cleaning and polishing. The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators, and polishes/cleaners often contain solvents.", "confidence": "medium"}
 {"product_id": "MLB36227893", "is_hazmat": false}
 {"product_id": "MLB27716332", "is_hazmat": false}
 {"product_id": "MLB24135791", "is_hazmat": false}
@@ -4578,7 +4391,7 @@
 {"product_id": "MLB19132263", "is_hazmat": false}
 {"product_id": "MLB40470750", "is_hazmat": true, "reason": "This product is a 'Limpador Perfumado Desinfetante' (perfumed disinfectant cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB19685245", "is_hazmat": false}
-{"product_id": "MLB46121296", "is_hazmat": true, "reason": "This product is a 'Limpa Cerâmicas, Azulejos E Rejuntes' (ceramic, tile, and grout cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
+{"product_id": "MLB46121296", "is_hazmat": true, "reason": "This product is a 'Limpa Cerï¿½micas, Azulejos E Rejuntes' (ceramic, tile, and grout cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB22391862", "is_hazmat": true, "reason": "This product is a 'Limpador Perfumado' (perfumed cleaner). The Hazmat definition includes 'Chemical products (acids, solvents, cleaners)' as Hazmat indicators.", "confidence": "high"}
 {"product_id": "MLB31053637", "is_hazmat": false}
 {"product_id": "MLB24733456", "is_hazmat": false}
@@ -4704,7 +4517,7 @@
 {"product_id": "MLB26684653", "is_hazmat": false}
 {"product_id": "MLB19915214", "is_hazmat": false}
 {"product_id": "MLB19548223", "is_hazmat": false}
-{"product_id": "MLB23355713", "is_hazmat": true, "reason": "Contains \"Cloro Multi Ação\" and is explicitly labeled as \"É inflamável: Sim\", classifying it as a flammable solid (Class 4) and an oxidizing agent (Class 5).", "confidence": "high"}
+{"product_id": "MLB23355713", "is_hazmat": true, "reason": "Contains \"Cloro Multi Aï¿½ï¿½o\" and is explicitly labeled as \"ï¿½ inflamï¿½vel: Sim\", classifying it as a flammable solid (Class 4) and an oxidizing agent (Class 5).", "confidence": "high"}
 {"product_id": "MLB29409307", "is_hazmat": false}
 {"product_id": "MLB18420771", "is_hazmat": true, "reason": "Chemical cleaning product containing chlorine, which is an oxidizing agent, aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB20290500", "is_hazmat": true, "reason": "Chemical cleaning product, likely containing corrosive or irritating agents for heavy-duty stone cleaning, aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
@@ -4736,7 +4549,7 @@
 {"product_id": "MLB22929676", "is_hazmat": false}
 {"product_id": "MLB18392001", "is_hazmat": false}
 {"product_id": "MLB19532694", "is_hazmat": false}
-{"product_id": "MLB19166022", "is_hazmat": true, "reason": "Explicitly stated as \"É inflamável: Sim\", classifying it as a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB19166022", "is_hazmat": true, "reason": "Explicitly stated as \"ï¿½ inflamï¿½vel: Sim\", classifying it as a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB23113937", "is_hazmat": false}
 {"product_id": "MLB15995519", "is_hazmat": true, "reason": "Veterinary medication for pest control, classified as \"Pesticides\" which are toxic substances (Class 6).", "confidence": "high"}
 {"product_id": "MLB24652609", "is_hazmat": false}
@@ -4745,7 +4558,7 @@
 {"product_id": "MLB29521721", "is_hazmat": true, "reason": "Chemical cleaning product, aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB35370524", "is_hazmat": true, "reason": "Chemical cleaning product, aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB27118684", "is_hazmat": true, "reason": "Veterinary medication for pest control, classified as \"Pesticides\" which are toxic substances (Class 6).", "confidence": "high"}
-{"product_id": "MLB42738200", "is_hazmat": true, "reason": "Contains \"Hipoclorito de Sódio\" (sodium hypochlorite), which is an oxidizing agent and corrosive substance (Class 5 or 8), aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB42738200", "is_hazmat": true, "reason": "Contains \"Hipoclorito de Sï¿½dio\" (sodium hypochlorite), which is an oxidizing agent and corrosive substance (Class 5 or 8), aligning with \"Chemical products (acids, solvents, cleaners)\" Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB37647987", "is_hazmat": false}
 {"product_id": "MLB24335189", "is_hazmat": false}
 {"product_id": "MLB46193210", "is_hazmat": false}
@@ -4811,18 +4624,18 @@
 {"product_id": "MLB19542332", "is_hazmat": false}
 {"product_id": "MLB15983687", "is_hazmat": true, "reason": "The product is an 'Antipulgas' (Flea treatment) for dogs in tablet form. Such products contain active ingredients that are toxic to parasites, fitting the 'Pesticides' example under Class 6 (Toxic and Infectious Substances).", "confidence": "high"}
 {"product_id": "MLB19731776", "is_hazmat": false}
-{"product_id": "MLB23904493", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
+{"product_id": "MLB23904493", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
 {"product_id": "MLB17517799", "is_hazmat": false}
 {"product_id": "MLB16608383", "is_hazmat": false}
 {"product_id": "MLB23283906", "is_hazmat": false}
 {"product_id": "MLB21005183", "is_hazmat": false}
 {"product_id": "MLB38614528", "is_hazmat": false}
-{"product_id": "MLB25862062", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
+{"product_id": "MLB25862062", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
 {"product_id": "MLB29620402", "is_hazmat": false}
 {"product_id": "MLB27050308", "is_hazmat": false}
 {"product_id": "MLB19775607", "is_hazmat": false}
 {"product_id": "MLB28886732", "is_hazmat": false}
-{"product_id": "MLB41861524", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
+{"product_id": "MLB41861524", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim', classifying it as a flammable substance, which is a Hazmat indicator (Class 3 Flammable Liquids).", "confidence": "high"}
 {"product_id": "MLB22607913", "is_hazmat": false}
 {"product_id": "MLB19906433", "is_hazmat": false}
 {"product_id": "MLB28757820", "is_hazmat": false}
@@ -4834,7 +4647,7 @@
 {"product_id": "MLB27895229", "is_hazmat": false}
 {"product_id": "MLB37780138", "is_hazmat": false}
 {"product_id": "MLB24862951", "is_hazmat": false}
-{"product_id": "MLB41612619", "is_hazmat": true, "reason": "The product is a 'Restaurador Vidro' (Glass Restorer) that 'Remove Manchas Chuva Ácida' (Removes Acid Rain Stains). This implies it contains active chemicals (likely acids or strong bases) that can be corrosive or irritant, fitting 'Chemical products (acids, solvents, cleaners)' and potentially Class 8 (Corrosive Substances).", "confidence": "high"}
+{"product_id": "MLB41612619", "is_hazmat": true, "reason": "The product is a 'Restaurador Vidro' (Glass Restorer) that 'Remove Manchas Chuva ï¿½cida' (Removes Acid Rain Stains). This implies it contains active chemicals (likely acids or strong bases) that can be corrosive or irritant, fitting 'Chemical products (acids, solvents, cleaners)' and potentially Class 8 (Corrosive Substances).", "confidence": "high"}
 {"product_id": "MLB34011700", "is_hazmat": false}
 {"product_id": "MLB32486836", "is_hazmat": true, "reason": "The product is a 'Pastilha Super Clarificante Para Piscina' (Pool Clarifier Tablet). Pool chemicals are generally classified as Hazmat due to their potential irritant, corrosive, or oxidizing properties, similar to 'Granulated chlorine for pool' (Class 5 Oxidizing Agents).", "confidence": "medium"}
 {"product_id": "MLB47639575", "is_hazmat": true, "reason": "The product is a 'Desinfetante' (Disinfectant). Disinfectants are chemical products containing active biocidal agents that can be irritants or toxic, fitting the 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
@@ -4846,7 +4659,7 @@
 {"product_id": "MLB24270808", "is_hazmat": false}
 {"product_id": "MLB46015455", "is_hazmat": false}
 {"product_id": "MLB45127975", "is_hazmat": false}
-{"product_id": "MLB23887054", "is_hazmat": true, "reason": "The product is an 'Espuma Mágica' (Magic Foam) cleaner, which is typically packaged as an aerosol spray. Aerosol sprays and pressurized containers are classified as Hazmat under Class 2 (Gases).", "confidence": "medium"}
+{"product_id": "MLB23887054", "is_hazmat": true, "reason": "The product is an 'Espuma Mï¿½gica' (Magic Foam) cleaner, which is typically packaged as an aerosol spray. Aerosol sprays and pressurized containers are classified as Hazmat under Class 2 (Gases).", "confidence": "medium"}
 {"product_id": "MLB36250922", "is_hazmat": false}
 {"product_id": "MLB28631640", "is_hazmat": false}
 {"product_id": "MLB25151538", "is_hazmat": false}
@@ -4870,7 +4683,7 @@
 {"product_id": "MLB29551692", "is_hazmat": false}
 {"product_id": "MLB27668810", "is_hazmat": true, "reason": "The product is a 'Aditivo Motor Diesel' (Diesel Engine Additive). Automotive chemicals are explicitly listed as Hazmat indicators. Diesel fuel itself is a flammable liquid (Class 3), and additives often share hazardous properties or contain solvents.", "confidence": "high"}
 {"product_id": "MLB31129971", "is_hazmat": false}
-{"product_id": "MLB39208433", "is_hazmat": true, "reason": "The product is an 'Algicida De Manutenção' (Algicide) for pools. Algicides are chemical products designed to kill algae, implying they contain active agents that can be irritant or toxic, fitting 'Chemical products'.", "confidence": "high"}
+{"product_id": "MLB39208433", "is_hazmat": true, "reason": "The product is an 'Algicida De Manutenï¿½ï¿½o' (Algicide) for pools. Algicides are chemical products designed to kill algae, implying they contain active agents that can be irritant or toxic, fitting 'Chemical products'.", "confidence": "high"}
 {"product_id": "MLB18342620", "is_hazmat": false}
 {"product_id": "MLB21003208", "is_hazmat": false}
 {"product_id": "MLB25749241", "is_hazmat": false}
@@ -4882,14 +4695,14 @@
 {"product_id": "MLB17517761", "is_hazmat": false}
 {"product_id": "MLB36617759", "is_hazmat": true, "reason": "The product is a 'Nexgard' (Flea and Tick treatment) for dogs in tablet form. Such products contain active ingredients that are toxic to parasites, fitting the 'Pesticides' example under Class 6 (Toxic and Infectious Substances).", "confidence": "high"}
 {"product_id": "MLB22297593", "is_hazmat": false}
-{"product_id": "MLB36878848", "is_hazmat": true, "reason": "The product is a 'Remédio De Carrapato Sarna Pulgas Verme' (Tick, Mite, Flea, Worm Medication) for dogs. This is an antiparasitic medication containing active ingredients that are toxic to parasites, fitting the 'Pesticides' example under Class 6 (Toxic and Infectious Substances).", "confidence": "high"}
-{"product_id": "MLB19807383", "is_hazmat": true, "reason": "The product is a 'Limpador Perfumado' (Scented Cleaner) and states 'É desinfetante': 'Sim'. Disinfectants are chemical products containing active biocidal agents that can be irritants or toxic, fitting the 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
+{"product_id": "MLB36878848", "is_hazmat": true, "reason": "The product is a 'Remï¿½dio De Carrapato Sarna Pulgas Verme' (Tick, Mite, Flea, Worm Medication) for dogs. This is an antiparasitic medication containing active ingredients that are toxic to parasites, fitting the 'Pesticides' example under Class 6 (Toxic and Infectious Substances).", "confidence": "high"}
+{"product_id": "MLB19807383", "is_hazmat": true, "reason": "The product is a 'Limpador Perfumado' (Scented Cleaner) and states 'ï¿½ desinfetante': 'Sim'. Disinfectants are chemical products containing active biocidal agents that can be irritants or toxic, fitting the 'Chemical products (acids, solvents, cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB25380801", "is_hazmat": true, "reason": "The product is an 'Automotiva Liquida Blend Black Spray' (Automotive Liquid Wax Blend Black Spray). It is in 'Spray' format, indicating it is an aerosol, and falls under 'Automotive chemicals'. Both are Hazmat indicators (Class 2 Gases and automotive chemicals).", "confidence": "high"}
 {"product_id": "MLB29267708", "is_hazmat": false}
-{"product_id": "MLB24679741", "is_hazmat": true, "reason": "The product is a 'Limpador Sanitário' (Toilet Cleaner) containing 'Cloro' (Chlorine). Chlorine-based cleaners are hazardous due to their corrosive and/or oxidizing properties, similar to 'Calcium hypochlorite' (Class 5 Oxidizing Agents) or 'Corrosive substances' (Class 8).", "confidence": "high"}
+{"product_id": "MLB24679741", "is_hazmat": true, "reason": "The product is a 'Limpador Sanitï¿½rio' (Toilet Cleaner) containing 'Cloro' (Chlorine). Chlorine-based cleaners are hazardous due to their corrosive and/or oxidizing properties, similar to 'Calcium hypochlorite' (Class 5 Oxidizing Agents) or 'Corrosive substances' (Class 8).", "confidence": "high"}
 {"product_id": "MLB32790458", "is_hazmat": true, "reason": "The product consists of 'Pastilhas Tabletes Cloro' (Chlorine Tablets) for pools. 'Granulated chlorine for pool' is explicitly listed as a Hazmat under Class 5 (Oxidizing Agents).", "confidence": "high"}
 {"product_id": "MLB26449258", "is_hazmat": false}
-{"product_id": "MLB16601297", "is_hazmat": true, "reason": "The product is 'Água Sanitária' (Bleach), which is typically a solution of sodium hypochlorite. Bleach is a strong oxidizing agent and a corrosive substance, falling under Class 5 (Oxidizing Agents) and Class 8 (Corrosive Substances).", "confidence": "high"}
+{"product_id": "MLB16601297", "is_hazmat": true, "reason": "The product is 'ï¿½gua Sanitï¿½ria' (Bleach), which is typically a solution of sodium hypochlorite. Bleach is a strong oxidizing agent and a corrosive substance, falling under Class 5 (Oxidizing Agents) and Class 8 (Corrosive Substances).", "confidence": "high"}
 {"product_id": "MLB19770426", "is_hazmat": false}
 {"product_id": "MLB32429271", "is_hazmat": false}
 {"product_id": "MLB22985941", "is_hazmat": false}
@@ -4992,7 +4805,7 @@
 {"product_id": "MLB25718260", "is_hazmat": true, "reason": "This is a mold/mildew remover ('Tira Limo'). These are strong chemical cleaning products, often containing bleach or other strong agents, which can be corrosive, oxidizing, or toxic, fitting the 'Chemical products (cleaners)' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB50126953", "is_hazmat": false}
 {"product_id": "MLB18395874", "is_hazmat": false}
-{"product_id": "MLB18390231", "is_hazmat": true, "reason": "This is bleach (Água Sanitária). Bleach (sodium hypochlorite solution) is a strong oxidizing agent and corrosive substance, fitting Class 5 (Oxidizing Agents) and Class 8 (Corrosive Substances) Hazmat categories.", "confidence": "high"}
+{"product_id": "MLB18390231", "is_hazmat": true, "reason": "This is bleach (ï¿½gua Sanitï¿½ria). Bleach (sodium hypochlorite solution) is a strong oxidizing agent and corrosive substance, fitting Class 5 (Oxidizing Agents) and Class 8 (Corrosive Substances) Hazmat categories.", "confidence": "high"}
 {"product_id": "MLB16008472", "is_hazmat": true, "reason": "This is a topical veterinary antiparasitic medication. Such drugs function as pesticides against parasites and are designed to be toxic to target organisms. They can pose risks if mishandled or ingested by non-target organisms (humans), fitting Class 6 Toxic Substances and the 'Products requiring safety warnings' Hazmat indicator.", "confidence": "high"}
 {"product_id": "MLB41255885", "is_hazmat": false}
 {"product_id": "MLB18420880", "is_hazmat": true, "reason": "This is a heavy-duty cleaner with active chlorine and is explicitly stated as flammable. Active chlorine can be a corrosive or oxidizing agent, and flammability is a direct Hazmat characteristic (Class 3). This fits 'Chemical products (cleaners)' and 'Flammable, corrosive, or toxic substances' Hazmat indicators.", "confidence": "high"}
@@ -5001,7 +4814,7 @@
 {"product_id": "MLB18400315", "is_hazmat": true, "reason": "This is a liquid insect repellent refill. Insect repellents/insecticides contain chemicals that are toxic to insects and can be harmful to humans if ingested or in contact, fitting the definition of toxic substances (Class 6) and the 'Pesticides' example.", "confidence": "high"}
 
 
-{"product_id": "MLB19808230", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat.", "confidence": "high"}
+{"product_id": "MLB19808230", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat.", "confidence": "high"}
 {"product_id": "MLB37249705", "is_hazmat": false}
 {"product_id": "MLB21546734", "is_hazmat": false}
 {"product_id": "MLB46044196", "is_hazmat": false}
@@ -5012,7 +4825,7 @@
 {"product_id": "MLB24248422", "is_hazmat": false}
 {"product_id": "MLB29106641", "is_hazmat": false}
 {"product_id": "MLB26970419", "is_hazmat": false}
-{"product_id": "MLB18986947", "is_hazmat": true, "reason": "The product is a 'Spray' (aerosol), which indicates a pressurized container (Class 2 Gases). Additionally, the attributes explicitly state 'É inflamável': 'Sim' (Is flammable: Yes), classifying it as a Class 3 Flammable Liquid.", "confidence": "high"}
+{"product_id": "MLB18986947", "is_hazmat": true, "reason": "The product is a 'Spray' (aerosol), which indicates a pressurized container (Class 2 Gases). Additionally, the attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim' (Is flammable: Yes), classifying it as a Class 3 Flammable Liquid.", "confidence": "high"}
 {"product_id": "MLB19545024", "is_hazmat": false}
 {"product_id": "MLB34693612", "is_hazmat": true, "reason": "The product is a 'Spray' (aerosol), which indicates a pressurized container (Class 2 Gases). WD-40 is a known flammable lubricant, falling under Class 3 Flammable Liquids.", "confidence": "high"}
 {"product_id": "MLB19548217", "is_hazmat": false}
@@ -5024,7 +4837,7 @@
 {"product_id": "MLB29269353", "is_hazmat": true, "reason": "The product is a topical parasitic treatment (pipette) for pets. Pesticides are listed as Class 6 Toxic Substances in the Hazmat definition, as they are harmful to human health.", "confidence": "high"}
 {"product_id": "MLB28293011", "is_hazmat": false}
 {"product_id": "MLB19546626", "is_hazmat": true, "reason": "The product is an 'Automatic Air Freshener' in 'Spray' format, indicating a pressurized container. Pressurized containers and aerosol sprays are classified as Class 2 Gases.", "confidence": "high"}
-{"product_id": "MLB26682072", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
+{"product_id": "MLB26682072", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
 {"product_id": "MLB25371983", "is_hazmat": false}
 {"product_id": "MLB15982850", "is_hazmat": true, "reason": "The product is an 'Antipulgas e Carrapatos' (Flea and Tick) collar. Pesticides are explicitly listed as Class 6 Toxic Substances in the Hazmat definition, as they are harmful to human health.", "confidence": "high"}
 {"product_id": "MLB9500437", "is_hazmat": false}
@@ -5039,7 +4852,7 @@
 {"product_id": "MLB44760433", "is_hazmat": false}
 {"product_id": "MLB39874686", "is_hazmat": false}
 {"product_id": "MLB20745009", "is_hazmat": false}
-{"product_id": "MLB24524547", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
+{"product_id": "MLB24524547", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
 {"product_id": "MLB32489089", "is_hazmat": false}
 {"product_id": "MLB32487621", "is_hazmat": true, "reason": "The product is 'Barrilha' (Soda Ash), which is sodium carbonate, a chemical used to increase pH. It is an alkaline chemical and can be irritating or corrosive in concentrated forms, falling under 'Chemical products' and potentially Class 8 (Corrosive Substances) or Class 9 (Miscellaneous Hazardous Substances).", "confidence": "medium"}
 {"product_id": "MLB38307465", "is_hazmat": false}
@@ -5061,7 +4874,7 @@
 {"product_id": "MLB19745049", "is_hazmat": false}
 {"product_id": "MLB46208159", "is_hazmat": false}
 {"product_id": "MLB15345686", "is_hazmat": false}
-{"product_id": "MLB16601421", "is_hazmat": true, "reason": "The product is 'Água Sanitária' (Bleach), which is a common household chemical. Bleach (sodium hypochlorite) is classified as a strong oxidizing agent (Class 5) and a corrosive substance (Class 8).", "confidence": "high"}
+{"product_id": "MLB16601421", "is_hazmat": true, "reason": "The product is 'ï¿½gua Sanitï¿½ria' (Bleach), which is a common household chemical. Bleach (sodium hypochlorite) is classified as a strong oxidizing agent (Class 5) and a corrosive substance (Class 8).", "confidence": "high"}
 {"product_id": "MLB21605138", "is_hazmat": false}
 {"product_id": "MLB18391890", "is_hazmat": false}
 {"product_id": "MLB18395491", "is_hazmat": false}
@@ -5071,7 +4884,7 @@
 {"product_id": "MLB32978518", "is_hazmat": false}
 {"product_id": "MLB19532395", "is_hazmat": false}
 {"product_id": "MLB18420841", "is_hazmat": true, "reason": "The product is a 'Limpador de Banheiro com Cloro Ativo' (Bathroom Cleaner with Active Chlorine). Chlorine-based cleaners are strong oxidizing agents (Class 5) and can be corrosive (Class 8).", "confidence": "high"}
-{"product_id": "MLB28471221", "is_hazmat": true, "reason": "The product attributes explicitly state 'É inflamável': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
+{"product_id": "MLB28471221", "is_hazmat": true, "reason": "The product attributes explicitly state 'ï¿½ inflamï¿½vel': 'Sim' (Is flammable: Yes). Flammable liquids are classified as Class 3 Hazmat. It is also a chemical cleaner.", "confidence": "high"}
 {"product_id": "MLB25751319", "is_hazmat": false}
 {"product_id": "MLB25362901", "is_hazmat": false}
 {"product_id": "MLB40677183", "is_hazmat": false}
@@ -5206,7 +5019,7 @@
 
 
 {"product_id": "MLB45234722", "is_hazmat": false}
-{"product_id": "MLB28938643", "is_hazmat": true, "reason": "The product explicitly contains 'Ácido Tricloroacético 40%', which is a strong acid. Acids are classified as Corrosive Substances (Class 8) according to the Hazmat definition, as they can dissolve organic tissue.", "confidence": "high"}
+{"product_id": "MLB28938643", "is_hazmat": true, "reason": "The product explicitly contains 'ï¿½cido Tricloroacï¿½tico 40%', which is a strong acid. Acids are classified as Corrosive Substances (Class 8) according to the Hazmat definition, as they can dissolve organic tissue.", "confidence": "high"}
 {"product_id": "MLB25928804", "is_hazmat": false}
 {"product_id": "MLB19479850", "is_hazmat": false}
 {"product_id": "MLB29832789", "is_hazmat": false}
@@ -5238,20 +5051,20 @@
 {"product_id": "MLB27284765", "is_hazmat": false}
 {"product_id": "MLB46295428", "is_hazmat": false}
 {"product_id": "MLB26376162", "is_hazmat": false}
-{"product_id": "MLB21634116", "is_hazmat": true, "reason": "Deo Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB21634116", "is_hazmat": true, "reason": "Deo Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB14669556", "is_hazmat": false}
 {"product_id": "MLB24379204", "is_hazmat": false}
 {"product_id": "MLB19509704", "is_hazmat": false}
 {"product_id": "MLB19483360", "is_hazmat": false}
 {"product_id": "MLB41238066", "is_hazmat": false}
-{"product_id": "MLB19441377", "is_hazmat": true, "reason": "Deo Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB19441377", "is_hazmat": true, "reason": "Deo Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB25894786", "is_hazmat": false}
 {"product_id": "MLB19752909", "is_hazmat": false}
 {"product_id": "MLB19510221", "is_hazmat": false}
 {"product_id": "MLB27496614", "is_hazmat": false}
 {"product_id": "MLB19514608", "is_hazmat": false}
 {"product_id": "MLB44000753", "is_hazmat": false}
-{"product_id": "MLB25539330", "is_hazmat": true, "reason": "Deo Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB25539330", "is_hazmat": true, "reason": "Deo Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB27619382", "is_hazmat": false}
 {"product_id": "MLB19777911", "is_hazmat": false}
 {"product_id": "MLB19513851", "is_hazmat": false}
@@ -5259,11 +5072,11 @@
 {"product_id": "MLB23181285", "is_hazmat": true, "reason": "Body Splash products typically contain alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB23293975", "is_hazmat": false}
 {"product_id": "MLB19515079", "is_hazmat": false}
-{"product_id": "MLB16008856", "is_hazmat": true, "reason": "Deo-colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB16008856", "is_hazmat": true, "reason": "Deo-colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB40550606", "is_hazmat": false}
 {"product_id": "MLB19712838", "is_hazmat": true, "reason": "Perfumes (EDP) typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB19831016", "is_hazmat": false}
-{"product_id": "MLB40162282", "is_hazmat": true, "reason": "Deo Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB40162282", "is_hazmat": true, "reason": "Deo Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB21258954", "is_hazmat": false}
 {"product_id": "MLB48645502", "is_hazmat": false}
 {"product_id": "MLB20702686", "is_hazmat": false}
@@ -5273,11 +5086,11 @@
 {"product_id": "MLB21199777", "is_hazmat": false}
 {"product_id": "MLB19629173", "is_hazmat": false}
 {"product_id": "MLB47213156", "is_hazmat": true, "reason": "Eau de Parfum products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
-{"product_id": "MLB19441322", "is_hazmat": true, "reason": "Desodorante Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
-{"product_id": "MLB19558452", "is_hazmat": true, "reason": "Desodorante Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB19441322", "is_hazmat": true, "reason": "Desodorante Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB19558452", "is_hazmat": true, "reason": "Desodorante Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB19840459", "is_hazmat": true, "reason": "Thermal water sprays are typically packaged in pressurized containers, even if the gas is non-flammable (e.g., nitrogen, CO2). Pressurized containers are classified as Hazmat (Class 2 Gases).", "confidence": "medium"}
 {"product_id": "MLB19314277", "is_hazmat": false}
-{"product_id": "MLB45871745", "is_hazmat": true, "reason": "Deo Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB45871745", "is_hazmat": true, "reason": "Deo Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB19742081", "is_hazmat": false}
 {"product_id": "MLB16265843", "is_hazmat": true, "reason": "Eau de Parfum (EDP) products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB27616294", "is_hazmat": true, "reason": "Eau de Parfum (EDP) products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
@@ -5285,7 +5098,7 @@
 {"product_id": "MLB20702015", "is_hazmat": false}
 {"product_id": "MLB27980522", "is_hazmat": false}
 {"product_id": "MLB27700703", "is_hazmat": false}
-{"product_id": "MLB38621719", "is_hazmat": true, "reason": "Colônia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
+{"product_id": "MLB38621719", "is_hazmat": true, "reason": "Colï¿½nia products typically contain a high percentage of alcohol, which is a flammable liquid. Flammable liquids are classified as Hazmat (Class 3).", "confidence": "high"}
 {"product_id": "MLB20905768", "is_hazmat": false}
 {"product_id": "MLB20816085", "is_hazmat": true, "reason": "Hair relaxers and their activators often contain strong alkaline substances (like sodium hydroxide or potassium hydroxide) which are classified as Corrosive Substances (Class 8) due to their ability to dissolve organic tissue.", "confidence": "high"}
 {"product_id": "MLB44895091", "is_hazmat": false}
@@ -5322,12 +5135,12 @@
 {"product_id": "MLB27504035", "is_hazmat": false}
 {"product_id": "MLB22478079", "is_hazmat": true, "reason": "Eau de cologne is explicitly stated as 'not alcohol-free', making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB31008544", "is_hazmat": false}
-{"product_id": "MLB28535043", "is_hazmat": true, "reason": "Deo colônia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB28535043", "is_hazmat": true, "reason": "Deo colï¿½nia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB19720510", "is_hazmat": false}
 {"product_id": "MLB19589217", "is_hazmat": false}
 {"product_id": "MLB19512962", "is_hazmat": false}
 {"product_id": "MLB19513803", "is_hazmat": true, "reason": "Hair volume reducers/straighteners often contain toxic or corrosive chemicals (e.g., formaldehyde or strong alkalis).", "confidence": "high"}
-{"product_id": "MLB38429728", "is_hazmat": true, "reason": "Deo colônia is explicitly stated as 'not alcohol-free', making it a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB38429728", "is_hazmat": true, "reason": "Deo colï¿½nia is explicitly stated as 'not alcohol-free', making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB19542418", "is_hazmat": false}
 {"product_id": "MLB29234847", "is_hazmat": false}
 {"product_id": "MLB19908424", "is_hazmat": true, "reason": "Mousse in 'spray' format indicates an aerosol/pressurized container (Class 2 Gas).", "confidence": "high"}
@@ -5342,7 +5155,7 @@
 {"product_id": "MLB19512825", "is_hazmat": false}
 {"product_id": "MLB34261904", "is_hazmat": false}
 {"product_id": "MLB19713418", "is_hazmat": true, "reason": "Perfumes typically contain alcohol, making them flammable liquids (Class 3).", "confidence": "high"}
-{"product_id": "MLB38517940", "is_hazmat": true, "reason": "Desodorante Colônia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB38517940", "is_hazmat": true, "reason": "Desodorante Colï¿½nia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB19486347", "is_hazmat": false}
 {"product_id": "MLB19719274", "is_hazmat": false}
 {"product_id": "MLB38511252", "is_hazmat": true, "reason": "Cryotherapy spray implies a compressed gas/liquid or substance causing extreme cold, which can be hazardous (Class 2 or Class 9).", "confidence": "high"}
@@ -5374,7 +5187,7 @@
 {"product_id": "MLB19479978", "is_hazmat": false}
 {"product_id": "MLB40962819", "is_hazmat": false}
 {"product_id": "MLB37097445", "is_hazmat": false}
-{"product_id": "MLB37320107", "is_hazmat": true, "reason": "Deo colônia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB37320107", "is_hazmat": true, "reason": "Deo colï¿½nia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB20683382", "is_hazmat": false}
 {"product_id": "MLB27499283", "is_hazmat": false}
 {"product_id": "MLB42743842", "is_hazmat": false}
@@ -5387,7 +5200,7 @@
 {"product_id": "MLB19605864", "is_hazmat": false}
 {"product_id": "MLB20702095", "is_hazmat": false}
 {"product_id": "MLB35378168", "is_hazmat": false}
-{"product_id": "MLB24544900", "is_hazmat": true, "reason": "Deo colônia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB24544900", "is_hazmat": true, "reason": "Deo colï¿½nia typically contains alcohol, making it a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB26243790", "is_hazmat": false}
 {"product_id": "MLB27882447", "is_hazmat": false}
 {"product_id": "MLB42243098", "is_hazmat": false}
@@ -5404,7 +5217,7 @@
 {"product_id": "MLB41347876", "is_hazmat": false}
 {"product_id": "MLB27765489", "is_hazmat": false}
 {"product_id": "MLB19638957", "is_hazmat": false}
-{"product_id": "MLB20637262", "is_hazmat": true, "reason": "Ozonated oil ('Óleo De Ozônio Super Concentrado') is an oxidizing agent (Class 5).", "confidence": "high"}
+{"product_id": "MLB20637262", "is_hazmat": true, "reason": "Ozonated oil ('ï¿½leo De Ozï¿½nio Super Concentrado') is an oxidizing agent (Class 5).", "confidence": "high"}
 {"product_id": "MLB19057628", "is_hazmat": false}
 {"product_id": "MLB19587753", "is_hazmat": false}
 
@@ -5479,7 +5292,7 @@
 {"product_id": "MLB28931557", "is_hazmat": false}
 {"product_id": "MLB20802734", "is_hazmat": false}
 {"product_id": "MLB39343880", "is_hazmat": false}
-{"product_id": "MLB19513771", "is_hazmat": true, "reason": "Professional hair treatment product (\"Bioplástica\") implies the use of strong chemicals for hair alteration, which can be toxic or irritating (Class 6).", "confidence": "medium"}
+{"product_id": "MLB19513771", "is_hazmat": true, "reason": "Professional hair treatment product (\"Bioplï¿½stica\") implies the use of strong chemicals for hair alteration, which can be toxic or irritating (Class 6).", "confidence": "medium"}
 {"product_id": "MLB20576614", "is_hazmat": false}
 {"product_id": "MLB16048715", "is_hazmat": true, "reason": "Contains alcohol and is in spray format, indicating a flammable liquid (Class 3) or a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB27675459", "is_hazmat": false}
@@ -5489,14 +5302,14 @@
 {"product_id": "MLB41925135", "is_hazmat": false}
 {"product_id": "MLB35946907", "is_hazmat": false}
 {"product_id": "MLB43762584", "is_hazmat": true, "reason": "Product for \"progressive straightening\" and \"bioplastics\" implies the use of strong chemicals for hair alteration, which can be toxic or irritating (Class 6).", "confidence": "medium"}
-{"product_id": "MLB42451152", "is_hazmat": true, "reason": "As a \"Colônia\" of 100ml, it almost certainly contains alcohol and is a flammable liquid (Class 3).", "confidence": "high"}
+{"product_id": "MLB42451152", "is_hazmat": true, "reason": "As a \"Colï¿½nia\" of 100ml, it almost certainly contains alcohol and is a flammable liquid (Class 3).", "confidence": "high"}
 {"product_id": "MLB26036014", "is_hazmat": false}
 {"product_id": "MLB24301023", "is_hazmat": false}
 {"product_id": "MLB40658753", "is_hazmat": true, "reason": "Contains alcohol and is in spray format, indicating a flammable liquid (Class 3) or a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB19722181", "is_hazmat": false}
 {"product_id": "MLB32463537", "is_hazmat": true, "reason": "Professional micropigmentation pigment may contain substances that are toxic or allergenic, posing a risk to health (Class 6).", "confidence": "medium"}
 {"product_id": "MLB27810400", "is_hazmat": false}
-{"product_id": "MLB27573148", "is_hazmat": true, "reason": "As a \"Deo Colônia\" in spray format, it almost certainly contains alcohol and is a flammable liquid (Class 3) or a pressurized container (Class 2).", "confidence": "high"}
+{"product_id": "MLB27573148", "is_hazmat": true, "reason": "As a \"Deo Colï¿½nia\" in spray format, it almost certainly contains alcohol and is a flammable liquid (Class 3) or a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB35948633", "is_hazmat": false}
 {"product_id": "MLB6072142", "is_hazmat": true, "reason": "Contains alcohol and is in spray format, indicating a flammable liquid (Class 3) or a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB19760501", "is_hazmat": false}
@@ -5513,24 +5326,24 @@
 
 {"product_id": "MLB19531547", "is_hazmat": false}
 {"product_id": "MLB19512818", "is_hazmat": false}
-{"product_id": "MLB24173953", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB24173953", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB19483358", "is_hazmat": false}
 {"product_id": "MLB19769169", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to implied alcohol content, common for colognes in spray format.", "confidence": "medium"}
 {"product_id": "MLB19314360", "is_hazmat": false}
 {"product_id": "MLB39328082", "is_hazmat": false}
 {"product_id": "MLB27943402", "is_hazmat": false}
 {"product_id": "MLB19509778", "is_hazmat": false}
-{"product_id": "MLB6092915", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB6092915", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB20612793", "is_hazmat": false}
 {"product_id": "MLB19514302", "is_hazmat": false}
 {"product_id": "MLB37416231", "is_hazmat": false}
-{"product_id": "MLB23987320", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB23987320", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB19515116", "is_hazmat": false}
 {"product_id": "MLB27499204", "is_hazmat": false}
 {"product_id": "MLB19461813", "is_hazmat": false}
-{"product_id": "MLB38058607", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB38058607", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB19314387", "is_hazmat": false}
-{"product_id": "MLB47299703", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB47299703", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB45408655", "is_hazmat": false}
 {"product_id": "MLB19441354", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to implied alcohol content, common for colognes.", "confidence": "medium"}
 {"product_id": "MLB19509613", "is_hazmat": false}
@@ -5543,11 +5356,11 @@
 {"product_id": "MLB19137683", "is_hazmat": false}
 {"product_id": "MLB19740990", "is_hazmat": false}
 {"product_id": "MLB27629824", "is_hazmat": false}
-{"product_id": "MLB45904447", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB45904447", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB19952139", "is_hazmat": false}
 {"product_id": "MLB19739781", "is_hazmat": false}
 {"product_id": "MLB44784924", "is_hazmat": false}
-{"product_id": "MLB6093745", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB6093745", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB36474373", "is_hazmat": false}
 {"product_id": "MLB22292093", "is_hazmat": false}
 {"product_id": "MLB25170277", "is_hazmat": false}
@@ -5559,7 +5372,7 @@
 {"product_id": "MLB25646861", "is_hazmat": false}
 {"product_id": "MLB19639131", "is_hazmat": false}
 {"product_id": "MLB29264339", "is_hazmat": false}
-{"product_id": "MLB36202761", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB36202761", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB19374247", "is_hazmat": false}
 {"product_id": "MLB23038261", "is_hazmat": false}
 {"product_id": "MLB20561615", "is_hazmat": false}
@@ -5572,18 +5385,18 @@
 {"product_id": "MLB27828576", "is_hazmat": false}
 {"product_id": "MLB29004543", "is_hazmat": false}
 {"product_id": "MLB19870686", "is_hazmat": false}
-{"product_id": "MLB5367191", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB5367191", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB27911524", "is_hazmat": false}
 {"product_id": "MLB19513640", "is_hazmat": false}
 {"product_id": "MLB36427347", "is_hazmat": false}
 {"product_id": "MLB30247219", "is_hazmat": false}
 {"product_id": "MLB19907674", "is_hazmat": true, "reason": "Hair straightening treatments (progressivas) may contain toxic or corrosive chemicals (e.g., formaldehyde or its releasers) that pose a health risk.", "confidence": "medium"}
-{"product_id": "MLB3822080", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É libre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB3822080", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ libre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB23626371", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to implied alcohol content, common for colognes in spray format.", "confidence": "medium"}
 {"product_id": "MLB48672861", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to implied alcohol content, common for colognes.", "confidence": "medium"}
 {"product_id": "MLB37946694", "is_hazmat": false}
 {"product_id": "MLB27492171", "is_hazmat": false}
-{"product_id": "MLB20688115", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'É livre de álcool': 'Não'.", "confidence": "high"}
+{"product_id": "MLB20688115", "is_hazmat": true, "reason": "Flammable liquid (Class 3) due to alcohol content, as indicated by 'ï¿½ livre de ï¿½lcool': 'Nï¿½o'.", "confidence": "high"}
 {"product_id": "MLB47722707", "is_hazmat": false}
 {"product_id": "MLB19515339", "is_hazmat": false}
 {"product_id": "MLB19722058", "is_hazmat": false}
@@ -5613,17 +5426,17 @@
 {"product_id": "MLB28743279", "is_hazmat": false}
 
 
-{"product_id": "MLB19750407", "is_hazmat": true, "reason": "This perfume (Eau de cologne) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'É livre de álcool': 'Não', indicating alcohol content.", "confidence": "high"}
+{"product_id": "MLB19750407", "is_hazmat": true, "reason": "This perfume (Eau de cologne) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'ï¿½ livre de ï¿½lcool': 'Nï¿½o', indicating alcohol content.", "confidence": "high"}
 {"product_id": "MLB20816170", "is_hazmat": false}
 {"product_id": "MLB22385729", "is_hazmat": false}
 {"product_id": "MLB23590084", "is_hazmat": false}
 {"product_id": "MLB39632475", "is_hazmat": false}
 {"product_id": "MLB27022978", "is_hazmat": false}
-{"product_id": "MLB41640611", "is_hazmat": true, "reason": "This perfume (Eau de parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'É livre de álcool': 'Não', indicating alcohol content.", "confidence": "high"}
+{"product_id": "MLB41640611", "is_hazmat": true, "reason": "This perfume (Eau de parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'ï¿½ livre de ï¿½lcool': 'Nï¿½o', indicating alcohol content.", "confidence": "high"}
 {"product_id": "MLB20671515", "is_hazmat": false}
 {"product_id": "MLB37146957", "is_hazmat": false}
 {"product_id": "MLB37184326", "is_hazmat": false}
-{"product_id": "MLB30933447", "is_hazmat": true, "reason": "The product explicitly states 'Tricloroacético Acido 80%', which is Trichloroacetic Acid at a high concentration. Acids like Sulfuric acid and Hydrochloric acid are listed as corrosive substances (Class 8) that can dissolve organic tissue or severely corrode metals. TCA at 80% falls under this category.", "confidence": "high"}
+{"product_id": "MLB30933447", "is_hazmat": true, "reason": "The product explicitly states 'Tricloroacï¿½tico Acido 80%', which is Trichloroacetic Acid at a high concentration. Acids like Sulfuric acid and Hydrochloric acid are listed as corrosive substances (Class 8) that can dissolve organic tissue or severely corrode metals. TCA at 80% falls under this category.", "confidence": "high"}
 {"product_id": "MLB19150373", "is_hazmat": false}
 {"product_id": "MLB19510584", "is_hazmat": false}
 {"product_id": "MLB26836351", "is_hazmat": false}
@@ -5665,7 +5478,7 @@
 {"product_id": "MLB19314356", "is_hazmat": true, "reason": "This is a 'Creme Alisante' (Hair Straightening Cream). Such products often contain strong chemical agents (e.g., formaldehyde-releasing agents, thioglycolates, glyoxylic acid) that can be harmful to human health, fitting the description of 'Toxic substances harmful to human health' (Class 6) or potentially corrosive (Class 8) depending on the active ingredient and concentration.", "confidence": "medium"}
 {"product_id": "MLB19898926", "is_hazmat": false}
 {"product_id": "MLB24379013", "is_hazmat": false}
-{"product_id": "MLB20355633", "is_hazmat": true, "reason": "This is a 'Selagem Térmica' (Thermal Sealing/Progressive Straightening). These hair treatment products involve chemical processes that often use strong chemicals (e.g., formaldehyde derivatives, carbocysteine) to alter hair structure. These chemicals can be harmful to human health, classifying them as 'Toxic substances harmful to human health' (Class 6) or potentially corrosive (Class 8).", "confidence": "medium"}
+{"product_id": "MLB20355633", "is_hazmat": true, "reason": "This is a 'Selagem Tï¿½rmica' (Thermal Sealing/Progressive Straightening). These hair treatment products involve chemical processes that often use strong chemicals (e.g., formaldehyde derivatives, carbocysteine) to alter hair structure. These chemicals can be harmful to human health, classifying them as 'Toxic substances harmful to human health' (Class 6) or potentially corrosive (Class 8).", "confidence": "medium"}
 {"product_id": "MLB19718506", "is_hazmat": true, "reason": "This is a '100% Puro' (100% Pure) Essential Oil of Citronella. Essential oils in their concentrated form can be flammable (Class 3) and/or act as skin irritants or be toxic if ingested or improperly handled (Class 6). The definition includes 'Products requiring safety warnings' as Hazmat indicators.", "confidence": "medium"}
 {"product_id": "MLB20677274", "is_hazmat": false}
 {"product_id": "MLB20188287", "is_hazmat": true, "reason": "Body Splash products typically contain alcohol, which is classified as a flammable liquid (Class 3).", "confidence": "high"}
@@ -5676,7 +5489,7 @@
 {"product_id": "MLB28013941", "is_hazmat": false}
 {"product_id": "MLB39156239", "is_hazmat": false}
 {"product_id": "MLB19639044", "is_hazmat": false}
-{"product_id": "MLB6140723", "is_hazmat": true, "reason": "This perfume (Eau de parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'É livre de álcool': 'Não', indicating alcohol content.", "confidence": "high"}
+{"product_id": "MLB6140723", "is_hazmat": true, "reason": "This perfume (Eau de parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'ï¿½ livre de ï¿½lcool': 'Nï¿½o', indicating alcohol content.", "confidence": "high"}
 {"product_id": "MLB22715573", "is_hazmat": false}
 {"product_id": "MLB20278798", "is_hazmat": false}
 {"product_id": "MLB29449988", "is_hazmat": false}
@@ -5703,7 +5516,7 @@
 {"product_id": "MLB28629966", "is_hazmat": false}
 {"product_id": "MLB19509581", "is_hazmat": false}
 {"product_id": "MLB41098332", "is_hazmat": false}
-{"product_id": "MLB26097602", "is_hazmat": true, "reason": "This perfume (Deo Parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'É livre de álcool': 'Não', indicating alcohol content.", "confidence": "high"}
+{"product_id": "MLB26097602", "is_hazmat": true, "reason": "This perfume (Deo Parfum) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'ï¿½ livre de ï¿½lcool': 'Nï¿½o', indicating alcohol content.", "confidence": "high"}
 {"product_id": "MLB20187507", "is_hazmat": false}
 {"product_id": "MLB27294277", "is_hazmat": false}
 {"product_id": "MLB19953161", "is_hazmat": false}
@@ -5711,7 +5524,7 @@
 {"product_id": "MLB18390924", "is_hazmat": false}
 {"product_id": "MLB19513811", "is_hazmat": false}
 {"product_id": "MLB19714952", "is_hazmat": true, "reason": "This is a '100% Natural' Essential Oil of Sandalwood. Essential oils in their concentrated form can be flammable (Class 3) and/or act as skin irritants or be toxic if ingested or improperly handled (Class 6). The definition includes 'Products requiring safety warnings' as Hazmat indicators.", "confidence": "medium"}
-{"product_id": "MLB6072140", "is_hazmat": true, "reason": "This perfume (Eau de toilette) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'É livre de álcool': 'Não', indicating alcohol content.", "confidence": "high"}
+{"product_id": "MLB6072140", "is_hazmat": true, "reason": "This perfume (Eau de toilette) typically contains alcohol, which is classified as a flammable liquid (Class 3). The product attributes confirm 'ï¿½ livre de ï¿½lcool': 'Nï¿½o', indicating alcohol content.", "confidence": "high"}
 {"product_id": "MLB32161990", "is_hazmat": false}
 
 
@@ -5731,7 +5544,7 @@
 {"product_id": "MLB19512837", "is_hazmat": false}
 {"product_id": "MLB47213261", "is_hazmat": false}
 {"product_id": "MLB19513030", "is_hazmat": false}
-{"product_id": "MLB22382362", "is_hazmat": true, "reason": "Contains chemical acids ('Ácido Salicílico', 'ácido lático') and is described as a 'chemical peeling', indicating it's a chemical product that can be corrosive or irritant, posing a risk to health (Class 8: Corrosive Substances).", "confidence": "high"}
+{"product_id": "MLB22382362", "is_hazmat": true, "reason": "Contains chemical acids ('ï¿½cido Salicï¿½lico', 'ï¿½cido lï¿½tico') and is described as a 'chemical peeling', indicating it's a chemical product that can be corrosive or irritant, posing a risk to health (Class 8: Corrosive Substances).", "confidence": "high"}
 {"product_id": "MLB22775394", "is_hazmat": false}
 {"product_id": "MLB36461306", "is_hazmat": false}
 {"product_id": "MLB19970051", "is_hazmat": false}
@@ -5740,10 +5553,10 @@
 {"product_id": "MLB19747418", "is_hazmat": false}
 {"product_id": "MLB26614392", "is_hazmat": false}
 {"product_id": "MLB28736163", "is_hazmat": false}
-{"product_id": "MLB20560131", "is_hazmat": true, "reason": "Deo-colônia implies it contains alcohol and is typically in a spray format, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
+{"product_id": "MLB20560131", "is_hazmat": true, "reason": "Deo-colï¿½nia implies it contains alcohol and is typically in a spray format, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB43772290", "is_hazmat": false}
 {"product_id": "MLB25928813", "is_hazmat": false}
-{"product_id": "MLB43418911", "is_hazmat": true, "reason": "Colônia in spray format implies it contains alcohol, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
+{"product_id": "MLB43418911", "is_hazmat": true, "reason": "Colï¿½nia in spray format implies it contains alcohol, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB19742176", "is_hazmat": false}
 {"product_id": "MLB30450125", "is_hazmat": false}
 {"product_id": "MLB19515301", "is_hazmat": true, "reason": "Product is in 'Spray' format, which often indicates an aerosol or pressurized container, classifying it as Class 2 Gas or containing flammable liquids (Class 3).", "confidence": "medium"}
@@ -5775,7 +5588,7 @@
 {"product_id": "MLB22989409", "is_hazmat": false}
 {"product_id": "MLB19314275", "is_hazmat": false}
 {"product_id": "MLB19309318", "is_hazmat": false}
-{"product_id": "MLB35335177", "is_hazmat": true, "reason": "Contains 'Ozônio' (ozone) in a 'Super Concentrado' form, indicating it could be an oxidizing agent (Class 5), which poses a risk due to its ability to cause or contribute to combustion.", "confidence": "medium"}
+{"product_id": "MLB35335177", "is_hazmat": true, "reason": "Contains 'Ozï¿½nio' (ozone) in a 'Super Concentrado' form, indicating it could be an oxidizing agent (Class 5), which poses a risk due to its ability to cause or contribute to combustion.", "confidence": "medium"}
 {"product_id": "MLB27943677", "is_hazmat": false}
 {"product_id": "MLB47720686", "is_hazmat": false}
 {"product_id": "MLB19720745", "is_hazmat": false}
@@ -5790,7 +5603,7 @@
 {"product_id": "MLB45390066", "is_hazmat": true, "reason": "Contains alcohol and is in spray format, classifying it as a flammable liquid (Class 3) and potentially a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB35728332", "is_hazmat": false}
 {"product_id": "MLB19314257", "is_hazmat": false}
-{"product_id": "MLB20805090", "is_hazmat": true, "reason": "Colônia implies it contains alcohol and is typically in a spray format, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
+{"product_id": "MLB20805090", "is_hazmat": true, "reason": "Colï¿½nia implies it contains alcohol and is typically in a spray format, classifying it as a flammable liquid (Class 3) and possibly a pressurized container (Class 2).", "confidence": "high"}
 {"product_id": "MLB19561108", "is_hazmat": false}
 {"product_id": "MLB20581256", "is_hazmat": false}
 {"product_id": "MLB19154078", "is_hazmat": true, "reason": "Contains alcohol and is in spray format, classifying it as a flammable liquid (Class 3) and potentially a pressurized container (Class 2).", "confidence": "high"}
@@ -5820,14 +5633,14 @@
 {"product_id": "MLB29000073", "is_hazmat": true, "reason": "This 'Eau de Toilette' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB19908160", "is_hazmat": false}
 {"product_id": "MLB39276633", "is_hazmat": false}
-{"product_id": "MLB19516545", "is_hazmat": true, "reason": "This 'Deo Colônia' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB19516545", "is_hazmat": true, "reason": "This 'Deo Colï¿½nia' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB21794690", "is_hazmat": false}
-{"product_id": "MLB49550015", "is_hazmat": true, "reason": "This 'Colônia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB49550015", "is_hazmat": true, "reason": "This 'Colï¿½nia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB32635550", "is_hazmat": false}
 {"product_id": "MLB25894530", "is_hazmat": false}
 {"product_id": "MLB19741681", "is_hazmat": false}
 {"product_id": "MLB28430249", "is_hazmat": false}
-{"product_id": "MLB3820639", "is_hazmat": true, "reason": "This 'Eau de parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB3820639", "is_hazmat": true, "reason": "This 'Eau de parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB45354155", "is_hazmat": false}
 {"product_id": "MLB19722347", "is_hazmat": false}
 {"product_id": "MLB20950003", "is_hazmat": true, "reason": "This 'Deo Colonia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
@@ -5836,11 +5649,11 @@
 {"product_id": "MLB19485439", "is_hazmat": false}
 {"product_id": "MLB39368927", "is_hazmat": false}
 {"product_id": "MLB20574570", "is_hazmat": false}
-{"product_id": "MLB27603326", "is_hazmat": true, "reason": "This 'Deo Colônia' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB27603326", "is_hazmat": true, "reason": "This 'Deo Colï¿½nia' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB32409950", "is_hazmat": false}
-{"product_id": "MLB46326010", "is_hazmat": true, "reason": "This 'Colônia Splash' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB46326010", "is_hazmat": true, "reason": "This 'Colï¿½nia Splash' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB24599197", "is_hazmat": false}
-{"product_id": "MLB27930567", "is_hazmat": true, "reason": "This product contains 'Ácido Glicólico 10% Ativo Puro'. Acids are listed as corrosive substances (Class 8) in the Hazmat definition, even if for cosmetic use, given the 'pure' and 'active' description.", "confidence": "medium"}
+{"product_id": "MLB27930567", "is_hazmat": true, "reason": "This product contains 'ï¿½cido Glicï¿½lico 10% Ativo Puro'. Acids are listed as corrosive substances (Class 8) in the Hazmat definition, even if for cosmetic use, given the 'pure' and 'active' description.", "confidence": "medium"}
 {"product_id": "MLB19314354", "is_hazmat": false}
 {"product_id": "MLB33577977", "is_hazmat": true, "reason": "The product title explicitly states 'Com Formol' (With Formaldehyde). Formaldehyde is classified as a toxic substance (Class 6) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB19561268", "is_hazmat": false}
@@ -5850,22 +5663,22 @@
 {"product_id": "MLB19514471", "is_hazmat": false}
 {"product_id": "MLB19567260", "is_hazmat": false}
 {"product_id": "MLB44220884", "is_hazmat": false}
-{"product_id": "MLB34266356", "is_hazmat": true, "reason": "This 'Eau de parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB34266356", "is_hazmat": true, "reason": "This 'Eau de parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB27022289", "is_hazmat": false}
 {"product_id": "MLB25958545", "is_hazmat": false}
 {"product_id": "MLB21598420", "is_hazmat": false}
 {"product_id": "MLB22024383", "is_hazmat": false}
-{"product_id": "MLB19441311", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB19441311", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB19718871", "is_hazmat": false}
 {"product_id": "MLB41503290", "is_hazmat": false}
 {"product_id": "MLB26381354", "is_hazmat": false}
 {"product_id": "MLB19510108", "is_hazmat": false}
 {"product_id": "MLB21921197", "is_hazmat": true, "reason": "This product includes a 'Desodorante Aerosol'. Aerosol sprays and pressurized containers are explicitly listed as Hazmat indicators (Class 2: Gases) in the Hazmat definition.", "confidence": "high"}
-{"product_id": "MLB19156347", "is_hazmat": true, "reason": "This 'Deo parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB19156347", "is_hazmat": true, "reason": "This 'Deo parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB20815672", "is_hazmat": false}
 {"product_id": "MLB23652798", "is_hazmat": true, "reason": "This 'Cola' (glue) may contain flammable solvents, classifying it as a chemical product. Glues are not explicitly non-hazmat and can pose a hazard.", "confidence": "medium"}
 {"product_id": "MLB36742897", "is_hazmat": false}
-{"product_id": "MLB26816282", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB26816282", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB25939495", "is_hazmat": false}
 {"product_id": "MLB44226103", "is_hazmat": false}
 {"product_id": "MLB34508278", "is_hazmat": false}
@@ -5875,16 +5688,16 @@
 {"product_id": "MLB24775813", "is_hazmat": false}
 {"product_id": "MLB19739990", "is_hazmat": false}
 {"product_id": "MLB23187097", "is_hazmat": false}
-{"product_id": "MLB19516546", "is_hazmat": true, "reason": "This 'Desodorante Colônia Spray' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB19516546", "is_hazmat": true, "reason": "This 'Desodorante Colï¿½nia Spray' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB19527682", "is_hazmat": false}
 {"product_id": "MLB41981869", "is_hazmat": false}
 {"product_id": "MLB35369368", "is_hazmat": false}
 {"product_id": "MLB19460000", "is_hazmat": false}
 {"product_id": "MLB21003297", "is_hazmat": false}
 {"product_id": "MLB46467164", "is_hazmat": false}
-{"product_id": "MLB38386404", "is_hazmat": true, "reason": "This 'Colônia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB38386404", "is_hazmat": true, "reason": "This 'Colï¿½nia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB20762080", "is_hazmat": false}
-{"product_id": "MLB33651992", "is_hazmat": true, "reason": "This 'Colônia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB33651992", "is_hazmat": true, "reason": "This 'Colï¿½nia' is an alcohol-based product, classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB19314375", "is_hazmat": false}
 {"product_id": "MLB50266990", "is_hazmat": false}
 {"product_id": "MLB27797605", "is_hazmat": false}
@@ -5893,7 +5706,7 @@
 {"product_id": "MLB19514193", "is_hazmat": false}
 {"product_id": "MLB27649747", "is_hazmat": false}
 {"product_id": "MLB22852863", "is_hazmat": false}
-{"product_id": "MLB20615315", "is_hazmat": true, "reason": "This 'Óleo Essencial De Palmarosa 100% Puro' is a concentrated essential oil, which typically has a low flash point and is classified as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB20615315", "is_hazmat": true, "reason": "This 'ï¿½leo Essencial De Palmarosa 100% Puro' is a concentrated essential oil, which typically has a low flash point and is classified as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB21003801", "is_hazmat": false}
 {"product_id": "MLB20816448", "is_hazmat": false}
 {"product_id": "MLB20759346", "is_hazmat": false}
@@ -5908,13 +5721,13 @@
 {"product_id": "MLB22835162", "is_hazmat": false}
 {"product_id": "MLB29156160", "is_hazmat": false}
 {"product_id": "MLB19777775", "is_hazmat": false}
-{"product_id": "MLB17018207", "is_hazmat": true, "reason": "This 'Eau de cologne' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB17018207", "is_hazmat": true, "reason": "This 'Eau de cologne' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB27500862", "is_hazmat": false}
 {"product_id": "MLB19558799", "is_hazmat": false}
 {"product_id": "MLB43868273", "is_hazmat": false}
 {"product_id": "MLB42744987", "is_hazmat": false}
 {"product_id": "MLB19314286", "is_hazmat": false}
-{"product_id": "MLB41267350", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('É livre de álcool: Não'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
+{"product_id": "MLB41267350", "is_hazmat": true, "reason": "This 'Deo Parfum' is an alcohol-based product ('ï¿½ livre de ï¿½lcool: Nï¿½o'), classifying it as a flammable liquid (Class 3) according to the Hazmat definition.", "confidence": "high"}
 {"product_id": "MLB35966293", "is_hazmat": false}
 {"product_id": "MLB11265538", "is_hazmat": false}
 
@@ -5970,7 +5783,7 @@
 {"product_id": "MLB45588941", "is_hazmat": true, "reason": "Perfumes/colognes typically come in pressurized spray containers, which are Hazmat indicators (Class 2 Gases), even if explicitly stated as alcohol-free.", "confidence": "medium"}
 {"product_id": "MLB10164591", "is_hazmat": true, "reason": "Perfumes/colognes typically come in pressurized spray containers, which are Hazmat indicators (Class 2 Gases), even if explicitly stated as alcohol-free.", "confidence": "medium"}
 {"product_id": "MLB38433335", "is_hazmat": false}
-{"product_id": "MLB22031093", "is_hazmat": true, "reason": "Hair straightening/smoothing treatments ('plástica dos fios') often contain strong chemical active ingredients that can be toxic or corrosive, falling under 'Chemical products' and 'Toxic substances' or 'Corrosive substances' (Class 6 or 8).", "confidence": "high"}
+{"product_id": "MLB22031093", "is_hazmat": true, "reason": "Hair straightening/smoothing treatments ('plï¿½stica dos fios') often contain strong chemical active ingredients that can be toxic or corrosive, falling under 'Chemical products' and 'Toxic substances' or 'Corrosive substances' (Class 6 or 8).", "confidence": "high"}
 {"product_id": "MLB48273683", "is_hazmat": false}
 {"product_id": "MLB25170273", "is_hazmat": false}
 {"product_id": "MLB19558666", "is_hazmat": false}
@@ -6022,9 +5835,9 @@
 
 
 {"product_id": "MLB19085683", "is_hazmat": true, "reason": "Deo Parfum (perfume) contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
-{"product_id": "MLB27509896", "is_hazmat": true, "reason": "Cologne (Colônia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB27509896", "is_hazmat": true, "reason": "Cologne (Colï¿½nia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB26400689", "is_hazmat": false}
-{"product_id": "MLB19475775", "is_hazmat": true, "reason": "Deo-colônia (cologne) contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB19475775", "is_hazmat": true, "reason": "Deo-colï¿½nia (cologne) contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB19848631", "is_hazmat": false}
 {"product_id": "MLB23224981", "is_hazmat": false}
 {"product_id": "MLB30482990", "is_hazmat": false}
@@ -6032,15 +5845,15 @@
 {"product_id": "MLB19320999", "is_hazmat": false}
 {"product_id": "MLB37622450", "is_hazmat": false}
 {"product_id": "MLB20188011", "is_hazmat": false}
-{"product_id": "MLB28499869", "is_hazmat": true, "reason": "Cologne (Colônia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
-{"product_id": "MLB39648843", "is_hazmat": true, "reason": "Cologne (Colônia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB28499869", "is_hazmat": true, "reason": "Cologne (Colï¿½nia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB39648843", "is_hazmat": true, "reason": "Cologne (Colï¿½nia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB21555259", "is_hazmat": false}
 {"product_id": "MLB38282555", "is_hazmat": false}
 {"product_id": "MLB21323722", "is_hazmat": false}
 {"product_id": "MLB24809627", "is_hazmat": false}
 {"product_id": "MLB26243785", "is_hazmat": false}
 {"product_id": "MLB35201572", "is_hazmat": false}
-{"product_id": "MLB20950017", "is_hazmat": true, "reason": "Deo Colônia (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB20950017", "is_hazmat": true, "reason": "Deo Colï¿½nia (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB34265213", "is_hazmat": false}
 {"product_id": "MLB19938576", "is_hazmat": false}
 {"product_id": "MLB47640378", "is_hazmat": false}
@@ -6052,7 +5865,7 @@
 {"product_id": "MLB21460191", "is_hazmat": false}
 {"product_id": "MLB21402132", "is_hazmat": false}
 {"product_id": "MLB27706471", "is_hazmat": false}
-{"product_id": "MLB20614356", "is_hazmat": true, "reason": "Colônia Splash (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB20614356", "is_hazmat": true, "reason": "Colï¿½nia Splash (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB21361292", "is_hazmat": false}
 {"product_id": "MLB19509983", "is_hazmat": false}
 {"product_id": "MLB26978312", "is_hazmat": false}
@@ -6064,7 +5877,7 @@
 {"product_id": "MLB20803156", "is_hazmat": false}
 {"product_id": "MLB20817294", "is_hazmat": false}
 {"product_id": "MLB20756224", "is_hazmat": false}
-{"product_id": "MLB19380807", "is_hazmat": true, "reason": "Cologne (Colônia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB19380807", "is_hazmat": true, "reason": "Cologne (Colï¿½nia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB41740049", "is_hazmat": false}
 {"product_id": "MLB19513844", "is_hazmat": false}
 {"product_id": "MLB20328069", "is_hazmat": false}
@@ -6094,7 +5907,7 @@
 {"product_id": "MLB39020249", "is_hazmat": false}
 {"product_id": "MLB6072121", "is_hazmat": true, "reason": "Eau De Parfum (perfume) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB37947728", "is_hazmat": false}
-{"product_id": "MLB28178062", "is_hazmat": true, "reason": "Cologne (Colônia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB28178062", "is_hazmat": true, "reason": "Cologne (Colï¿½nia) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB19734274", "is_hazmat": false}
 {"product_id": "MLB21643979", "is_hazmat": false}
 {"product_id": "MLB25989435", "is_hazmat": false}
@@ -6108,7 +5921,7 @@
 {"product_id": "MLB19542833", "is_hazmat": false}
 {"product_id": "MLB47727454", "is_hazmat": false}
 {"product_id": "MLB20974145", "is_hazmat": false}
-{"product_id": "MLB38275976", "is_hazmat": true, "reason": "Deo Colônia (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
+{"product_id": "MLB38275976", "is_hazmat": true, "reason": "Deo Colï¿½nia (cologne) typically contains alcohol and is a flammable liquid, classified under Class 3.", "confidence": "high"}
 {"product_id": "MLB19739864", "is_hazmat": false}
 {"product_id": "MLB22802589", "is_hazmat": false}
 {"product_id": "MLB26647904", "is_hazmat": false}
@@ -13252,3 +13065,6 @@
 {"product_id": "MLB42520997", "is_hazmat": false}
 {"product_id": "MLB30196919", "is_hazmat": true, "reason": "It is an 'Inseticida' and 'Vermifugo' (pesticide/dewormer). The definition classifies 'Pesticides' as 'Toxic substances' under Class 6: Toxic and Infectious Substances.", "confidence": "high"}
 
+{"product_id": "MLB43793644", "is_hazmat": true, "reason": "The product is a 'Gas Piston', which contains compressed gas. Compressed gases are classified as Hazmat under Class 2 (Gases) due to the inherent risks associated with pressurized containers, such as rupture or asphyxiation.", "confidence": "high"}
+{"product_id": "MLB43793644", "is_hazmat": true, "reason": "The product is a 'gas piston', which contains compressed gas (likely nitrogen). Compressed gases, including non-flammable ones like nitrogen, are classified as Hazmat under Class 2 (Gases) and are considered pressurized containers.", "confidence": "high"}
+{"product_id": "MLB43793644", "is_hazmat": true, "reason": "The product is a 'PistÃ£o GÃ¡s' (gas piston/strut), which by its nature contains compressed gas. Compressed gases are classified as Class 2 Hazmat, as they pose a risk due to pressure, even if the gas itself is non-flammable or non-poisonous.", "confidence": "high", "CLASSIFIER_NAME": "classifier_v1", "LLM_MODEL": "gemini/gemini-2.5-flash"}

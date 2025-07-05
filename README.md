@@ -75,7 +75,7 @@ hazmat-classifier/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/hazmat-classifier.git
+    git clone https://github.com/gsimassouza/hazmat-classifier.git
     cd hazmat-classifier
     ```
 
