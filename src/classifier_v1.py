@@ -14,7 +14,7 @@ from src.config import (
     HAZMAT_CLASSIFIER_MODEL,
 )
 from src.llm_utils import call_llm
-from src.data_utils import extract_from_tag
+from src.data_utils import extract_from_tag, get_hazmat_definition
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -29,14 +29,6 @@ class HazmatClassification(BaseModel):
     is_hazmat: bool = Field(..., description="Indicates whether the product is classified as a Hazmat.")
     reason: Optional[str] = Field(None, description="The reason for the classification, if the product is a Hazmat.")
     confidence: Optional[Confidence] = Field(None, description="The confidence level of the classification, if the product is a Hazmat.")
-
-def get_hazmat_definition():
-    try:
-        with open(HAZMAT_DEFINITION_FILE, "r", encoding='utf8') as f:
-            return f.read()
-    except FileNotFoundError:
-        logging.error(f"Hazmat definition file not found at: {HAZMAT_DEFINITION_FILE}")
-        raise
 
 def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=None, output_csv_name=None):
     hazmat_def = get_hazmat_definition()
