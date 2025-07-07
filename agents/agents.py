@@ -9,17 +9,7 @@ from google.genai import types # For creating message Content/Parts
 from src.prompts import SDS_AGENT_INSTRUCTION
 
 # --- Hazmat SDS Agent Setup ---
-def create_sds_search_agent(model='gemini-2.5-flash', user_id="user_1", session_id="session_001"):
-    app_name = "hazmat_sds_app"
-    session_service = InMemorySessionService()
-    # Create session synchronously
-    async def create_session():
-        return await session_service.create_session(
-            app_name=app_name,
-            user_id=user_id,
-            session_id=session_id
-        )
-    asyncio.run(create_session())
+def create_sds_search_agent(model='gemini-2.5-flash'):
     agent = Agent(
         name="HazmatSDSFinder",
         model=model,
@@ -27,26 +17,11 @@ def create_sds_search_agent(model='gemini-2.5-flash', user_id="user_1", session_
         instruction=SDS_AGENT_INSTRUCTION,
         tools=[google_search]
     )
-    runner = Runner(
-        agent=agent,
-        app_name=app_name,
-        session_service=session_service
-    )
-    return runner
+    return agent
 
 
 # --- Composition Search Agent Setup ---
-def create_composition_search_agent(model='gemini-2.5-flash', user_id="user_1", session_id="session_001"):
-    app_name = "hazmat_composition_app"
-    session_service = InMemorySessionService()
-    # Create session synchronously
-    async def create_session():
-        return await session_service.create_session(
-            app_name=app_name,
-            user_id=user_id,
-            session_id=session_id
-        )
-    asyncio.run(create_session())
+def create_composition_search_agent(model='gemini-2.5-flash'):
     agent = Agent(
         name="HazmatCompositionFinder",
         model=model,
@@ -54,15 +29,27 @@ def create_composition_search_agent(model='gemini-2.5-flash', user_id="user_1", 
         instruction="You will receive product information and must search for its chemical composition. If the composition contains hazardous materials, return 'yes', otherwise return 'no'.",
         tools=[google_search]
     )
+    return agent
+
+# --- Query Function ---
+def query_agent(agent, product_query, session_id="session_001", user_id="user_1"):
+    app_name = agent.name
+    session_service = InMemorySessionService()
+    # Create new session for each call, for resetting context
+    async def create_session():
+        return await session_service.create_session(
+            app_name=app_name,
+            user_id=user_id,
+            session_id=session_id
+        )
+    asyncio.run(create_session())
+
     runner = Runner(
         agent=agent,
         app_name=app_name,
         session_service=session_service
     )
-    return runner
-
-# --- Query Function ---
-def query_agent(runner, product_query, user_id="user_1", session_id="session_001"):
+    
     content = types.Content(role='user', parts=[types.Part(text=product_query)])
     final_response_text = "Agent did not produce a final response."
     for event in runner.run(user_id=user_id, session_id=session_id, new_message=content):

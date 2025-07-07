@@ -97,3 +97,4 @@ def get_hazmat_definition():
     except FileNotFoundError:
         logging.error(f"Hazmat definition file not found at: {HAZMAT_DEFINITION_WITH_EXAMPLES_FILE}")
         raise
+

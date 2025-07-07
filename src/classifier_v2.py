@@ -7,7 +7,7 @@ from src.data_utils import get_hazmat_definition, extract_from_tag
 from src.config import DATA_DIR, INFO_EXTRACTOR_MODEL, DEFAULT_MODEL, SEARCH_AGENT_MODEL, NON_HAZMAT_PRODUCTS
 from src.llm_utils import call_llm
 from agents.agents import create_sds_search_agent, create_composition_search_agent, query_agent
-from src.prompts import HAZMAT_CLASSIFIER_SYSTEM_MSG, HAZMAT_JSON_EXTRACTOR_SYSTEM_MSG, NON_HAZMAT_LIST_CHECK_PROMPT, SDS_FOUND_EXTRACTION_PROMPT, HAZMAT_CLASSIFIER_WITH_JSON_OUTPUT_SYSTEM_MSG
+from src.prompts import HAZMAT_CLASSIFIER_SYSTEM_MSG_V2, HAZMAT_JSON_EXTRACTOR_SYSTEM_MSG, NON_HAZMAT_LIST_CHECK_PROMPT, SDS_FOUND_EXTRACTION_PROMPT, HAZMAT_CLASSIFIER_WITH_JSON_OUTPUT_SYSTEM_MSG
 
 
 def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_name=None):
@@ -30,11 +30,9 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
         return
 
     # Filter by product_ids if provided
-    if product_ids:
-        products_df = products_df[products_df['PRODUCT_ID'].isin(product_ids)]
-        if len(products_df) < len(product_ids):
-            missing_ids = set(product_ids) - set(products_df['PRODUCT_ID'])
-            logging.warning(f"Some product IDs not found in the dataset: {missing_ids}")
+    if not product_ids:
+        # get unique product ids from dataframe
+        product_ids = products_df['PRODUCT_ID'].unique()
 
     products_df.drop(columns=['IS_HAZMAT', 'REASON', 'CONFIDENCE'], inplace=True, errors='ignore')
 
@@ -44,8 +42,8 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
 
     # Process products row by row using iterrows
     results = []
-    for idx, row in products_df.iterrows():
-        
+    for id in product_ids:
+        row = products_df[products_df['PRODUCT_ID'] == id].iloc[0]
         product_id = row.get('PRODUCT_ID')
         product_title = row.get('TITLE')
         product_attributes = row.get('ATTRIBUTES')
@@ -72,7 +70,7 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
             continue
 
         # Second step: Query SDS agent and then check if SDS or FISPQ documents were found
-        sds_info = query_agent(sds_search_agent, f"Find the SDS or FISPQ for {product_title}.")
+        sds_info = query_agent(sds_search_agent, f"Find the SDS or FISPQ for {product_title}.", session_id=product_id)
         res = call_llm(
             system=SDS_FOUND_EXTRACTION_PROMPT,
             prompt=sds_info,
@@ -83,9 +81,9 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
         if sds_found.strip().lower() == "yes":
             # Send the SDS information to classifier agent
             res = call_llm(
-                system=HAZMAT_CLASSIFIER_SYSTEM_MSG.format(
+                system=HAZMAT_CLASSIFIER_SYSTEM_MSG_V2.format(
                     hazmat_def=hazmat_def,
-                    output_json_schema=HazmatClassification.model_json_schema(),
+                    json_schema=HazmatClassification.model_json_schema(),
                 ),
                 prompt=f"""
                 Product information:
@@ -99,8 +97,7 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
             # Extract JSON content from the response
             res = call_llm(
                 system=HAZMAT_JSON_EXTRACTOR_SYSTEM_MSG.format(
-                    hazmat_def=hazmat_def,
-                    output_json_schema=HazmatClassification.model_json_schema(),
+                    json_schema=HazmatClassification.model_json_schema(),
                 ),
                 prompt=res,
                 model=INFO_EXTRACTOR_MODEL,
@@ -114,11 +111,11 @@ def classify_products_v2(dataset_name="dataset_1", product_ids=None, output_csv_
         
 
         # Fourth step: Check for chemicals quantities in composition 
-        composition_info = query_agent(composition_search_agent, f"Find the chemical composition for {product_title}.")
+        composition_info = query_agent(composition_search_agent, f"Find the chemical composition for {product_title}.", session_id=product_id)
         res = call_llm(
-            system=HAZMAT_CLASSIFIER_WITH_JSON_OUTPUT_SYSTEM_MSG.format(
+            system=HAZMAT_CLASSIFIER_SYSTEM_MSG_V2.format(
                 hazmat_def=hazmat_def,
-                output_json_schema=HazmatClassification.model_json_schema(),
+                json_schema=HazmatClassification.model_json_schema(),
             ),
             prompt=f"""
             Product information:
