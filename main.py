@@ -40,7 +40,7 @@ def main():
         if args.classifier == "v1":
             classify_products_v1(args.dataset_name, args.batch_size, product_ids=args.product_ids, output_csv_name=args.output_csv_name)
         elif args.classifier == "v2":
-            classify_products_v2(args.dataset_name, args.batch_size, product_ids=args.product_ids, output_csv_name=args.output_csv_name)
+            classify_products_v2(args.dataset_name, product_ids=args.product_ids, output_csv_name=args.output_csv_name)
         logging.info("Classification finished.")
 
 if __name__ == "__main__":

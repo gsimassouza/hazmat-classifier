@@ -7,7 +7,7 @@ import json
 import os
 import logging
 from typing import List, Dict, Any, Optional
-from src.config import HAZMAT_DEFINITION_FILE
+from src.config import HAZMAT_DEFINITION_WITH_EXAMPLES_FILE
 
 def load_jsonl(file_path: str, encoding: str = "utf-8") -> List[Dict[str, Any]]:
     """Load a JSONL file, returning a list of dicts. Tries utf-8, then latin-1."""
@@ -92,8 +92,8 @@ def extract_from_tag(text: str, tag: str) -> Optional[str]:
 
 def get_hazmat_definition():
     try:
-        with open(HAZMAT_DEFINITION_FILE, "r", encoding='utf8') as f:
+        with open(HAZMAT_DEFINITION_WITH_EXAMPLES_FILE, "r", encoding='utf8') as f:
             return f.read()
     except FileNotFoundError:
-        logging.error(f"Hazmat definition file not found at: {HAZMAT_DEFINITION_FILE}")
+        logging.error(f"Hazmat definition file not found at: {HAZMAT_DEFINITION_WITH_EXAMPLES_FILE}")
         raise

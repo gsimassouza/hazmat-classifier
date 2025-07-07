@@ -24,11 +24,11 @@ The pipeline is designed to be modular, configurable, and reproducible.
 
 ## Architecture
 
-This diagram illustrates the currently implemented architecture of the Hazmat Classifier pipeline.
+This diagram illustrates the first implemented architecture of the Hazmat Classifier pipeline (`classifier_v1.py`).
 
 ![Architecture V1](docs/img/architecture-v1.png)
 
-A proposed updated architecture for future enhancements.
+This diagram shows a more advanced classification approach, including agentic search for enhancing context for classification (`classifier_v2.py`)
 
 ![Architecture V2](docs/img/architecture-v2.png)
 
@@ -48,28 +48,8 @@ The pipeline consists of three main stages:
 
 3.  **Classification (`classifier_v1.py` and `classifier_v2.py`):**
     - Reads the processed CSV file.
-    - Sends product information to an LLM in batches.
-    - The LLM classifies each product as Hazmat or not based on a provided definition.
+    - Uses LLM workflows/agents to classify each product as Hazmat or not. 
     - Saves the classified data to a new CSV file, along with the LLM's reasoning and confidence level.
-
-## Directory Structure
-
-```
-hazmat-classifier/
-├── data/
-│   ├── dataset_1/
-│   └── hazmat-definition.md
-├── docs/
-│   └── img/
-├── notebooks/
-├── src/
-├── .env.example
-├── main.py
-├── poetry.lock
-├── prompts.txt
-├── pyproject.toml
-└── README.md
-```
 
 ## Installation
 

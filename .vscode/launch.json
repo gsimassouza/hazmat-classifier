@@ -14,7 +14,8 @@
             "args": [
                 "--skip-data-collection",
                 "--skip-data-processing",
-                "--product-ids", "MLB43793644",
+                "--classifier", "v2",
+                "--product-ids", "MLB51527897", "MLB44664162",
                 "--output-csv-name", "test.csv"
             ]
             

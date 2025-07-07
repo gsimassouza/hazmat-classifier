@@ -2,33 +2,21 @@ import pandas as pd
 import json
 import os
 import logging
-from pydantic import BaseModel, Field
-from typing import Optional
-from enum import Enum
+from src.models import Confidence, HazmatClassification
 from dotenv import load_dotenv
+from src.prompts import HAZMAT_CLASSIFIER_SYSTEM_MSG, HAZMAT_JSON_EXTRACTOR_SYSTEM_MSG
 
 from src.config import (
     DATA_DIR,
-    HAZMAT_DEFINITION_FILE,
-    JSON_EXTRACTOR_MODEL,
-    HAZMAT_CLASSIFIER_MODEL,
+    HAZMAT_DEFINITION_WITH_EXAMPLES_FILE,
+    INFO_EXTRACTOR_MODEL,
+    DEFAULT_MODEL,
 )
 from src.llm_utils import call_llm
 from src.data_utils import extract_from_tag, get_hazmat_definition
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-class Confidence(Enum):
-    LOW = "low"
-    MEDIUM = "medium"
-    HIGH = "high"
-
-class HazmatClassification(BaseModel):
-    product_id: str = Field(..., description="The unique identifier of the product.")
-    is_hazmat: bool = Field(..., description="Indicates whether the product is classified as a Hazmat.")
-    reason: Optional[str] = Field(None, description="The reason for the classification, if the product is a Hazmat.")
-    confidence: Optional[Confidence] = Field(None, description="The confidence level of the classification, if the product is a Hazmat.")
 
 def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=None, output_csv_name=None):
     hazmat_def = get_hazmat_definition()
@@ -49,24 +37,14 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
 
     products_df.drop(columns=['IS_HAZMAT', 'REASON', 'CONFIDENCE'], inplace=True, errors='ignore')
 
-    hazmat_classifier_system_msg = f"""
-    You are a domain-expert Hazmat classifier. Your task is to analyze the products below and determine, for each, if it is Hazmat or not, based on the definition provided between <hazmat_definition> tags.\n
-    You must base your analysis on the following JSON schema, which describes the required analysis for each product in the fields:\n
-    <json_schema>{HazmatClassification.model_json_schema()}</json_schema>\n
-    Before answering, you must output your detailed reasoning process.\n
-    Hazmat definition: <hazmat_definition>{hazmat_def}</hazmat_definition>\n
-    Guidelines:\n
-    - Always refer to the Hazmat definition to address the classification. Do not suppose anything. If not certain of the classification, output as hazmat with lower confidence.\n
-    - Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.\n
-    """
-
-    hazmat_json_extractor_system_msg = f"""
-    You are a domain-expert Hazmat classifier. Based on the analysis below, extract and output the final answer as a jsonl structure, located between <jsonl> tags, with each line following this schema (one line per product): <json_schema>{HazmatClassification.model_json_schema()}</json_schema>.\n
-    Guidelines:\n
-    - For the tag <jsonl>: The final answer must be a valid jsonl structure, with each line following the schema provided.\n
-    - If not certain of the classification, output as hazmat with lower confidence.\n
-    - Only output a product as non-hazmat if you are absolutely certain that it is not a Hazmat according to the definition provided.\n
-    """
+    hazmat_classifier_system_msg = HAZMAT_CLASSIFIER_SYSTEM_MSG.format(
+        json_schema=HazmatClassification.model_json_schema(),
+        hazmat_def=hazmat_def
+    )
+    hazmat_json_extractor_system_msg = HAZMAT_JSON_EXTRACTOR_SYSTEM_MSG.format(
+        json_schema=HazmatClassification.model_json_schema(),
+        hazmat_def=hazmat_def
+    )
 
     output_jsonl = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}_classified_products.jsonl")
     log_file = os.path.join(DATA_DIR, dataset_name, f"{dataset_name}_raw_log.txt")
@@ -80,14 +58,14 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
             raw_response = call_llm(
                 system=hazmat_classifier_system_msg,
                 prompt=f"Products to classify:\n{batch_list}",
-                model=HAZMAT_CLASSIFIER_MODEL,
+                model=DEFAULT_MODEL,
             )
             
             logging.info("Raw response received, formatting to JSONL...")
             formatted_response = call_llm(
                 system=hazmat_json_extractor_system_msg,
                 prompt=raw_response,
-                model=JSON_EXTRACTOR_MODEL,
+                model=INFO_EXTRACTOR_MODEL,
             )
         except Exception as e:
             logging.error(f"Error during LLM call for batch {i//batch_size + 1}: {e}")
@@ -103,7 +81,7 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
                 try:
                     row = json.loads(line)
                     row["CLASSIFIER_NAME"] = "classifier_v1"
-                    row["LLM_MODEL"] = HAZMAT_CLASSIFIER_MODEL
+                    row["LLM_MODEL"] = DEFAULT_MODEL
                     updated_lines.append(json.dumps(row, ensure_ascii=False))
                 except Exception as e:
                     logging.warning(f"Could not update jsonl line: {line} ({e})")
@@ -149,7 +127,7 @@ def classify_products_v1(dataset_name="dataset_1", batch_size=100, product_ids=N
             if col == "CLASSIFIER_NAME":
                 products_df[col] = "classifier_v1"
             elif col == "LLM_MODEL":
-                products_df[col] = HAZMAT_CLASSIFIER_MODEL
+                products_df[col] = DEFAULT_MODEL
             else:
                 products_df[col] = None
 
